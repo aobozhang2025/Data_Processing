@@ -1,0 +1,87 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Preparation of catalysts. α-MoC support. Ammonium paramolybdate ((NH 4 ) 6 Mo 7 O 24 •4H 2 O) was purchased from Sinopharm Chemical Reagent Co. Ltd. A grinded powder of ammonium paramolybdate was calcined in a muffle oven to 500 °C at a rate of 10 °C min −1 to synthesize the precursor MoO 3 . Then 0.8 g MoO 3 was loaded into a quartz tube reactor and placed in a vertical furnace. The powder was heated to 700 °C in NH 3 (100 ml min −1 ; pre-purified gas) at a rate of 5 °C min −1 and kept at 700 °C for 2 hours. After the sample was cooled to room temperature, the gas was then switched to a CH 4 /H 2 mixture (100 ml min −1 ; 20/80 v/v), and the temperature was increased to 700 °C at 5 °C min −1 and held at 700 °C for 2 hours. Finally, the sample was passivated at room temperature using a 0.5% O 2 /He gas mixture 29 . Elemental analysis finds that the Mo/C ratio of α -MoC is around 1/0.8. β-Mo 2 C support. β -Mo 2 C was synthesized using the same precursor as α -MoC, as follows: 0.8 g MoO 3 was loaded in the quartz tube and carburized with a CH 4 /H 2 mixture (100 ml min −1 ; 20/80 v/v), with the temperature being increased at 5 °C min −1 to 300 °C, then at 1 °C min −1 to 700 °C. After carburization at 700 °C for 2 hours, the sample was cooled to room temperature and passivated using a 0.5% O 2 /He gas mixture. 2%Pt/β-Mo 2 C catalyst. The passivated β -Mo 2 C support was transferred to a deaerated, aqueous solution containing an appropriate amount of chloroplatinic acid (H 2 PtCl 6 •6H 2 O) to achieve the desired loading. The slurry was stirred for 3 hours, dried using evaporation, and then transferred to a freeze dryer overnight to remove any moisture. Before catalytic evaluation, the catalyst was activated with a CH 4 /H 2 mixture (15/85 v/v). The activation temperature program heated the sample to 300 °C and held it there for 1 hour. The temperature was then increased to 590 °C at a rate of 5 °C min −1 and held there for another 2 hours. 2%Pt/α-MoC and 2%Pt/MoC-2 catalysts. An appropriate amount of H 2 PtCl 6 •6H 2 O was loaded onto a homemade MoO 3 support, using a wetness impregnation method. (To synthesize MoO 3 , an appropriate amount of ammonium paramo- lybdate was dissolved into pure water, adjusting the pH of the solution to 3.7. The solution underwent ultrasonication for 2 hours. The precipitates thus gener- ated were separated by evaporation of solvent and dried at 60 °C under a vacuum overnight. The precipitates were then grinded into powder and calcined in air at 500 °C for 4 hours.) After being dried at room temperature under vacuum, the sample was calcined at 500 °C for 4 hours. For Pt/α -MoC, the calcined Pt/MoO 3 was carburized using the same procedure as for the synthesis of β -Mo 2 C. For Pt/MoC-2, MoO 3 impregnated with H 2 PtCl 6 was carburized directly without calcination in air at 500 °C. 2%Pt/MoC-3 catalysts. An appropriate amount of H 2 PtCl 6 •6H 2 O aqueous solution was added into the ammonium paramolybdate solution dropwise under stirring. A yellow precipitant was thus generated. The solvent was evaporated at 90 °C and the precipitant was dried at 120 °C for 3 hours to ensure that the powder was dried 30 . Then the sample was carburized (as for β -Mo 2 C) directly to obtain 2%Pt/MoC-3. 2%Pt/Al 2 O 3 and 2%Pt/TiO 2 . These reference catalysts were synthesized using wet impregnation of H 2 PtCl 6 •6H 2 O over commercial Al 2 O 3 and TiO 2 supports 12 . The slurry was stirred for 3 hours in air to remove the liquid, using the rotary evaporator under vacuum at 35 °C. The material was dried at 120 °C for 3 hours, and then calcined in the muffle oven at 500 °C. The Pt loading is 2%. The catalysts were reduced with H 2 before catalytic evaluation. Pt/α-MoC catalysts with different Pt loadings. Pt/α -MoC catalysts with 2.2 wt%, 3.1 wt%, 5.1 wt% and 7.4 wt% Pt loadings were prepared as for Pt/α -MoC. Samples with 0.2 wt% and 0.7 wt% Pt loading were prepared using the wetness impreg- nation method with activated α -MoC as the support. The catalysts are denoted x%Pt/α -MoC, where x denotes the rough weight concentration of Pt (x = 0.2, 1, 2, 3, 5 or 7). Evaluation of catalytic performance. Before their performance was evaluated, all Pt/MoC catalysts were activated in a CH 4 /H 2 mixture (15/85 v/v) at 590 °C for 2 hours. The Pt/oxide catalysts were activated in H 2 flow at 500 °C. After being cooled to room temperature, the activated sample was transferred into de-aerated water in the autoclave under the protection of a N 2 flow. The sealed autoclave was purged using 2 MPa N 2 (10 vol% Ar was used as an internal standard) three times. The catalytic reactions were carried out at 190 °C (the pressure of the system was as high as 6 MPa), and after the reaction the gas phase was analysed using an Agilent 7820 gas chromatograph with a thermal conductivity detector (TCD). We quantified the gas-phase concentration of H 2 , CO and CH 4 ; however, we could not accurately determine the concentration of CO 2 owing to its high solubility in the liquid phase, especially at high pressures. We analysed the liquid-phase products on an Agilent HPLC 1200 using a Prevail carbohydrate ES 5-μ m column. To generate the results shown in Fig. 1d, for each cycle, the system was reacted at 190 °C for 1.25 hours. After cooling down to room temperature, the gases were analysed by gas chromatography and then released. Then the system was reheated to 190 °C
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalysts and procedures from a detailed paragraph. Let me analyze this carefully.
+
+First, I notice this is quite a complex text with multiple catalysts being synthesized. The main catalysts described are: α-MoC, β-Mo₂C, and various platinum-loaded versions like 2%Pt/β-Mo₂C, 2%Pt/α-MoC, and several Pt/α-MoC with different loadings. There are also some reference catalysts like Pt/Al₂O₃ and Pt/TiO₂ mentioned.
+
+The synthesis procedures are highly detailed with specific temperature programs, gas flow rates, and precursor materials. For α-MoC, they start with ammonium paramolybdate, calcine it to MoO₃, then do ammonia treatment followed by carburization with CH₄/H₂. The β-Mo₂C synthesis is similar but skips the ammonia step and has a different temperature ramp. 
+
+For the platinum-loaded catalysts, there are different approaches: some use impregnation on pre-made carbide supports, others co-impregnate platinum with the molybdenum precursor before carburization. The MoC-2 and MoC-3 variants seem to be modified synthesis routes with different pretreatment steps.
+
+The evaluation section describes how they tested these catalysts in an autoclave system at high pressure and temperature, with detailed GC and HPLC analysis procedures. But since the user specifically asked about synthesis, I should focus on that part.
+
+I should organize this clearly by catalyst type, making sure to capture all critical parameters: precursors, temperature ramps, holding times, gas compositions, and any special treatments like passivation. The elemental analysis showing Mo/C ratio for α-MoC is also important to note.
+
+The user seems knowledgeable about chemistry based on the technical nature of the query, so I'll maintain professional terminology while ensuring clarity. They probably need this for research or documentation purposes, so accuracy with all numerical values (temperatures, flow rates, percentages) is crucial.
+
+I'll structure the response starting with the carbide supports, then move to platinum-loaded versions, and finally mention the reference catalysts and evaluation methods briefly since they're not the primary focus. For each catalyst, I'll present the synthesis as a step-by-step procedure mirroring the text's sequence.
+
+answer: 
+
+Based on the provided text, here is a professional chemist's summary of the catalysts synthesized and their detailed procedures:
+
+**1. α-Molybdenum Carbide (α-MoC) Support**
+*   **Precursor:** Ammonium paramolybdate ((NH₄)₆Mo₇O₂₄•4H₂O)
+*   **Procedure:**
+    1.  **MoO₃ Synthesis:** Grind ammonium paramolybdate powder. Calcinate in a muffle oven at 10 °C min⁻¹ to 500 °C (holding time not specified).
+    2.  **Ammonia Treatment:** Load 0.8 g MoO₃ into a quartz tube reactor. Heat to 700 °C at 5 °C min⁻¹ under flowing NH₃ (100 ml min⁻¹, pre-purified). Hold at 700 °C for 2 hours. Cool to room temperature under NH₃.
+    3.  **Carburization:** Switch gas to CH₄/H₂ mixture (100 ml min⁻¹; 20/80 v/v). Heat to 700 °C at 5 °C min⁻¹. Hold at 700 °C for 2 hours.
+    4.  **Passivation:** Cool to room temperature. Passivate with 0.5% O₂/He gas mixture.
+*   **Composition:** Mo/C ≈ 1/0.8 (Elemental Analysis).
+
+**2. β-Molybdenum Carbide (β-Mo₂C) Support**
+*   **Precursor:** Ammonium paramolybdate ((NH₄)₆Mo₇O₂₄•4H₂O) - MoO₃ synthesized as for α-MoC (calcined at 500 °C).
+*   **Procedure:**
+    1.  **Carburization:** Load 0.8 g MoO₃ into quartz tube. Carburize with CH₄/H₂ mixture (100 ml min⁻¹; 20/80 v/v). Heat at 5 °C min⁻¹ to 300 °C, then at 1 °C min⁻¹ to 700 °C. Hold at 700 °C for 2 hours.
+    2.  **Passivation:** Cool to room temperature. Passivate with 0.5% O₂/He gas mixture.
+
+**3. 2% Platinum on β-Mo₂C (2%Pt/β-Mo₂C)**
+*   **Support:** Passivated β-Mo₂C (synthesized above).
+*   **Procedure:**
+    1.  **Impregnation:** Transfer passivated β-Mo₂C to a deaerated aqueous solution of chloroplatinic acid (H₂PtCl₆•6H₂O) calculated for 2 wt% Pt loading. Stir slurry for 3 hours.
+    2.  **Drying:** Dry via evaporation. Freeze-dry overnight to remove moisture.
+    3.  **Activation (Pre-reaction):** Activate in a CH₄/H₂ mixture (15/85 v/v). Heat to 300 °C, hold for 1 hour. Then heat to 590 °C at 5 °C min⁻¹, hold for 2 hours. *(Note: This is distinct from the support passivation step)*.
+
+**4. 2% Platinum on α-MoC (2%Pt/α-MoC)**
+*   **Procedure:**
+    1.  **Homemade MoO₃ Support Synthesis:** Dissolve ammonium paramolybdate in pure water. Adjust pH to 3.7. Ultrasonicate for 2 hours. Separate precipitates by solvent evaporation. Dry at 60 °C under vacuum overnight. Grind powder. Calcinate in air at 500 °C for 4 hours.
+    2.  **Impregnation:** Impregnate homemade MoO₃ with H₂PtCl₆•6H₂O aqueous solution using wetness impregnation (amount for 2% Pt). Dry at room temperature under vacuum.
+    3.  **Calcination:** Calcinate Pt/MoO₃ at 500 °C for 4 hours.
+    4.  **Carburization:** Carburize the calcined Pt/MoO₃ using the **β-Mo₂C synthesis procedure** (CH₄/H₂, 5°C/min to 300°C, 1°C/min to 700°C, hold 2h, cool, passivate with 0.5% O₂/He).
+
+**5. 2% Platinum on MoC-2 (2%Pt/MoC-2)**
+*   **Procedure:**
+    1.  **Homemade MoO₃ Support Synthesis:** Same as for Pt/α-MoC (dissolve APM, pH 3.7, ultrasonicate 2h, evaporate, dry 60°C vacuum, grind, calcine 500°C 4h air).
+    2.  **Impregnation:** Impregnate homemade MoO₃ with H₂PtCl₆•6H₂O aqueous solution (for 2% Pt) using wetness impregnation. Dry at room temperature under vacuum. *(Crucially, NO calcination in air at 500°C is performed here)*.
+    3.  **Carburization:** Carburize the dried (non-calcined) Pt/MoO₃ using the **β-Mo₂C synthesis procedure**.
+
+**6. 2% Platinum on MoC-3 (2%Pt/MoC-3)**
+*   **Procedure:**
+    1.  **Co-precipitation:** Add H₂PtCl₆•6H₂O aqueous solution (for 2% Pt) dropwise to an ammonium paramolybdate solution under stirring, forming a yellow precipitate.
+    2.  **Drying:** Evaporate solvent at 90 °C. Dry precipitate at 120 °C for 3 hours.
+    3.  **Carburization:** Carburize the dried precipitate directly using the **β-Mo₂C synthesis procedure**.
+
+**7. Reference Catalysts: 2%Pt/Al₂O₃ & 2%Pt/TiO₂**
+*   **Supports:** Commercial Al₂O₃ and TiO₂.
+*   **Procedure:**
+    1.  **Impregnation:** Wet impregnation with H₂PtCl₆•6H₂O aqueous solution (for 2% Pt). Stir slurry for 3 hours in air.
+    2.  **Drying:** Remove liquid using rotary evaporator under vacuum at 35 °C. Dry solid at 120 °C for 3 hours.
+    3.  **Calcination:** Calcinate in muffle oven at 500 °C.
+    4.  **Activation (Pre-reaction):** Reduce with H₂ flow before catalytic evaluation.
+
+**8. Platinum on α-MoC with Varying Loadings (x%Pt/α-MoC)**
+*   **x = 0.2%, 0.7%:** Use activated α-MoC as support. Apply wetness impregnation with H₂PtCl₆•6H₂O solution. (Activation procedure not detailed here, likely similar to step 3.3 for Pt/β-Mo₂C).
+*   **x = 1%, 2%, 3%, 5%, 7% (actual wt%: 2.2%, 3.1%, 5.1%, 7.4%):** Synthesized using the **same procedure as 2%Pt/α-MoC** (Impregnate homemade MoO₃, dry vacuum RT, calcine 500°C 4h, carburize via β-Mo₂C procedure).
+
+**Catalyst Activation Prior to Evaluation:**
+*   **All Pt/MoC catalysts:** Activated in CH₄/H₂ mixture (15/85 v/v) at 590 °C for 2 hours.
+*   **Pt/Oxide catalysts (Pt/Al₂O₃, Pt/TiO₂):** Activated in H₂ flow at 500 °C.
+
+**Evaluation Method Summary:**
+Catalytic performance was evaluated in an autoclave for reactions at 190 °C (~6 MPa). Gas phase (H₂, CO, CH₄; Ar internal standard) analyzed by GC-TCD. Liquid phase analyzed by HPLC. Cyclic tests involved reaction for 1.25 hours at 190 °C, cooling, GC analysis, gas release, and reheating.
