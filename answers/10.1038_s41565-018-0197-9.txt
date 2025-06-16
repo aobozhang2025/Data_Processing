@@ -1,0 +1,216 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis. Preparation of PVP-stabilized Pd-NPs. We dissolved 34 mg KI and 100 mg PVP (M w ~55,000) in 10 ml formamide and heated the solution at 120 °C (ref. 41). Then, 59 mg Na 2 PdCl 4 powder was added and the temperature was maintained for 10 min with vigorous stirring. After the mixture was cooled down to room temperature, 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. The obtained Pd nanoparticles were dispersed in 21 ml mixed solvent (volume ratio DMF:methanol is 4:1).
+
+Preparation of Pd-NPs supported on ZIF-8 and pyrolysis treatment. First, pure ZIF-8 powder was synthesized. 1,069 mg Zn(NO 3 ) 2 ·6H 2 O was dissolved in 15 ml mixed solvent (DMF:methanol, 4:1.) under ultrasound for 5 min to form a clear solution in flask A. 1,161 mg 2-methylimidazole was dissolved in 10 ml mixed solvent (DMF:methanol, 4:1.) under ultrasound for 5 min to form a clear solution in flask B. Then, we added flask B into flask A at room temperature and kept the temperature constant for 12 h without stirring. The obtained pure ZIF-8 powder was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol three times and dried at 70 °C for 5 h. Then, we mixed the pure ZIF-8 powder with 0.5 ml as-prepared Pd nanoparticles dispersed in DMF:methanol solution (~1 mg Pd ml–1) and evaporated the solvent to obtain Pd-NPs supported on ZIF-8. We transferred the power of Pd-NPs supported on ZIF-8 into a ceramic boat and placed it in a tube furnace. The sample was heated to 900 °C with a heating rate of 5 °C min–1 and kept at 900 °C for 3 h under flowing nitrogen gas and then cooled to room temperature naturally.
+
+Preparation of PVP-stabilized Pt-NPs. We dissolved 77.6 mg K 2 PtCl 6 and 88.8 mg PVP (M w ~55,000) in 20 ml water, stirred the solution for 10 min, then transferred the solution to a 50 ml Teflon-lined stainless steel autoclave and sealed the container in a stainless steel bomb42. We heated the system at 160 °C under autogenous pressure for 8 h in an oven. The container was cooled down to room temperature naturally after the reaction. 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. The obtained Pt nanoparticles were dispersed in 31 ml methanol.
+
+Preparation of PVP-stabilized Au-NPs. PVP (K30, 1.2 mmol in monomer unit) was added into an aqueous solution of HAuCl 4 ·3H 2 O (1 mM, 30 ml) under ultrasound for 10 min (ref. 43). After stirring the mixture for 30 min at 0 °C by ice bath, we added an aqueous solution of NaBH 4 (0.1 M, 3 ml) to the mixture under vigorous stirring and kept the temperature constant for another 30 min. After the reaction, 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. The obtained Au nanoparticles were washed with water several times and centrifuged by ultrafiltration centrifuge tube with a molecular weight cut-off membrane (MWCO = 10 kDa) at 10,000 r.p.m. for 5 min. Finally, the Au nanoparticles were dispersed in 6 ml methanol.
+
+Preparation of Pd-NPs@ZIF-8. 1,069 mg Zn(NO 3 ) 2 ·6H 2 O was dissolved in 15 ml mixed solvent (volume ratio DMF:methanol is 4:1) under ultrasound for 5 min to form a clear solution in flask A. Then 0.5 ml as-prepared Pd nanoparticles dispersed in DMF and methanol solution (~1 mg Pd ml–1) was added into flask A. 1,161 mg 2-methylimidazole was dissolved in 10 ml mixed solvent (DMF:methanol, 4:1.) under ultrasound for 5 min to form a clear solution in flask B. Then, we added the contents of flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol three times and finally dried at 70 °C for 5 h.
+
+Preparation of Pt-NPs@ZIF-8. 1,069 mg Zn(NO 3 ) 2 ·6H 2 O was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask A. Then 0.3 ml as-prepared Pt nanoparticles dispersed in methanol solution (~1 mg Pt ml–1) was added into flask A. 1,161 mg 2-methylimidazole was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask B. Then, we added flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol three times and finally dried at 70 °C for 5 h.
+
+Preparation of Au-NPs@ZIF-8. 1,069 mg Zn(NO 3 ) 2 ·6H 2 O was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask A. Then 0.3 ml as-prepared Au nanoparticles dispersed in methanol solution (~1 mg Au ml–1) was added into flask A. 1,161 mg 2-methylimidazole was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask B. Then, we added flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol for three times and finally dried at 70 °C for 5 h.
+
+Preparation of Pd-SAs. We transferred Pd-NPs@ZIF-8 powder into a ceramic boat and placed it in a tube furnace. The sample was heated to 900 °C with a heating rate of 5 °C min–1 and kept at 900 °C for 3 h under flowing nitrogen gas and then cooled to room temperature naturally. The obtained material was used without further treatment.
+
+Preparation of Pt-SAs. We transferred Pt-NPs@ZIF-8 powder into a ceramic boat and placed it in a tube furnace. The sample was heated to 1,000 °C with a heating rate of 5 °C min–1 and kept at 1,000 °C for 5 h under flowing nitrogen gas and then
+
+Preparation of Au-SAs. We transferred Au-NPs@ZIF-8 powder into a ceramic boat and placed it in a tube furnace. The sample was heated to 1,000 °C with a heating rate of 5 °C min–1 and kept at 1,000 °C for 5 h under flowing nitrogen gas and then cooled to room temperature naturally. The obtained material was used without further treatment.
+
+Preparation of Pd/CN-200, Pd/CN-300, Pd/CN-400, Pd/CN-500, Pd/CN-600, Pd/ CN-700 and Pd/CN-800. We transferred Pd-NPs@ZIF-8 powder into a ceramic boat and placed it in a tube furnace. The sample was heated to 200 °C, 300 °C, 400 °C, 500 °C, 600 °C, 700 °C or 800 °C, with a heating rate of 5 °C min–1 and maintained at the temperature for 3 h under flowing nitrogen gas and then cooled to room temperature naturally. The obtained material was used without further treatment.
+
+Preparation of Pd-NPs supported on activated carbon and pyrolysis treatment. 1.0 ml as-prepared Pd nanoparticles dispersed in DMF:methanol solution (~1 mg Pd ml–1) was mixed with 100 mg activated carbon and stirred for an hour. Then the mixture was dried to evaporate the solvent to obtain Pd-NPs supported on activated carbon (Pd-NPs/C). We transferred the Pd-NPs/C powder into a ceramic boat and placed it in a tube furnace. The sample was heated to 900 °C with a heating rate of 5 °C min–1 and kept at 900 °C for 3 h under flowing nitrogen gas and then cooled to room temperature naturally.
+
+Preparation of PVP-free Pd-NPs supported on ZIF-8-derived N-doped carbon (Pd- NPs/CN). First, ZIF-8-derived N-doped carbon (CN) was obtained by pyrolysing ZIF-8 powder at 900 °C for 3 h under inert atmosphere. Then, the PVP-protected Pd-NPs methanol solution (~1 mg Pd ml–1, containing 1.6 mg Pd) was mixed with CN and stirred for 1 h. The mixture was vacuum dried to evaporate the solvent. The obtained Pd-NPs/CN was then heated in air at 400 °C for 2 h to remove PVP as guided by a reported procedure44. The PVP-free Pd-NPs/CN were reduced in 5% H 2 /Ar at 200 °C for 1 h before catalytic test.
+
+reasoning: 
+
+Alright, let me approach this query methodically. The user wants a chemist's summary of catalyst synthesis procedures from a technical paragraph. As a chemistry professional, I need to extract and organize the key information about synthesized catalysts and their preparation steps.
+
+First, I'll identify all catalysts mentioned: 
+- PVP-stabilized Pd, Pt, and Au nanoparticles
+- ZIF-8-supported versions of these (Pd/Pt/Au-NPs@ZIF-8)
+- Single-atom catalysts (Pd/Pt/Au-SAs) 
+- Temperature-varied Pd/CN materials
+- Activated carbon-supported Pd with pyrolysis
+- PVP-free Pd/CN catalyst
+
+For each catalyst, I'll note the synthesis highlights:
+- Precursors and stabilizers (like PVP, Na₂PdCl₄)
+- Solvent systems (formamide, water, DMF:methanol mixtures)
+- Reaction conditions (temperature, time, stirring)
+- Purification methods (centrifugation, washing)
+- Special treatments (pyrolysis under N₂, PVP removal)
+
+The user likely needs this for research replication or literature review, so precision in quantities (34 mg KI, 120°C) and sequences is crucial. I'll maintain technical accuracy while avoiding jargon overload. 
+
+Interesting how ZIF-8 serves as both support and precursor for N-doped carbon. The pyrolysis step creating single-atom sites is particularly noteworthy - that's the innovative core of this synthesis. For clarity, I'll group procedures by catalyst type rather than following the paragraph's exact order.
+
+Should emphasize safety-relevant details too: autoclave use for Pt-NPs, NaBH₄ handling for Au-NPs. The centrifugation parameters (15,000 rpm, 5 min) are consistently important for nanoparticle recovery across all syntheses.
+
+When structuring the response, I'll start with nanoparticle preparations before moving to supported/composite catalysts, ending with pyrolysis-derived materials. This flow mirrors the logical progression from basic components to final functional catalysts.
+
+answer: 
+
+Based on the provided text, here is a chemist's summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+
+1.  **PVP-Stabilized Noble Metal Nanoparticles (NPs):**
+    *   Pd-NPs (Polyvinylpyrrolidone-stabilized Palladium Nanoparticles)
+    *   Pt-NPs (Polyvinylpyrrolidone-stabilized Platinum Nanoparticles)
+    *   Au-NPs (Polyvinylpyrrolidone-stabilized Gold Nanoparticles)
+2.  **Metal Nanoparticles Supported on ZIF-8:**
+    *   Pd-NPs@ZIF-8 (Pd NPs embedded in Zeolitic Imidazolate Framework-8)
+    *   Pt-NPs@ZIF-8 (Pt NPs embedded in ZIF-8)
+    *   Au-NPs@ZIF-8 (Au NPs embedded in ZIF-8)
+3.  **Pyrolyzed Single-Atom Catalysts (SAs):**
+    *   Pd-SAs (Palladium Single Atoms on N-doped Carbon)
+    *   Pt-SAs (Platinum Single Atoms on N-doped Carbon)
+    *   Au-SAs (Gold Single Atoms on N-doped Carbon)
+4.  **Temperature-Varied Pd/CN Catalysts:**
+    *   Pd/CN-T (Pd species on N-doped Carbon, where T = 200, 300, 400, 500, 600, 700, 800 °C)
+5.  **Pd-NPs Supported on Activated Carbon (Pyrolyzed):**
+    *   Pd-NPs/C (pyrolyzed)
+6.  **PVP-Free Pd-NPs Supported on ZIF-8-Derived N-doped Carbon:**
+    *   PVP-free Pd-NPs/CN
+
+**Detailed Synthesis Procedures:**
+
+**1. PVP-Stabilized Noble Metal Nanoparticles (NPs):**
+
+*   **Pd-NPs:**
+    1.  Dissolve 34 mg KI and 100 mg PVP (Mw ~55,000) in 10 ml formamide.
+    2.  Heat solution at 120 °C.
+    3.  Add 59 mg Na₂PdCl₄ powder.
+    4.  Maintain 120 °C with vigorous stirring for 10 min.
+    5.  Cool mixture to room temperature.
+    6.  Add 120 ml acetone.
+    7.  Collect dispersion by centrifugation at 15,000 rpm for 5 min.
+    8.  Disperse obtained Pd-NPs in 21 ml mixed solvent (DMF:methanol, 4:1 v/v).
+*   **Pt-NPs:**
+    1.  Dissolve 77.6 mg K₂PtCl₆ and 88.8 mg PVP (Mw ~55,000) in 20 ml water.
+    2.  Stir solution for 10 min.
+    3.  Transfer solution to a 50 ml Teflon-lined stainless steel autoclave and seal.
+    4.  Heat at 160 °C under autogenous pressure for 8 h in an oven.
+    5.  Cool container to room temperature naturally.
+    6.  Add 120 ml acetone.
+    7.  Collect dispersion by centrifugation at 15,000 rpm for 5 min.
+    8.  Disperse obtained Pt-NPs in 31 ml methanol.
+*   **Au-NPs:**
+    1.  Add PVP (K30, 1.2 mmol in monomer unit) to 30 ml aqueous HAuCl₄·3H₂O solution (1 mM) under ultrasound for 10 min.
+    2.  Stir mixture for 30 min at 0 °C (ice bath).
+    3.  Add 3 ml aqueous NaBH₄ solution (0.1 M) under vigorous stirring.
+    4.  Maintain 0 °C for another 30 min.
+    5.  Add 120 ml acetone.
+    6.  Collect dispersion by centrifugation at 15,000 rpm for 5 min.
+    7.  Wash Au-NPs with water several times.
+    8.  Centrifuge using an ultrafiltration tube (MWCO = 10 kDa) at 10,000 rpm for 5 min.
+    9.  Disperse obtained Au-NPs in 6 ml methanol.
+
+**2. Metal Nanoparticles Supported on ZIF-8 (NPs@ZIF-8):**
+
+*   **General ZIF-8 Synthesis (Pure):**
+    1.  Dissolve 1069 mg Zn(NO₃)₂·6H₂O in 15 ml DMF:methanol (4:1 v/v) under ultrasound for 5 min (Flask A).
+    2.  Dissolve 1161 mg 2-methylimidazole in 10 ml DMF:methanol (4:1 v/v) under ultrasound for 5 min (Flask B).
+    3.  Add Flask B to Flask A at room temperature.
+    4.  Keep at room temperature for 12 h without stirring.
+    5.  Collect powder by centrifugation at 15,000 rpm for 5 min.
+    6.  Wash with methanol three times.
+    7.  Dry at 70 °C for 5 h.
+*   **Pd-NPs@ZIF-8 (Method 1 - Post-synthesis Loading):**
+    1.  Synthesize pure ZIF-8 powder (as above).
+    2.  Mix pure ZIF-8 powder with 0.5 ml as-prepared Pd-NPs dispersion in DMF:methanol (~1 mg Pd/ml).
+    3.  Evaporate solvent to obtain Pd-NPs/ZIF-8.
+*   **Pd-NPs@ZIF-8 (Method 2 - In-situ Encapsulation):**
+    1.  Dissolve 1069 mg Zn(NO₃)₂·6H₂O in 15 ml DMF:methanol (4:1 v/v) under ultrasound for 5 min (Flask A).
+    2.  Add 0.5 ml as-prepared Pd-NPs dispersion in DMF:methanol (~1 mg Pd/ml) to Flask A.
+    3.  Dissolve 1161 mg 2-methylimidazole in 10 ml DMF:methanol (4:1 v/v) under ultrasound for 5 min (Flask B).
+    4.  Add Flask B to Flask A at room temperature.
+    5.  Keep at room temperature for 12 h without stirring.
+    6.  Collect product by centrifugation at 15,000 rpm for 5 min.
+    7.  Wash with methanol three times.
+    8.  Dry at 70 °C for 5 h.
+*   **Pt-NPs@ZIF-8 (In-situ):**
+    1.  Dissolve 1069 mg Zn(NO₃)₂·6H₂O in 15 ml **methanol** under ultrasound for 5 min (Flask A).
+    2.  Add 0.3 ml as-prepared Pt-NPs dispersion in methanol (~1 mg Pt/ml) to Flask A.
+    3.  Dissolve 1161 mg 2-methylimidazole in 15 ml **methanol** under ultrasound for 5 min (Flask B).
+    4.  Add Flask B to Flask A at room temperature.
+    5.  Keep at room temperature for 12 h without stirring.
+    6.  Collect product by centrifugation at 15,000 rpm for 5 min.
+    7.  Wash with methanol three times.
+    8.  Dry at 70 °C for 5 h.
+*   **Au-NPs@ZIF-8 (In-situ):**
+    1.  Dissolve 1069 mg Zn(NO₃)₂·6H₂O in 15 ml **methanol** under ultrasound for 5 min (Flask A).
+    2.  Add 0.3 ml as-prepared Au-NPs dispersion in methanol (~1 mg Au/ml) to Flask A.
+    3.  Dissolve 1161 mg 2-methylimidazole in 15 ml **methanol** under ultrasound for 5 min (Flask B).
+    4.  Add Flask B to Flask A at room temperature.
+    5.  Keep at room temperature for 12 h without stirring.
+    6.  Collect product by centrifugation at 15,000 rpm for 5 min.
+    7.  Wash with methanol three times.
+    8.  Dry at 70 °C for 5 h.
+
+**3. Pyrolyzed Single-Atom Catalysts (SAs):**
+
+*   **General Pyrolysis Procedure:**
+    1.  Transfer *NPs@ZIF-8* powder into a ceramic boat.
+    2.  Place boat in a tube furnace under flowing nitrogen gas.
+    3.  Heat to target temperature (see below) at 5 °C min⁻¹.
+    4.  Hold at target temperature for specified time (see below).
+    5.  Cool to room temperature naturally under N₂ flow.
+    6.  Use obtained material without further treatment.
+*   **Pd-SAs:**
+    *   Precursor: Pd-NPs@ZIF-8
+    *   Target Temp: 900 °C
+    *   Hold Time: 3 h
+*   **Pt-SAs:**
+    *   Precursor: Pt-NPs@ZIF-8
+    *   Target Temp: 1000 °C
+    *   Hold Time: 5 h
+*   **Au-SAs:**
+    *   Precursor: Au-NPs@ZIF-8
+    *   Target Temp: 1000 °C
+    *   Hold Time: 5 h
+
+**4. Temperature-Varied Pd/CN Catalysts (Pd/CN-T):**
+
+1.  Transfer Pd-NPs@ZIF-8 powder into a ceramic boat.
+2.  Place boat in a tube furnace under flowing nitrogen gas.
+3.  Heat to target temperature (T = 200, 300, 400, 500, 600, 700, or 800 °C) at 5 °C min⁻¹.
+4.  Hold at target temperature for 3 h.
+5.  Cool to room temperature naturally under N₂ flow.
+6.  Use obtained material (Pd/CN-T) without further treatment.
+
+**5. Pd-NPs Supported on Activated Carbon (Pyrolyzed):**
+
+1.  Mix 1.0 ml as-prepared Pd-NPs dispersion in DMF:methanol (~1 mg Pd/ml) with 100 mg activated carbon.
+2.  Stir for 1 hour.
+3.  Dry mixture to evaporate solvent, obtaining Pd-NPs/C.
+4.  Transfer Pd-NPs/C powder into a ceramic boat.
+5.  Place boat in a tube furnace under flowing nitrogen gas.
+6.  Heat to 900 °C at 5 °C min⁻¹.
+7.  Hold at 900 °C for 3 h.
+8.  Cool to room temperature naturally under N₂ flow.
+
+**6. PVP-Free Pd-NPs Supported on ZIF-8-Derived N-doped Carbon (PVP-free Pd-NPs/CN):**
+
+1.  Synthesize ZIF-8-derived N-doped carbon (CN):
+    *   Pyrolyze pure ZIF-8 powder at 900 °C for 3 h under inert atmosphere (N₂ or Ar).
+2.  Mix PVP-protected Pd-NPs methanol dispersion (~1 mg Pd/ml, containing 1.6 mg Pd total) with CN.
+3.  Stir for 1 h.
+4.  Vacuum dry the mixture to evaporate solvent.
+5.  Heat the obtained Pd-NPs/CN (with PVP) in air at 400 °C for 2 h to remove PVP.
+6.  Reduce the PVP-free Pd-NPs/CN in 5% H₂/Ar at 200 °C for 1 h before catalytic testing.
+
+**Key Observations:**
+
+*   **ZIF-8 as Precursor/Support:** ZIF-8 acts both as a support for NPs and as a precursor for N-doped carbon (CN) during pyrolysis, forming the SA and CN catalysts.
+*   **Pyrolysis Creates SAs:** High-temperature pyrolysis (900-1000 °C) under inert gas converts the *NPs@ZIF-8* materials into single-atom catalysts (Pd/Pt/Au-SAs) where the metal atoms are dispersed on the N-doped carbon matrix derived from ZIF-8.
+*   **PVP Removal:** A specific procedure (air calcination at 400 °C) is used to remove the PVP stabilizer from Pd-NPs supported on pre-formed CN.
+*   **Varied Support/Preparation:** Catalysts are prepared using different supports (ZIF-8, activated carbon, pre-formed CN) and different methods for incorporating NPs (post-synthesis loading, in-situ encapsulation during ZIF-8 synthesis).
+*   **Systematic Study:** The Pd/CN-T series allows studying the effect of pyrolysis temperature on the resulting Pd catalyst structure (from NPs to SAs).

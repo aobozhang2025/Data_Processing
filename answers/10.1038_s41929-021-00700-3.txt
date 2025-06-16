@@ -1,0 +1,95 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis of Ir/SiO 2 , IrO 2 and Ir/MgO-NP. Silica-supported Ir nanoparticles were prepared as a reference according to a previously reported method50. Iridium oxide materials were synthesized via a modified chlorine-free Adams fusion method44,67. MgO-NP-supported Ir single site catalysts were prepared as follows. To MgO-NP (200 mg; see the first step in the preparation of the MgO(111) nanosheet support (Synthesis of the support)) in pentane (20 ml) in a 50 ml Schlenk flask was added Ir(COD)(acac) (0.4 mg) dissolved in pentane (2 ml) with stirring. The resulting suspension was stirred for 3 h at room temperature. After solvent removal, the material was washed with pentane, dried under a high vacuum (10–5 mbar) and calcined using the same protocol as for Ir/MgO-cal. The thus-obtained light-yellow powder was denoted as Ir/MgO-NP.
+
+Methods Synthesis of the support. Mg(NO 3 ) 2 ·6H 2 O (99.97% metals basis, Alfa Aesar) and Na 2 CO 3 were purchased and used as received. Deionized water was further purified using a Merck Millipore Synergy Ultrapure Water System and had a resistivity of 18.2 MΩ cm at 25 °C. The well-defined single-crystalline MgO(111) nanosheets as the support were prepared according to a previously reported procedure28. A Na 2 CO 3 aqueous solution (100 ml, 0.5 M) was rapidly added into 400 ml of a Mg(NO 3 ) 2 aqueous solution (0.125 M) under vigorous stirring at room temperature. After 10 min, the precipitation was collected via filtration, washed with deionized water and ethanol, and then dried under a reduced pressure. The yielded white powder was transferred into an alumina crucible and calcined at 500 °C (the ramping rate was controlled at 2 °C min–1) for 2 h under an air atmosphere. The MgO product was added into deionized water (1 mg ml–1) under stirring at room temperature. After 1 h, the product was collected via filtration and dried under a reduced pressure. the Mg(OH) 2 product was heated to 600 °C for 12 h under a high vacuum. During both the ramping and heating processes, the reactor was evacuated with pressure lower than 10–5 mbar. The ramping rate was 1 °C min–1. The final product was collected and stored in an argon-filled glove box, denoted as MgO-NS and used as the support.
+
+Results Synthesis and characterization. Single-crystalline MgO(111) nanosheets were prepared according to a recently reported proce- dure28; they are ultrathin and preferentially oriented, with only (111) facets exposed. These MgO(111) nanosheets offer well-defined sur- face sites, namely three-coordinated –O2– anions and isolated –OH groups (2Mg–OH nm–2), and are thus ideally suited to serve as a support for SOMC. The nanosheets were contacted with Ir(COD) (acac) (COD, cyclooctadiene; acac, acetylacetonate) in pentane for three hours. The consumption of Mg–OH (3,573 cm−1), together with the appearance of bridging –O–H (3,513 and 3,374 cm−1) and C–H (3,080–2,840 cm−1) stretches according to infrared spectros- copy (Fig. 1b and Supplementary Fig. 1) supports an anchoring process via grafting (Fig. 1a). On grafting, the C=O stretch of the acac ligands shifted from 1,565 to 1618 cm−1, which is consistent with the transfer of the ligand from iridium to magnesium. In fact,
+
+Synthesis of iridium complexes as homogeneous catalysts. Ir(O,O-acac) 2 (C-acac) (H 2 O) was synthesized according to refs. 36,65,66 with a slight change. In a round-bottom flask equipped with a reflex condenser, 1 g of IrCl 3 ·H 2 O x , 1 g of NaHCO 3 and 10 ml of acetylacetone were added. The mixture was heated to 135 °C under N 2 and allowed to reflux for 48 h. After cooling to room temperature, a yellow precipitate was collected by filtration and washed with acetylacetone and dichloromethane (~75 %yield). The yellow solid was dissolved in H 2 O under vigorous stirring and used as a concentrated solution for the synthesis of Ir(O,O-acac) 2 (C-acac)(py). 1H NMR (D 2 O): δ = 5.58 (s, 2H, CH), 5.46 (s, 1H, CH), 1.99 (s, 12H, CH 3 ). 13C NMR (D 2 O + CD 3 OD): δ = 217.8 (s, C-acac, C=O), 187.9 (s, O-acac, C=O), 104.4 (s, O-acac, CH), 49.9 (s, C-acac, CH), 33.1 (s, C-acac, CH 3 ), 28.1 (s, O-acac, CH 3 ). Ir(O,O-acac) 2 (C-acac)(py) was synthesized as follows. A concentrated water solution of Ir(O,O-acac) 2 (C-acac)(H 2 O) that contained 200 mg of the above complex was mixed with 20 ml of CHCl 3 and 2 ml of pyridine. The mixture was stirred and heated at 60 °C overnight. The solvent was removed under vacuum to give a quantitative yield of Ir(O,O-acac) 2 (C-acac)(py). 1H NMR (CD 3 Cl): δ = 8.26 (m, 2H, py), 7.83 (m, 1H, py), 7.34 (m, 2H, py), 5.29 (s, 2H, CH), 5.27 (s, 1H, CH), 1.92 (s, 12H, CH 3 ). 13C NMR (CD 3 Cl): δ = 213.5 (s, C-acac, C=O), 185.1 (s, O-acac, C=O), 149.8 (s, py), 138.4 (s, py), 125.1 (s, py), 103.1 (s, O-acac, CH), 40.2 (s, C-acac, CH), 31.9 (s, C-acac, CH 3 ), 27.6 (s, O-acac, CH 3 ). Ir(O,O-acac) 2 (Ph)(py) was formed by heating Ir(O,O-acac) 2 (C-acac)(py) with benzene at 180 °C in an airtight Fisher-Porter reactor. The complex was converted into Ir(O,O-acac) 2 (Ph)(py). 1H NMR (CD 3 Cl): δ = 8.52 (m, 2H, py), 7.83 (m, 1H, py), 7.41 (m, 2H, py), 6.99 (m, 5H, Ph), 5.14 (s, 2H, CH), 1.80 (s, 12H, CH 3 ). 13C NMR (CD 3 Cl): δ = 184.6 (s, O-acac, C=O), 149.7 (s, py), 137.7 (s, py), 125.1 (s, py), 137.3 (s, Ph), 135.9 (s, Ph), 125.4 (s, Ph), 122.9 (s, Ph), 103.3 (s, O-acac, CH), 27.2 (s, O-acac, CH 3 ).
+
+Synthesis of Ir-based catalysts. (Acetylacetonato)(1,5-cyclooctadiene)iridium(I) was purchased from Sigma-Aldrich and used as received. Pentane was dried using an MBraun solvent purification system (SPS 800), and stored in the presence of 4 Å molecule sieves in a glove box. Synthetic air and H 2 were purified over activated 4 Å molecular sieves. All the experiments (support handling, material synthesis, storage and regular characterization) were performed under a N 2 or Ar atmosphere in an MBraun UNIlab glove box (water and oxygen levels were kept below 0.1 ppm) or standard Schlenk techniques. Elemental analyses were performed by Mikroanalytisches Labor Pascher. To MgO-NS (200 mg) dispersed in pentane (20 ml) in a 50 ml Schlenk flask was added a solution of Ir(COD)(acac) (4.15 mg) in pentane (2 ml) under stirring. The resulting suspension was stirred for 3 h at room temperature. After removing the solvent in vacuo, the resulting material was washed with pentane and dried under a high vacuum (10–5 mbar) to give Ir(COD)(acac)/MgO (elemental analysis, Ir, 0.9%; Ir:C ≈ 1:15). The 0.1 wt% sample was prepared in the same manner using 0.4 mg of Ir(COD)(acac). Ir(COD)(acac)/MgO was added to a tubular glass flow reactor supported by a frit. The reactor was heated, ramping at 1 °C min–1 to 400 °C and kept at 400 °C for 12 h under a steady flow of synthetic air. After cooling down to room temperature, the reactor was evacuated under a high vacuum to yield a light-yellow powder and denoted as Ir/MgO-cal (elemental analysis, Ir, 0.9%).
+
+Synthesis of iridium complexes as homogeneous catalysts. Ir(O,O-acac)2(C-acac) (H2O) was synthesized according to refs. 36,65,66 with a slight change. In a round-bottom flask equipped with a reflex condenser, 1 g of IrCl3·H2Ox, 1 g of NaHCO3 and 10 ml of acetylacetone were added. The mixture was heated to 135 °C under N2 and allowed to reflux for 48 h. After cooling to room temperature, a yellow precipitate was collected by filtration and washed with acetylacetone and dichloromethane (~75 %yield). The yellow solid was dissolved in H2O under vigorous stirring and used as a concentrated solution for the synthesis of Ir(O,O-acac)2(C-acac)(py). 1H NMR (D2O): δ = 5.58 (s, 2H, CH), 5.46 (s, 1H, CH),  1.99 (s, 12H, CH3). 13C NMR (D2O + CD3OD): δ = 217.8 (s, C-acac, C=O), 187.9 (s, O-acac, C=O), 104.4 (s, O-acac, CH), 49.9 (s, C-acac, CH), 33.1 (s, C-acac, CH3), 28.1 (s, O-acac, CH3). Ir(O,O-acac)2(C-acac)(py) was synthesized as follows. A concentrated water solution of Ir(O,O-acac)2(C-acac)(H2O) that contained 200 mg of the above complex was mixed with 20 ml of CHCl3 and 2 ml of pyridine. The mixture was stirred and heated at 60 °C overnight. The solvent was removed under vacuum to give a quantitative yield of Ir(O,O-acac)2(C-acac)(py). 1H NMR (CD3Cl): δ = 8.26 (m, 2H, py), 7.83 (m, 1H, py), 7.34 (m, 2H, py), 5.29 (s, 2H, CH), 5.27 (s, 1H, CH), 1.92 (s, 12H, CH3). 13C NMR (CD3Cl): δ = 213.5 (s, C-acac, C=O), 185.1 (s, O-acac, C=O), 149.8 (s, py), 138.4 (s, py), 125.1 (s, py), 103.1 (s, O-acac, CH), 40.2 (s, C-acac, CH), 31.9 (s, C-acac, CH3), 27.6 (s, O-acac, CH3). Ir(O,O-acac)2(Ph)(py) was formed by heating Ir(O,O-acac)2(C-acac)(py) with benzene at 180 °C in an airtight Fisher-Porter reactor. The complex was converted into Ir(O,O-acac)2(Ph)(py). 1H NMR (CD3Cl): δ = 8.52 (m, 2H, py), 7.83 (m, 1H,  py), 7.41 (m, 2H, py), 6.99 (m, 5H, Ph), 5.14 (s, 2H, CH), 1.80 (s, 12H, CH3). 13C NMR (CD3Cl): δ = 184.6 (s, O-acac, C=O), 149.7 (s, py), 137.7 (s, py), 125.1 (s, py), 137.3 (s, Ph), 135.9 (s, Ph), 125.4 (s, Ph), 122.9 (s, Ph), 103.3 (s, O-acac, CH), 27.2 (s, O-acac, CH3).  Synthesis of Ir/SiO2, IrO2 and Ir/MgO-NP. Silica-supported Ir nanoparticles were prepared as a reference according to a previously reported method50. Iridium oxide materials were synthesized via a modified chlorine-free Adams fusion method44,67. MgO-NP-supported Ir single site catalysts were prepared as follows. To MgO-NP (200 mg; see the first step in the preparation of the MgO(111) nanosheet support (Synthesis of the support)) in pentane (20 ml) in a 50 ml Schlenk flask was added Ir(COD)(acac) (0.4 mg) dissolved in pentane (2 ml) with stirring. The resulting suspension was stirred for 3 h at room temperature. After solvent removal, the material was washed with pentane, dried under a high vacuum (10–5 mbar) and calcined using the same protocol as for Ir/MgO-cal. The thus-obtained light-yellow powder was denoted as Ir/MgO-NP.
+
+reasoning: 
+
+Alright, let me tackle this user query as a chemistry professional. The user wants me to summarize catalyst synthesis procedures from a complex technical paragraph. 
+
+First, I need to identify all catalysts mentioned. Scanning the text, I see three distinct iridium-based materials: Ir/SiO₂ nanoparticles, IrO₂, and Ir/MgO-NP single-site catalyst. But the details aren't equally distributed - the MgO-supported catalysts get the most elaborate descriptions.
+
+Hmm, the user specifically asked for "all details", so I should extract every synthesis parameter. For Ir/MgO-NP, that means noting exact masses (200mg MgO-NP, 0.4mg precursor), solvents (pentane volumes), reaction time (3h), and vacuum specs (10⁻⁵ mbar). The calcination protocol reference to Ir/MgO-cal requires backtracking to find it involves 400°C air flow for 12h.
+
+Wait, the MgO support synthesis is crucial here since it defines the "NP" variant. That carbonate precipitation method has very specific conditions: 0.5M Na₂CO₃ into 0.125M Mg(NO₃)₂, calcination at 500°C, then vacuum dehydration at 600°C. The 10⁻⁵ mbar vacuum appears repeatedly - must emphasize that as a key purity control.
+
+The homogeneous catalyst syntheses are interesting but seem off-target since the user specified "catalysts" (typically heterogeneous). I'll briefly note them but focus on supported systems. Though that benzene ligand exchange at 180°C is a neat trick!
+
+For clarity, I'll structure by catalyst type. The silica-supported Ir gets only a citation mention, while IrO₂ just says "modified Adams fusion" - should flag that as unreported details. The MgO parts need sub-sections: first support prep, then Ir grafting.
+
+...Double-checking NMR data inclusion. The user didn't ask for characterization, so I'll skip those δ values despite their chemical significance. But the IR evidence for grafting (C=O shift from 1565→1618cm⁻¹) directly confirms the synthesis mechanism - worth retaining.
+
+Final output should mirror lab notebook style: concise, imperative tense ("Add X to Y"), with critical parameters bolded. The 0.1wt% Ir loading and color change to light-yellow are practically important identifiers.
+
+answer: 
+
+Based on the provided text, the synthesized catalysts and their detailed procedures are as follows:
+
+### 1. **Ir/MgO-NP (Iridium Single-Site Catalyst on MgO Nanoparticles)**
+   - **Catalyst Description**: Iridium single-site catalyst supported on MgO nanoparticles (MgO-NP).
+   - **Synthesis Procedure**:
+     1. **Support Preparation (MgO-NP)**:
+        - Dissolve Mg(NO₃)₂·6H₂O (0.125 M, 400 mL) and Na₂CO₃ (0.5 M, 100 mL) in deionized water.
+        - Rapidly add Na₂CO₃ solution to Mg(NO₃)₂ solution under vigorous stirring at 25°C.
+        - After 10 min, collect the precipitate by filtration. Wash with deionized water and ethanol.
+        - Dry under reduced pressure to yield a white powder.
+        - Calcinate in an alumina crucible at 500°C (ramp rate: 2°C/min) for 2 h in air.
+        - Disperse the MgO product in deionized water (1 mg/mL), stir for 1 h, filter, and dry under reduced pressure.
+        - Convert Mg(OH)₂ to MgO-NP by heating to 600°C for 12 h under high vacuum (<10⁻⁵ mbar; ramp rate: 1°C/min).
+        - Store the final MgO-NP in an argon glove box.
+
+     2. **Catalyst Synthesis**:
+        - Disperse **MgO-NP (200 mg)** in anhydrous pentane (20 mL) in a 50 mL Schlenk flask.
+        - Add a solution of **Ir(COD)(acac) (0.4 mg)** in pentane (2 mL) under stirring.
+        - Stir the suspension for **3 h at 25°C**.
+        - Remove the solvent *in vacuo*.
+        - Wash the solid with pentane and dry under high vacuum (**10⁻⁵ mbar**).
+        - Calcinate using the same protocol as **Ir/MgO-cal**:  
+          - Ramp to **400°C at 1°C/min** under synthetic air flow.  
+          - Hold at **400°C for 12 h**.  
+          - Cool to room temperature and evacuate to **10⁻⁵ mbar**.
+        - **Final Product**: Light-yellow powder denoted **Ir/MgO-NP**.
+
+### 2. **Ir/SiO₂ (Iridium Nanoparticles on Silica)**
+   - **Catalyst Description**: Iridium nanoparticles supported on SiO₂ (reference catalyst).
+   - **Synthesis Procedure**:  
+     - Prepared according to a cited method (Ref. 50).  
+     - *No specific details provided in the text*.
+
+### 3. **IrO₂ (Iridium Oxide)**
+   - **Catalyst Description**: Bulk iridium oxide material.
+   - **Synthesis Procedure**:  
+     - Synthesized via a **modified chlorine-free Adams fusion method** (Refs. 44, 67).  
+     - *Specific modifications not detailed in the text*.
+
+---
+
+### Key Additional Syntheses Mentioned:
+- **Ir/MgO-cal** (Used as calcination reference for Ir/MgO-NP):  
+  - Prepared by grafting **Ir(COD)(acac)** onto MgO nanosheets (MgO-NS) in pentane, followed by calcination at **400°C in air** (ramp: 1°C/min, hold: 12 h).  
+- **Homogeneous Iridium Complexes** (e.g., Ir(O,O-acac)₂(C-acac)(H₂O), Ir(O,O-acac)₂(Ph)(py)):  
+  - Synthesized via refluxing IrCl₃·H₂O with acetylacetone/NaHCO₃, ligand exchange with pyridine, and benzene substitution at **180°C**.  
+  - *These are homogeneous catalysts and not the focus of the supported catalyst query*.
+
+---
+
+### Critical Synthesis Parameters:
+- **Atmosphere**: Strict inert conditions (glove box or Schlenk line; O₂/H₂O < 0.1 ppm).  
+- **Solvents**: Anhydrous pentane (dried over molecular sieves).  
+- **Thermal Protocols**:  
+  - Calcination: Controlled ramp rates (1–2°C/min), specific temperatures (400–600°C), and dwell times (2–12 h).  
+- **Vacuum Drying**: High vacuum (10⁻⁵ mbar) to remove solvents and prevent aggregation.  
+- **Anchoring Mechanism**: Grafting of Ir(COD)(acac) onto MgO–OH sites confirmed by IR spectroscopy (disappearance of Mg–OH stretch at 3,573 cm⁻¹ and C=O shift from 1,565 to 1,618 cm⁻¹).
+
+This summary focuses on the **heterogeneous catalysts (Ir/SiO₂, IrO₂, Ir/MgO-NP)** as per the query, with full procedural details extracted from the text. The homogeneous complexes are noted for context but are not the primary focus.

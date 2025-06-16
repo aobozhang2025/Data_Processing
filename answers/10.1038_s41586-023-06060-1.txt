@@ -8,59 +8,59 @@ Synthesis of OCB catalysts OCB is synthesized on the basis of our previously rep
 
 reasoning: 
 
-Okay, the user wants me to act as a chemist specializing in catalyst synthesis and summarize the catalysts and procedures from a technical paragraph. Let me analyze this carefully.
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalysts and procedures from the provided paragraph. Let me analyze this carefully.
 
-First, I see two distinct catalyst syntheses described: SACs (Single-Atom Catalysts) and OCB catalysts. For the SACs, there are three variations mentioned - Co-SAC, Ni-SAC, and Fe-SAC. The paragraph provides detailed procedures for Co and Ni, while Fe references previous work. 
+First, I notice the text describes two distinct catalyst syntheses: Single-Atom Catalysts (SACs) and Oxidized Carbon Black (OCB). The SACs include cobalt, nickel, and iron variants, while OCB seems to be a carbon-based catalyst support material.
 
-Breaking down the Co-SAC synthesis: It starts with mixing o-phenylenediamine, CoCl₂, and SiO₂ nanoparticles in HCl. The sonication and stirring steps likely ensure proper dispersion. Then ammonium persulfate in HCl is added dropwise - this probably initiates polymerization. The ice bath polymerization over a day suggests a controlled exothermic reaction. After rotary evaporation, high-temperature annealing under argon creates the carbon-supported structure. The critical leaching steps with NaOH and H₂SO₄ remove the silica template and unstable cobalt species, leaving isolated cobalt atoms.
+For the Co-SAC synthesis, the key steps involve: mixing precursors (o-phenylenediamine, CoCl₂, SiO₂ nanoparticles) in HCl, sonication and stirring, dropwise addition of oxidizing agent (ammonium peroxydisulfate in HCl), polymerization in ice bath, drying, high-temperature annealing in argon, and finally acid/base leaching to remove templates and unstable species. The nickel variant follows the same procedure with adjusted quantities.
 
-For Ni-SAC, the procedure is identical except for the nickel precursor (NiCl₂·6H₂O) and slightly different SiO₂ quantity. The OCB catalyst synthesis is simpler - it's acid functionalization of Vulcan carbon using nitric acid reflux. The extended washing is crucial to remove residual acid.
+The OCB synthesis appears simpler: oxidizing Vulcan XC-72 carbon in HNO₃/water mixture at 80°C for 24 hours, followed by extensive washing and drying.
 
-The user seems to need precise technical details - perhaps for replication or comparison studies. I should ensure all masses, concentrations, temperatures and times are accurately extracted. The modifications from previous methods (referenced as 36,7,45) might be important for their research context. Since they specified "all details", I'll include even minor steps like sonication duration and pH monitoring during washing.
+The user seems to be requesting a technical summary, so I should maintain precise chemical terminology while making it digestible. They might be preparing for lab work or writing a review, so including exact quantities and conditions is crucial. 
 
-Notably, the Fe-SAC lacks detailed procedure here - I should explicitly state that it follows prior work without new modifications. The professional summary should highlight the catalyst types (single-atom vs carbon support), key steps (template removal, leaching), and distinguish between the fully described vs referenced methods.
+I notice the iron SAC reference is incomplete - it just says "based on previous paper" without details. I should flag this limitation in my response. Also worth noting that the SiO₂ template method suggests creating highly dispersed metal sites, which is characteristic of SACs.
+
+The OCB procedure clearly functionalizes carbon surfaces, probably creating oxygen groups that could serve as anchoring sites for catalysts. That might explain why it's mentioned alongside SACs - possibly used as a support.
+
+I'll organize the response by catalyst type, preserving all critical parameters (temperatures, concentrations, times) while omitting redundant phrasing. The professional tone should reflect that of a synthetic chemist - precise but practical.
 
 answer: 
 
-Based on the provided text, here is a professional chemist's summary of the catalysts synthesized and their detailed procedures:
+Based on the provided text, here is a professional summary of the synthesized catalysts and their detailed synthesis procedures:
 
-**1. Single-Atom Catalysts (SACs): Co-SAC, Ni-SAC, Fe-SAC**
-*   **Catalyst Type:** Carbon-supported Single-Atom Catalysts (SACs) where isolated metal atoms (Co, Ni, Fe) are coordinated to a nitrogen-doped carbon matrix. Silica nanoparticles serve as a sacrificial template.
-*   **General Synthesis Principle:** Polymerization of o-phenylenediamine around metal ions and SiO₂ templates, followed by carbonization and template/metal impurity removal.
-*   **Detailed Synthesis Procedure (Explicit for Co-SAC & Ni-SAC):**
-    1.  **Mixing Precursors:** Combine in 20 ml of 1.0 M HCl:
-        *   1.0 g o-phenylenediamine (monomer)
-        *   Metal Salt:
-            *   Co-SAC: 0.44 g CoCl₂
-            *   Ni-SAC: 0.405 g NiCl₂·6H₂O
-        *   Template:
-            *   Co-SAC: 2.0 g SiO₂ nanoparticles (10-20 nm)
-            *   Ni-SAC: 1.0 g SiO₂ nanoparticles (10-20 nm)
-    2.  **Dispersion:** Sonicate the mixture for 0.5 hours.
-    3.  **Stirring:** Stir the mixture for an additional 0.5 hours.
-    4.  **Oxidative Polymerization Initiator:** Prepare a solution of 3.0 g ammonium peroxydisulfate ((NH₄)₂S₂O₈) in 12 ml of 1.0 M HCl.
-    5.  **Initiation:** Add the ammonium peroxydisulfate/HCl solution dropwise to the main mixture **with vigorous stirring**.
-    6.  **Polymerization:** Transfer the mixture to an ice bath and allow polymerization to proceed for approximately 24 hours (nearly one day).
-    7.  **Drying:** Remove the solvent using a rotary evaporator to obtain a dried powder.
-    8.  **Carbonization:** Anneal the dried powder under an inert Argon (Ar) atmosphere at 800 °C for 2 hours.
-    9.  **Template Removal (Alkaline Leaching):** Treat the annealed product with 2.0 M NaOH solution to dissolve and remove the SiO₂ nanoparticle templates.
-    10. **Unstable Metal Removal (Acid Leaching):** Treat the NaOH-leached product with 2.0 M H₂SO₄ solution to dissolve and remove unstable (e.g., metallic nanoparticles, clusters) or poorly coordinated metal-based species.
-    11. **Final Product:** The resulting material after washing and drying is the desired Single-Atom Catalyst (Co-SAC or Ni-SAC).
-*   **Fe-SAC Synthesis:** Synthesized based on a previously reported method (referenced paper), without new modifications described in this text.
+**1. Single-Atom Catalysts (SACs)**
+    *   **Catalysts Synthesized:**
+        *   **Co-SAC:** Cobalt Single-Atom Catalyst.
+        *   **Ni-SAC:** Nickel Single-Atom Catalyst (same method as Co-SAC with different precursors).
+        *   **Fe-SAC:** Iron Single-Atom Catalyst (method referenced to previous work, not detailed here).
+    *   **Synthesis Procedure (Detailed for Co-SAC & Ni-SAC):**
+        *   **Precursor Mixing:** Combine 1.0 g o-phenylenediamine, 0.44 g CoCl₂ (for Co-SAC) *or* 0.405 g NiCl₂·6H₂O (for Ni-SAC), and 2.0 g SiO₂ nanoparticles (10–20 nm) *or* 1.0 g SiO₂ (for Ni-SAC) in 20 ml of 1.0 M HCl solution.
+        *   **Dispersion:** Sonicate the mixture for 0.5 hours.
+        *   **Initial Stirring:** Stir the mixture for an additional 0.5 hours.
+        *   **Oxidant Addition:** Prepare 12 ml of 1.0 M HCl solution containing 3.0 g ammonium peroxydisulfate ((NH₄)₂S₂O₈). Add this solution **dropwise** to the initial mixture under **vigorous stirring**.
+        *   **Polymerization:** Transfer the mixture to an **ice bath** and allow polymerization to proceed for **~24 hours** (1 day).
+        *   **Drying:** Remove the solvent using a **rotary evaporator** to obtain a dried powder.
+        *   **Carbonization:** Anneal the dried powder under an **Argon (Ar) atmosphere** at **800 °C** for **2 hours** (ramp/cool rates not specified).
+        *   **Template & Impurity Removal:**
+            *   **Alkaline Leaching:** Treat the annealed product with **2.0 M NaOH** solution to dissolve and remove the **SiO₂ nanoparticle templates**.
+            *   **Acid Leaching:** Subsequently treat the product with **2.0 M H₂SO₄** solution to dissolve and remove **unstable Co-based (or Ni-based) species**.
+        *   **Product:** The final material after leaching is the Co-SAC or Ni-SAC.
 
-**2. Oxidized Carbon Black (OCB) Catalyst**
-*   **Catalyst Type:** Acid-functionalized carbon black support (Vulcan XC-72).
-*   **Synthesis Principle:** Oxidative treatment of carbon black with nitric acid to introduce oxygen-containing surface functional groups (e.g., -COOH, -OH).
-*   **Detailed Synthesis Procedure:**
-    1.  **Acid Reflux Setup:** Add 2.0 g of Vulcan XC-72 carbon black to a three-neck flask.
-    2.  **Acid Mixture Addition:** Pour 460 ml of 70% HNO₃ solution and 140 ml of deionized water into the flask with the carbon.
-    3.  **Mixing:** Stir the mixture well to ensure dispersion.
-    4.  **Oxidation:** Reflux the mixture at 80 °C for 24 hours.
-    5.  **Cooling:** Allow the mixture to cool naturally to room temperature.
-    6.  **Washing:** Wash the resulting slurry repeatedly with deionized water and ethanol until the filtrate reaches a neutral pH (pH ~7).
-    7.  **Drying:** Collect the washed precipitate (solid) and dry it overnight in an oven at 80 °C.
-    8.  **Final Product:** The dried material is the Oxidized Carbon Black (OCB) catalyst.
+**2. Oxidized Carbon Black (OCB)**
+    *   **Catalyst Synthesized:** Oxidized Carbon Black (OCB) catalyst/support.
+    *   **Synthesis Procedure:**
+        *   **Oxidation:** Add 2.0 g of Vulcan XC-72 carbon black to a mixture of 460 ml of **70% HNO₃** solution and 140 ml of **deionized water** in a **three-neck flask**.
+        *   **Reflux:** Stir the mixture well and **reflux** it at **80 °C** for **24 hours**.
+        *   **Cooling:** Allow the resulting slurry to cool **naturally** to room temperature.
+        *   **Washing:** Wash the slurry extensively with **water** and then **ethanol** until the filtrate reaches a **neutral pH**.
+        *   **Drying:** Collect the precipitate (solid) and dry it **overnight** in an oven at **80 °C**.
+        *   **Product:** The dried solid is the OCB catalyst.
 
-**Key Differences Highlighted:**
-*   **SACs:** Involve complex polymerization, metal coordination, templating, high-temperature carbonization, and selective leaching to create isolated metal sites on N-doped carbon.
-*   **OCB:** Involves a direct oxidation (functionalization) of pre-existing carbon black material under reflux conditions, followed by thorough washing. No metal is added, and no high-temperature step is involved.
+**Key Synthesis Details:**
+
+*   **Sacrificial Template:** SiO₂ nanoparticles are used as a template for SAC formation, removed later by NaOH leaching.
+*   **Polymer Precursor:** o-Phenylenediamine polymerizes around the template/metal ions using (NH₄)₂S₂O₈ as an oxidant.
+*   **High-Temperature Annealing:** Critical step (800°C under Ar) to convert the polymer into N-doped carbon supporting the metal atoms.
+*   **Selective Leaching:** Sequential NaOH (removes SiO₂) and H₂SO₄ (removes unstable metal NPs/aggregates) treatments are essential to isolate the single-atom sites in the SACs.
+*   **Oxidative Functionalization:** Concentrated HNO₃ reflux introduces oxygen-containing functional groups (e.g., -COOH, -OH) onto the carbon black surface to create OCB.
+*   **Precursor Specifics:** NiCl₂ is used as the hexahydrate (NiCl₂·6H₂O) for Ni-SAC, while anhydrous CoCl₂ is used for Co-SAC. Quantities differ slightly. Fe-SAC synthesis is not described.

@@ -1,0 +1,13 @@
+Synthesis of NiMoO x The NiMoO x was synthesized in the same way as Ni@C-MoO x except replacing sodium copper chlorophyllin with carbon black (Vulcan XC-72R).
+
+Synthesis of Ni/CuChl The Ni/CuChl was synthesized in the same way as Ni@C-MoO x except without adding ammonium molybdate ((NH 4 ) 6 Mo 7 O 24 ).
+
+Synthesis of Ni@C-MoO x -N 2 The Ni@C-MoO x -N 2 was synthesized in the same way as Ni@C-MoO x except annealed in N 2 instead of H 2 .
+
+Synthesis of Ni@C-MoO x -TP The Ni@C-MoO x -TP was synthesized in the same way as Ni@C-MoO x except using tetraphenyl porphyrin (TP) instead of CuChl.
+
+Synthesis of Ni@C-MoO x A typical method for the synthesis of Ni@C-MoO x included 1 g Ni(CH 3 COO) 2 , 0.353 g (NH 4 ) 6 Mo 7 O 24 , 1 g urea and 0.1 g sodium copper chlorophyllin being added in 35 ml deionized water. After stirring vig- orously for 0.5 h, the solution was transferred to a 50 ml Teflon-lined stainless-steel autoclave, then heated to 180 °C and maintained for 12 h. The autoclave was then cooled to room temperature. The obtained product was washed with deionized water and ethanol to remove ionic residue and then dried in an oven at 60 °C overnight. The resulting pow- der was heated in a tube furnace up to 500 °C at a ramp rate of 5 °C min −1 under H 2 /N 2 (with 1:9 mole ratio) gas flow, and the heating was main- tained at 500 °C for 2 h. Afterwards the furnace was cooled to room temperature under N 2 flow, the product Ni@C-MoO x was collected.
+
+Synthesis of MoO x One g (NH 4 ) 6 Mo 7 O 24 was heated in a tube furnace up to 500 °C at a ramp rate of 5 °C min −1 under H 2 /N 2 (with 1:9 mole ratio) gas flow, and the heating was maintained at 500 °C for 2 h. Afterwards the furnace
+
+Synthesis of C-MoO x A 0.353 g amount of (NH 4 ) 6 Mo 7 O 24 and 0.1 g sodium copper chloro- phyllin were added in 35 ml deionized water; after drying at 65 °C, the powder was heated in a tube furnace up to 500 °C at a ramp rate of 5 °C min −1 under H 2 /N 2 (with 1:9 mole ratio) gas flow, and the heating was maintained at 500 °C for 2 h. Afterwards the furnace was cooled to room temperature under N 2 flow, the product C-MoO x was collected.

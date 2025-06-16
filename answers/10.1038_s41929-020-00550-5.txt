@@ -1,0 +1,77 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis of Co-TiO 2 , Ni-TiO 2 , Fe-TiO 2 , Cu-TiO 2 , Mn-TiO 2 and TiO 2 nanorods. The TiO 2 and Co-TiO 2 nanorods were synthesized by an organic colloidal solution approach based on our previous publication33. As TiCl 4 is highly sensitive to moisture, all the solvents employed in the synthesis were pre-dried at 90 °C in a vacuum using a typical Schlenk link technique. For the synthesis of the TiO 2 nanorods, a Ti precursor solution containing 0.2 M TiCl 4 and 1.0 M OAc was first prepared by dissolving TiCl 4 (2.19 ml) and OAc (31.59 ml) in ODE (66.25 ml) and stored in a N 2 -filled glove box. In a four-necked reactor, ODE (10 ml), OAm (10 ml) and OAc (0.48 ml) were heated under vacuum at 90 °C for 1 hour to remove dissolved moisture and oxygen, and subsequently cooled to 60 °C under N 2 . Next, 1.5 ml of Ti precursor solution was injected into the system, which was then quickly heated to 290 °C and maintained at that temperature for 10 min. Next, 8 ml of additional Ti precursor solution was added into the reactor at a rate of 0.3 ml min−1. After cooling to room temperature, the TiO 2 nanorods were collected, washed with isopropanol and centrifuged at 8,000 r.p.m. for 8 min. The product was further purified twice by the addition of hexanes and isopropanol. The Co-TiO 2 nanorods were synthesized by a similar route. A Co oleate solution containing 0.2 M cobalt oleate and 1.0 M OAc was mixed with the Ti precursor solution with the desired Ti/Co ratio. Next, 1.5 ml of this solution was injected into a degassed solution containing 10 ml of ODE, 10 ml of OAm and 0.48 ml of OAc at 60 °C, and the mixture was quickly heated to 290 °C. After being held at that temperature for 10 min, another 8 ml of the mixed Ti/Co precursor solution was introduced into the system at 0.3 ml min−1. The as-prepared Co-TiO 2 nanorods were collected and purified in the same way as for the TiO 2 nanorods. In this synthesis, the Co doping level was tuned by altering the Ti/Co ratio in the mixed precursor solution. Specifically, with Ti/Co molar ratios of 8:1, 8:2 and 8:3, Co doping levels of 4.2, 7.5 and 12% were achieved in the Co-TiO 2 nanorods. The Ni-TiO 2 , Fe-TiO 2 , Cu-TiO 2 and Mn-TiO 2 nanorods were synthesized by the same approach, using the corresponding metal oleate to substitute for Co oleate33. The synthesis of CoO nanoparticles is described in the Supplementary Methods.
+
+
+reasoning: 
+
+Alright, let me approach this query as a synthetic chemist specializing in catalyst design. The user wants a distilled summary of catalyst synthesis from a technical paragraph, so I'll focus on extracting key details while maintaining accuracy. 
+
+First, I notice the core materials are TiO₂ nanorods and transition metal-doped variants (Co, Ni, Fe, Cu, Mn). The organic colloidal method described requires meticulous moisture control - evident from the Schlenk line prep and glove box usage. That's crucial for handling TiCl₄'s reactivity.
+
+Hmm, the synthesis has two parallel paths: undoped TiO₂ and doped versions. For TiO₂, the precursor prep involves dissolving TiCl₄ and oleic acid (OAc) in 1-octadecene (ODE). The reaction phase is interesting - initial injection of small precursor volume (1.5ml) at 290°C likely seeds nucleation, followed by slow addition (0.3ml/min) for controlled growth. Smart design.
+
+For doped catalysts like Co-TiO₂, they premix Co-oleate with Ti-precursor. The doping level control via Ti/Co ratios (8:1 to 8:3 yielding 4.2-12% Co) is particularly useful for catalyst optimization studies. Other metals follow identical protocols with their oleates.
+
+The purification is standard but critical: isopropanol washes followed by hexane/IPA solvent pairs. I should emphasize how this removes organics without damaging nanorods. 
+
+Wait - the user mentioned being a chemistry professional, so I'll skip defining basic terms like Schlenk line but ensure all acronyms (OAm, ODE) are spelled out. They probably want procedural clarity for replication, so I'll sequence steps chronologically and highlight air-sensitive handling.
+
+Notable exclusion: CoO nanoparticle synthesis is referenced but not detailed here. Should explicitly state it's in Supplementary Methods to avoid confusion. 
+
+For the response structure, I'll categorize by catalyst type first, then break down shared vs. unique steps. The metal doping percentages deserve a dedicated line since they're key performance variables. Might add a footnote about oleate's dual role as stabilizer and carboxylate source.
+
+answer: 
+
+Based on the provided text, here is a professional chemist's summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+1.  **Undoped TiO₂ Nanorods**
+2.  **Transition Metal-Doped TiO₂ Nanorods:** Specifically Co-TiO₂, Ni-TiO₂, Fe-TiO₂, Cu-TiO₂, and Mn-TiO₂ nanorods.
+3.  **(Mentioned, but synthesis not detailed here):** CoO Nanoparticles (synthesis described elsewhere).
+
+**Synthesis Method:** Organic Colloidal Solution Approach (adapted from previous work, Ref. 33).
+
+**Key Materials & Precautions:**
+*   **Ti Precursor:** Titanium tetrachloride (TiCl₄) - *Highly moisture-sensitive.*
+*   **Solvents/Capping Agents:** 1-Octadecene (ODE), Oleylamine (OAm), Oleic Acid (OAc).
+*   **Metal Dopant Precursors:** Metal oleates (Co, Ni, Fe, Cu, Mn oleate).
+*   **Precautions:** Strict anhydrous/anaerobic conditions. Solvents pre-dried (90 °C, vacuum, Schlenk line). Ti precursor preparation and handling performed in a N₂-filled glove box.
+
+**Detailed Synthesis Procedures:**
+
+**1.  Synthesis of Undoped TiO₂ Nanorods:**
+    *   **Precursor Preparation (Glove Box):** Dissolve TiCl₄ (2.19 ml) and OAc (31.59 ml) in ODE (66.25 ml) to make a 0.2 M TiCl₄ / 1.0 M OAc solution. Store under N₂.
+    *   **Reactor Setup & Degassing:** In a 4-neck reactor, combine ODE (10 ml), OAm (10 ml), and OAc (0.48 ml). Heat under vacuum at 90 °C for 1 hour. Cool to 60 °C under N₂ flow.
+    *   **Nucleation:** Inject 1.5 ml of the Ti precursor solution. Rapidly heat the mixture to 290 °C and hold for 10 minutes.
+    *   **Growth:** Add an additional 8 ml of Ti precursor solution at a controlled rate of 0.3 ml min⁻¹.
+    *   **Quenching & Cooling:** Stop heating and allow the reaction mixture to cool to room temperature.
+    *   **Workup & Purification:**
+        *   Collect product by centrifugation (8,000 rpm, 8 min).
+        *   Wash precipitate with isopropanol.
+        *   Purify twice by redispersion in hexanes followed by precipitation with isopropanol and centrifugation.
+
+**2.  Synthesis of Transition Metal-Doped TiO₂ Nanorods (e.g., Co-TiO₂):**
+    *   **Precursor Preparation (Glove Box):** Mix the Ti precursor solution (0.2 M TiCl₄ / 1.0 M OAc in ODE) with a Co oleate solution (0.2 M cobalt oleate / 1.0 M OAc) at the desired Ti/Co molar ratio (e.g., 8:1, 8:2, 8:3).
+    *   **Reactor Setup & Degassing:** Identical to undoped TiO₂: Degas ODE (10 ml), OAm (10 ml), and OAc (0.48 ml) at 90 °C under vacuum for 1 hour. Cool to 60 °C under N₂.
+    *   **Nucleation:** Inject 1.5 ml of the *mixed Ti/Co precursor solution*. Rapidly heat the mixture to 290 °C and hold for 10 minutes.
+    *   **Growth:** Add an additional 8 ml of the *mixed Ti/Co precursor solution* at a controlled rate of 0.3 ml min⁻¹.
+    *   **Quenching & Cooling:** Stop heating and cool to room temperature.
+    *   **Workup & Purification:** Identical to undoped TiO₂: Centrifuge (8,000 rpm, 8 min), wash with isopropanol, purify twice via hexanes/isopropanol.
+    *   **Doping Control:** The doping level (e.g., 4.2%, 7.5%, 12% Co for Ti/Co=8:1, 8:2, 8:3) is controlled by adjusting the Ti/Metal ratio in the mixed precursor solution.
+
+**3.  Synthesis of Other Doped Nanorods (Ni, Fe, Cu, Mn-TiO₂):**
+    *   Synthesized **identically** to the Co-TiO₂ procedure.
+    *   **Only Change:** Substitute the corresponding *metal oleate* (Ni oleate, Fe oleate, Cu oleate, Mn oleate) for the Co oleate in the mixed precursor solution preparation.
+
+**Key Synthesis Features:**
+*   **Shape Control:** Produces nanorods.
+*   **Doping Mechanism:** Transition metal dopants are incorporated during the nanorod synthesis by co-injecting mixed precursors.
+*   **Doping Tunability:** Dopant concentration is precisely controlled by the Ti/Metal molar ratio in the precursor mix.
+*   **Critical Parameters:** Strict moisture/oxygen exclusion, controlled nucleation temperature (290 °C hold), controlled growth rate (0.3 ml/min injection).
+*   **Stabilization:** OAm and OAc act as surfactants/capping agents controlling growth and preventing aggregation.
+*   **Purification:** Standard washing/centrifugation with polar (isopropanol) and non-polar (hexanes) solvents removes excess organics.
+
+**Note on CoO:** The synthesis of CoO nanoparticles mentioned is not described in this paragraph and is referenced to be in the Supplementary Methods.

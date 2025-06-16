@@ -1,0 +1,85 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Catalyst synthesis. The NC support was prepared via a two-step synthesis, comprising the oxidative polymerization of aniline and a subsequent carbonization step42. Aniline (50 mmol, Acros, 99.5%) was dissolved in deionized water (40 cm3, pH 0.4; adjusted by hydrochloric acid, 1.25 M, Sigma-Aldrich, >37%), cooled to 277 K and subsequently added to a precooled solution (277 K) of ammonium persulfate (100 mmol, Acros, 98%) in deionized water (20 cm3) under vigorous stirring, using a magnetic stirring bar. Subsequently, the polyaniline slurry was kept for 24 h at room temperature without stirring, followed by filtering and washing with water (~0.75 l g−1). The formed polyaniline was dried in static air at 393 K for 12 h and carbonized at 1,073 K in N 2 atmosphere for 1 h with a heating rate of 5 K min−1. The obtained NC was ground and sieved into particles with a size of 0.4–0.6 mm. Commercial AC (Norit ROX 0.8) was immersed in aqua regia at room temperature to remove metal impurities. After filtration and thorough washing with deionized water (2 l g−1), the material was dried in static air at 393 K for 12 h and subsequently ground and sieved into particles with a size of 0.4–0.6 mm. All metal-based catalysts were prepared via an incipient wetness impregnation method (nominal metal loading of 1 wt%). Accordingly, a solution of the respective metal precursor, H 2 PtCl 6 (ABCR, 99.9%, 40.0 wt% Pt) and HAuCl 4 ∙xH 2 O (ABCR, 99.9%, 49.5 wt% Au) in water (1.5 cm3 g−1) or aqua regia (1.5 cm3 g−1), was added dropwise to the carbon carriers under continuous magnetic stirring for 2 h. Subsequently, all samples were dried at 473 K (static air, 16 h, heating rate = 5 K min−1) prior to thermal activation at higher temperatures, as indicated in the respective sample code (T act = 473–1,073 K, 16 h, N 2 for T act > 473 K, heating rate = 5 K min−1), yielding three series of Pt catalysts: (1) Pt/NC-w-T act , (2) Pt/AC-w-T act and (3) Pt/AC-a-T act . The reference gold single-atom catalysts, Au/NC and Au/AC, and the graphene- confined ruthenium-based system (Ru/NC) were obtained via thermal activation at 473 K (16 h, static air) and 1,073 K (16 h, N 2 atmosphere), respectively, using aqua regia as the impregnation solvent9,25. The sulfur modified Au–S/AC catalyst (1 wt% Au) was prepared according to a patented protocol43. Accordingly, an aqueous solution of HAuCl 4 ∙xH 2 O (0.1 cm3 mg−1) was added to an aqueous solution of ammonium thiosulphate (0.03 cm3 mg−1, Sigma-Aldrich, 98%). The resulting mixture was further diluted (1.5 cm3 g−1), added dropwise to the AC support under continuous magnetic stirring and dried (Tact = 378 K, 16 h, static air)
+
+
+reasoning: 
+
+Alright, the user wants me to act as a chemist specializing in catalyst synthesis and summarize the catalysts and procedures from a detailed paragraph. Let me start by understanding the key elements. The main catalysts mentioned are platinum and gold on different carbon supports, plus a ruthenium system and a sulfur-modified gold catalyst.
+
+First, I need to break down the synthesis steps. The paragraph starts with preparing the nitrogen-doped carbon (NC) support. It involves oxidative polymerization of aniline using ammonium persulfate in acidic conditions, followed by carbonization. I should note the specific conditions: temperatures, durations, and reagents. Then, the commercial activated carbon (AC) is treated with aqua regia to remove impurities. Both supports are sieved to the same particle size.
+
+Next, the metal catalysts are prepared via incipient wetness impregnation. The metal precursors are H₂PtCl₆ and HAuCl₄, dissolved in water or aqua regia. The impregnation details include dropwise addition, stirring, drying, and thermal activation. The activation temperatures vary, leading to different catalyst series. For gold and ruthenium, specific activation conditions are mentioned. The sulfur-modified catalyst uses ammonium thiosulphate, which is a different method.
+
+I should ensure clarity by organizing the catalysts into categories: Pt-based, Au-based, Ru-based, and the Au-S variant. Highlighting the supports (NC vs. AC) and solvents (water vs. aqua regia) is crucial. Also, the thermal activation steps differ based on temperature and atmosphere, which affects the catalyst series.
+
+The user might need this summary for replicating the procedures or understanding the variables in catalyst synthesis. They might be a researcher or student looking for precise methods. Including all details like reagent sources, concentrations, temperatures, and times is essential. Noting the sieving size (0.4-0.6 mm) and metal loading (1 wt%) adds necessary specifics. Also, explaining why aqua regia is used in some cases (removing impurities or as solvent) could be important for their application.
+
+I should check if all catalysts are covered: Pt/NC-w, Pt/AC-w, Pt/AC-a, Au/NC, Au/AC, Ru/NC, and Au-S/AC. The synthesis methods for each are distinct, especially Au-S/AC with its patented protocol using thiosulphate. Mentioning the references (42,43) might be useful if they need to look up the patented method or prior carbonization steps.
+
+Finally, structuring the summary with clear sections for supports and each catalyst type will make it digestible. Ensuring all procedural details are included without omitting any steps, like the cooling to 277K during aniline polymerization or the heating rates during thermal treatments. The user's deeper need might be to compare different catalyst preparations or troubleshoot their own synthesis, so accuracy and completeness are key.
+
+answer: 
+
+Based on the provided text, here's a professional summary of the catalysts synthesized and their detailed procedures:
+
+**Synthesized Catalysts:**
+
+1.  **Platinum (Pt) Catalysts on Nitrogen-doped Carbon (NC) and Activated Carbon (AC):**
+    *   **Pt/NC-w-T<sub>act</sub>:** Pt on NC support, impregnated using *water* as solvent, activated at temperature T<sub>act</sub> (473–1073 K).
+    *   **Pt/AC-w-T<sub>act</sub>:** Pt on AC support, impregnated using *water* as solvent, activated at temperature T<sub>act</sub> (473–1073 K).
+    *   **Pt/AC-a-T<sub>act</sub>:** Pt on AC support, impregnated using *aqua regia* as solvent, activated at temperature T<sub>act</sub> (473–1073 K).
+
+2.  **Gold (Au) Single-Atom Catalysts:**
+    *   **Au/NC:** Au on NC support, impregnated using *aqua regia*, activated at 473 K in air.
+    *   **Au/AC:** Au on AC support, impregnated using *aqua regia*, activated at 473 K in air.
+
+3.  **Ruthenium (Ru) Catalyst:**
+    *   **Ru/NC:** Ru on NC support, impregnated using *aqua regia*, activated at 1073 K in N<sub>2</sub>.
+
+4.  **Sulfur-Modified Gold Catalyst:**
+    *   **Au–S/AC:** Sulfur-modified Au on AC support (1 wt% Au), prepared via a specific protocol.
+
+**Detailed Synthesis Procedures:**
+
+**I. Support Preparation:**
+    *   **Nitrogen-doped Carbon (NC):**
+        1.  **Oxidative Polymerization:** Dissolve aniline (50 mmol, Acros, 99.5%) in deionized water (40 cm³, pH 0.4 adjusted with HCl 1.25 M, Sigma-Aldrich, >37%). Cool solution to 277 K.
+        2.  Add aniline solution to a precooled (277 K) solution of ammonium persulfate (100 mmol, Acros, 98%) in deionized water (20 cm³) under vigorous magnetic stirring.
+        3.  Let the polyaniline (PANI) slurry stand unstirred at room temperature for 24 h.
+        4.  Filter the PANI and wash thoroughly with water (~0.75 L per gram PANI).
+        5.  Dry PANI in static air at 393 K for 12 h.
+        6.  **Carbonization:** Heat PANI to 1073 K in N<sub>2</sub> atmosphere (heating rate 5 K min⁻¹), hold for 1 h.
+        7.  Grind and sieve the resulting NC to 0.4–0.6 mm particles.
+    *   **Activated Carbon (AC):**
+        1.  Immerse commercial AC (Norit ROX 0.8) in aqua regia at room temperature to remove metal impurities.
+        2.  Filter the AC and wash thoroughly with deionized water (2 L per gram AC).
+        3.  Dry AC in static air at 393 K for 12 h.
+        4.  Grind and sieve AC to 0.4–0.6 mm particles.
+
+**II. Catalyst Synthesis (Metal Impregnation & Activation):**
+    *   **General Method (Incipient Wetness Impregnation - Pt & Standard Au/Ru):**
+        1.  Prepare a solution of the metal precursor (H<sub>2</sub>PtCl<sub>6</sub> for Pt [ABCR, 99.9%, 40.0 wt% Pt], HAuCl<sub>4</sub>∙xH<sub>2</sub>O for Au [ABCR, 99.9%, 49.5 wt% Au], Ru precursor for Ru) in the chosen solvent (water or aqua regia) at a volume of 1.5 cm³ per gram of carbon support.
+        2.  Add the precursor solution dropwise to the carbon support (NC or AC) under continuous magnetic stirring for 2 h.
+        3.  Dry the impregnated material at 473 K in static air for 16 h (heating rate = 5 K min⁻¹).
+        4.  **Thermal Activation:**
+            *   For **Pt Catalysts (Pt/NC-w-T<sub>act</sub>, Pt/AC-w-T<sub>act</sub>, Pt/AC-a-T<sub>act</sub>)**: Activate at specified temperature (T<sub>act</sub> = 473–1073 K) for 16 h. Use N<sub>2</sub> atmosphere for T<sub>act</sub> > 473 K. Heating rate = 5 K min⁻¹.
+            *   For **Au/NC & Au/AC**: Activate at 473 K for 16 h in static air.
+            *   For **Ru/NC**: Activate at 1073 K for 16 h in N<sub>2</sub> atmosphere (heating rate implied as 5 K min⁻¹).
+    *   **Sulfur-Modified Au Catalyst (Au–S/AC):**
+        1.  Prepare an aqueous solution of HAuCl<sub>4</sub>∙xH<sub>2</sub>O (0.1 cm³ per mg Au salt).
+        2.  Prepare an aqueous solution of ammonium thiosulphate (0.03 cm³ per mg thiosulphate, Sigma-Aldrich, 98%).
+        3.  Mix the HAuCl<sub>4</sub> and (NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>3</sub> solutions.
+        4.  Dilute the resulting mixture to 1.5 cm³ per gram of AC support.
+        5.  Add the diluted mixture dropwise to the AC support under continuous magnetic stirring.
+        6.  Dry the material at 378 K in static air for 16 h.
+
+**Key Details:**
+*   **Nominal Metal Loading:** 1 wt% for all catalysts.
+*   **Solvent for Impregnation:** Water (*w*) or Aqua Regia (*a*) specified per catalyst series.
+*   **Activation Conditions:** Crucial and varied (Temperature, Atmosphere, Duration) defining catalyst identity (especially for Pt series and Au vs Ru).
+*   **Supports:** NC (synthesized PANI-derived) and AC (commercial, acid-washed).
+*   **Particle Size:** All supports sieved to 0.4–0.6 mm before impregnation.
+*   **Au-S/AC:** Uses a distinct patented protocol involving pre-mixing Au precursor with thiosulphate before impregnation and lower drying temperature.

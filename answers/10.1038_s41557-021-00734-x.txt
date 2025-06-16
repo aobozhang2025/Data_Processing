@@ -1,0 +1,117 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Ir–GO–NH 2 -x synthesis. First, to prepare the nitrogen-doped graphene support (GO–NH 2 ), GO (purchased from CYG and used as received) was mixed with urea (VWR) with a mass ratio of 1 to 10, and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and then kept at the same temperature for another 2 h before cooling to room temperature. Then, Ir– GO–NH 2 -x was synthesized by following the same process as for Ir–N–C-x catalyst using the GO–NH 2 as the support instead of GQDs–NH 2 .
+
+Ni–N–C-x synthesis. First, 1 gram of Ni(NO 3 ) 2 ∙6H 2 O (Sigma) was dissolved into 200 millilitres of DI water to prepare the Ni(NO 3 ) 2 stock solution with a concentration of ~5 milligrams per millilitre. Then, for the Ni–N–C sample with 15 wt% nickel, 3 millilitres of Ni(NO 3 ) 2 stock solution was added to ~30 millilitres of purified GQDs–NH 2 solution (~30 milligrams of GQDs–NH 2 ), followed by sonication in ice water for 15 min. The above solution was freeze dried and mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 750 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and then kept at the same temperature for another 1 h before cooling to room temperature. Finally, the as-prepared powder was collected for further characterization. To synthesize the Ni–N–C-x catalysts for the electrochemical CO 2 reduction test, only 30 milligrams of GQDs–NH 2 was replaced using 30 milligrams of GQDs–OH. To prepare GQDs– OH, all the processes are the same as in the preparation of GQDs–NH 2 except 240 millilitres of 0.2 M NaOH solution was used to replace the previous ammonia solution (220 millilitres of DI plus 20 millilitres of concentrated ammonia). This is because the heavily nitrogen-doped carbon matrix will also promote the hydrogen evolution reaction. The as-prepared Ni–N–C-1.5 (~7.5 wt% Ni) and Ni–N–C-3 (~15 wt% Ni) single-atom catalysts from GQDs–OH were also verified using STEM.
+
+Synthesis of functionalized GQDs. A modified molecular fusion route was employed to synthesize well-crystallized GQDs– NH 2 (Methods)34. Photoluminescence (PL) emission studies (Supplementary Fig. 1) of the as-prepared carbon suspension pres- ents an excitation-dependent PL, confirming the successful prepa- ration of GQDs33. Transmission electron microscopy (TEM) images
+
+Synthesis of Ir single-atom catalyst. We then use the as-obtained GQDs–NH 2 solution to synthesize the Ir–N–C catalyst with var- ied iridium loadings (Fig. 2a). Specifically, different volumes of IrCl 3 stock solution (5 milligrams per millilitre) were first added into 30 millilitres of GQDs–NH 2 solution (1 milligram per mil- lilitre), henceforth referred to as Ir–N–C-x where x represents the IrCl 3 volume in millilitres, followed by freeze drying and pyrolysis.
+
+Methods GQDs–NH 2 synthesis. A modified molecular fusion route was employed to synthesize well-crystallized GQDs–NH 2 34 . Typically, 8 grams of pyrene (Sigma, purity >98%) was nitrated into trinitropyrene in 640 millilitres of concentrated HNO 3 (70%, Sigma) at 80 °C under refluxing and stirring for 12 h. After cooling to room temperature, the mixture was washed to neutral pH using deionized (DI) water (18.2 MΩ) by centrifuging. The resultant yellow 1,3,6-trinitropyrene was then dried under vacuum at room temperature. Next, 1.2 grams of dried 1,3,6-trinitropyrene powder were dispersed into a solution containing 220 millilitres of DI water and 20 millilitres of concentrated ammonia solution (30%, Sigma). The above mixture was ultrasonicated in ice water using a batch sonicator for 4 h. Sixty millilitres of the homogeneous suspension were transferred into a Teflon-lined autoclave (100 millilitres). The four autoclaves (total 240 millilitres mixture solution) were heated at 200 °C for 10 h. After natural cooling to room temperature, all the product-containing solution was filtered through a 0.22 μm microporous membrane to remove insoluble carbon product and further concentrated to ~90 millilitres by rotation drying. The concentrated solution was dialysed in a dialysis bag (retained molecular weight, ~12–14 kDa, Innovating Science) for two days to remove contamination and unfused small molecules. The concentration of purified GQDs–NH 2 solution was ~1 milligram per millilitre.
+
+Ir–N–C-x synthesis. First, 1 gram of IrCl 3 ∙xH 2 O (Alfa Aesar) was dissolved into 200 millilitres of DI water to prepare the IrCl 3 stock solution with a concentration of ~5 milligrams per millilitre. For the Ir–N–C-7 sample, 7 millilitres of IrCl 3 stock solution were added to ~30 millilitres of purified GQDs–NH 2 solution (~30 milligrams of GQDs–NH 2 ). Then, the mixture solution was sonicated in ice water for 15 min, followed by being quickly frozen in liquid nitrogen. After freeze drying, the as-prepared aerogel-like powder was mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and kept at the same temperature for another 2 h before cooling to room temperature. Finally, the Ir–N–C-7 powder was collected for further characterizations. For other Ir–N–C-x catalyst syntheses, only the volume of IrCl 3 stock solution was changed; for example 1 millilitre of IrCl 3 stock solution was used to prepared Ir–N–C-1 catalyst. The nominal Ir loading was defined using following equation: Mass added − Ir ( mg ) Mass added − Ir ( mg )+ Mass GQDs ( mg ) × 100 %, where Mass added–Ir and Mass GQDs are the masses of the added Ir and the GQDs, respectively.
+
+Pt–N–C-6 synthesis. First, 1 gram of H 2 PtCl 6 (Sigma) was dissolved into 200 millilitres of DI water to prepare the H 2 PtCl 6 stock solution with a concentration of 5 milligrams per millilitre. Then, 6 millilitres of H 2 PtCl 6 stock solution was added to ~30 millilitres of purified GQDs–NH 2 solution (~30 milligrams of GQDs–NH 2 ), followed by sonication in ice water for 15 min. The above solution was freeze dried and mixed with urea (VWR) with a mass ratio of 1 to 10, and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 2 h, and then kept at the same temperature for another 1 h before cooling to room temperature. Finally, the Pt–N–C-6 powder was collected for further characterization. The nominal Pt loading was defined using the following equation: Mass added − Pt ( mg ) Mass added − Pt ( mg )+ Mass GQDs ( mg ) × 100 %, where Mass added–Pt is the mass of the added Pt.
+
+reasoning: 
+
+Alright, the user wants me to act as a chemist specializing in catalyst synthesis and summarize the catalysts and their synthesis procedures from the provided text. Let me start by carefully reading through the entire paragraph to extract all relevant details.
+
+First, I notice multiple catalysts are described: Ir–GO–NH₂-x, Ni–N–C-x, Ir–N–C-x, and Pt–N–C-6. Each has its own synthesis steps. I need to organize these systematically. 
+
+Starting with Ir–GO–NH₂-x. The support is nitrogen-doped graphene (GO–NH₂). The procedure involves mixing GO with urea in a 1:10 ratio, heating to 500°C under Ar flow for 1 hour ramp and 2 hours hold. Then, the Ir catalyst is synthesized similarly to Ir–N–C-x but using GO–NH₂ instead of GQDs–NH₂. However, the Ir–N–C-x synthesis details are in a later section, so I should reference that.
+
+For Ni–N–C-x, the support is GQDs–NH₂. A Ni(NO₃)₂ stock solution is prepared. For 15 wt% Ni, 3 mL of stock is added to GQDs–NH₂ solution, sonicated in ice water, freeze-dried, mixed with urea (1:10), and pyrolyzed at 750°C (1 hour ramp, 1 hour hold). The electrochemical version uses GQDs–OH instead. GQDs–OH synthesis replaces ammonia with NaOH in the fusion route. 
+
+The GQDs–NH₂ synthesis is detailed in the Methods. It starts with nitrating pyrene to trinitropyrene using HNO₃, washing, drying. Then dispersing in ammonia solution, sonicating, hydrothermal treatment at 200°C for 10 hours, filtering, concentrating, and dialyzing. 
+
+Ir–N–C-x uses GQDs–NH₂ support. IrCl₃ stock is added to GQDs–NH₂ solution, sonicated, freeze-dried, mixed with urea (1:10), pyrolyzed at 500°C (1 hour ramp, 2 hours hold). The nominal loading is calculated based on added Ir and GQDs mass. 
+
+Pt–N–C-6 follows a similar process but with H₂PtCl₆ stock, and pyrolysis at 500°C with 2 hours ramp and 1 hour hold. 
+
+I need to ensure all steps, conditions, reagents, and ratios are accurately captured. The user likely needs this for replicating the synthesis or understanding the methodology. They might be a researcher or student in materials science or catalysis. Including precise details like temperatures, times, mass ratios, and stock concentrations is crucial. Also, clarifying the supports (GO vs. GQDs) and functional groups (–NH₂ vs. –OH) is important for catalyst performance. Highlighting the difference in pyrolysis temperatures between Ni and Ir/Pt catalysts could be relevant for their properties. Ensuring that each catalyst's synthesis is clearly delineated without confusion between similar steps (e.g., freeze-drying and pyrolysis) is key. Finally, the nominal loading calculations should be included for reproducibility.
+
+answer: 
+
+Based on the provided text, here is a professional chemist's summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+1.  **Ir–GO–NH₂-x:** Iridium single-atom catalyst supported on nitrogen-doped graphene oxide.
+2.  **Ni–N–C-x:** Nickel single-atom catalyst supported on nitrogen-doped graphene quantum dots (GQDs). Variations include Ni–N–C-1.5 (~7.5 wt% Ni) and Ni–N–C-3 (~15 wt% Ni) using GQDs–OH, and a version using GQDs–NH₂.
+3.  **Ir–N–C-x:** Iridium single-atom catalyst supported on nitrogen-doped graphene quantum dots (GQDs–NH₂). Specific examples: Ir–N–C-1, Ir–N–C-7.
+4.  **Pt–N–C-6:** Platinum single-atom catalyst supported on nitrogen-doped graphene quantum dots (GQDs–NH₂). Nominal Pt loading defined by calculation.
+
+**Detailed Synthesis Procedures:**
+
+**1.  Support Synthesis - GQDs–NH₂ (Required for Ir-N-C-x, Pt-N-C-6, Ni-N-C-x variants):**
+    *   **Step 1: Nitration.** 8 g pyrene is refluxed in 640 ml concentrated HNO₃ (70%) at 80°C for 12 h under stirring.
+    *   **Step 2: Washing & Drying.** Cool to RT, wash with DI water (18.2 MΩ) via centrifugation until neutral pH. Dry the resulting 1,3,6-trinitropyrene under vacuum at RT.
+    *   **Step 3: Dispersion & Sonication.** Disperse 1.2 g dried 1,3,6-trinitropyrene in 220 ml DI water + 20 ml concentrated NH₄OH (30%). Ultrasonicate in ice water for 4 h.
+    *   **Step 4: Hydrothermal Fusion.** Transfer 60 ml aliquots into 100 ml Teflon-lined autoclaves (4 autoclaves total for 240 ml). Heat at 200°C for 10 h.
+    *   **Step 5: Filtration & Concentration.** Cool naturally to RT. Filter the product solution through a 0.22 μm membrane. Concentrate the filtrate to ~90 ml by rotary evaporation.
+    *   **Step 6: Dialysis.** Dialyze the concentrated solution against water using a dialysis bag (MWCO 12-14 kDa) for 2 days to remove impurities. Final concentration ~1 mg/ml.
+
+**2.  Support Synthesis - GO–NH₂ (Required for Ir-GO-NH₂-x):**
+    *   **Step 1: Mixing.** Mix Graphene Oxide (GO) with urea at a mass ratio of 1:10 (GO:urea).
+    *   **Step 2: Pyrolysis.** Heat the mixture in a tube furnace under 100 sccm Ar (UHP):
+        *   Ramp to 500°C within 1 h.
+        *   Hold at 500°C for 2 h.
+        *   Cool to RT.
+
+**3.  Support Synthesis - GQDs–OH (Required for Ni-N-C-x EC tests):**
+    *   **Procedure:** Identical to GQDs–NH₂ synthesis (Steps 3-6).
+    *   **Modification:** Replace the ammonia solution (220 ml DI + 20 ml NH₄OH) with 240 ml of 0.2 M NaOH solution in Step 3.
+
+**4.  Catalyst Synthesis - Ir–GO–NH₂-x:**
+    *   **Step 1: Support Prep.** Synthesize GO–NH₂ as described above.
+    *   **Step 2: Catalyst Formation.** Follow the **Ir–N–C-x synthesis procedure** (detailed below), but substitute the GQDs–NH₂ support with the GO–NH₂ support.
+
+**5.  Catalyst Synthesis - Ir–N–C-x (e.g., Ir–N–C-1, Ir–N–C-7):**
+    *   **Step 1: Precursor Solution.** Prepare IrCl₃ stock solution: Dissolve 1 g IrCl₃·xH₂O in 200 ml DI water (~5 mg/ml).
+    *   **Step 2: Mixing.** Add 'x' ml of IrCl₃ stock solution to ~30 ml purified GQDs–NH₂ solution (~30 mg GQDs–NH₂). (e.g., 7 ml for Ir-N-C-7).
+    *   **Step 3: Sonication.** Sonicate the mixture in ice water for 15 min.
+    *   **Step 4: Freeze-Drying.** Quickly freeze the mixture in liquid nitrogen, then freeze-dry to obtain an aerogel-like powder.
+    *   **Step 5: Mixing with Urea.** Mix the freeze-dried powder with urea at a mass ratio of 1:10 (Catalyst precursor : Urea).
+    *   **Step 6: Pyrolysis.** Heat the mixture in a tube furnace under 100 sccm Ar (UHP):
+        *   Ramp to 500°C within 1 h.
+        *   Hold at 500°C for 2 h.
+        *   Cool to RT.
+    *   **Step 7: Collection.** Collect the Ir–N–C-x powder.
+    *   **Nominal Ir Loading:** Calculated as: `[Mass added–Ir (mg) / (Mass added–Ir (mg) + Mass GQDs (mg))] x 100%`
+
+**6.  Catalyst Synthesis - Pt–N–C-6:**
+    *   **Step 1: Precursor Solution.** Prepare H₂PtCl₆ stock solution: Dissolve 1 g H₂PtCl₆ in 200 ml DI water (5 mg/ml).
+    *   **Step 2: Mixing.** Add 6 ml H₂PtCl₆ stock solution to ~30 ml purified GQDs–NH₂ solution (~30 mg GQDs–NH₂).
+    *   **Step 3: Sonication.** Sonicate the mixture in ice water for 15 min.
+    *   **Step 4: Freeze-Drying.** Freeze-dry the mixture.
+    *   **Step 5: Mixing with Urea.** Mix the freeze-dried powder with urea at a mass ratio of 1:10.
+    *   **Step 6: Pyrolysis.** Heat the mixture in a tube furnace under 100 sccm Ar (UHP):
+        *   Ramp to 500°C within **2 h**.
+        *   Hold at 500°C for **1 h**.
+        *   Cool to RT.
+    *   **Step 7: Collection.** Collect the Pt–N–C-6 powder.
+    *   **Nominal Pt Loading:** Calculated as: `[Mass added–Pt (mg) / (Mass added–Pt (mg) + Mass GQDs (mg))] x 100%`
+
+**7.  Catalyst Synthesis - Ni–N–C-x (e.g., Ni–N–C-3 using GQDs–NH₂ / Ni–N–C-1.5 & Ni–N–C-3 using GQDs–OH):**
+    *   **Step 1: Precursor Solution.** Prepare Ni(NO₃)₂ stock solution: Dissolve 1 g Ni(NO₃)₂·6H₂O in 200 ml DI water (~5 mg/ml).
+    *   **Step 2a: Support for Non-EC:** Use purified GQDs–NH₂ solution (~1 mg/ml).
+    *   **Step 2b: Support for EC Test:** Use purified GQDs–OH solution (concentration implied ~1 mg/ml).
+    *   **Step 3: Mixing.** Add 'y' ml of Ni(NO₃)₂ stock solution to ~30 ml support solution (~30 mg support). (e.g., 3 ml for ~15 wt% Ni).
+    *   **Step 4: Sonication.** Sonicate the mixture in ice water for 15 min.
+    *   **Step 5: Freeze-Drying.** Freeze-dry the mixture.
+    *   **Step 6: Mixing with Urea.** Mix the freeze-dried powder with urea at a mass ratio of 1:10.
+    *   **Step 7: Pyrolysis.** Heat the mixture in a tube furnace under 100 sccm Ar (UHP):
+        *   Ramp to **750°C** within 1 h.
+        *   Hold at **750°C** for **1 h**.
+        *   Cool to RT.
+    *   **Step 8: Collection.** Collect the Ni–N–C-x powder. (Ni–N–C-1.5 & Ni–N–C-3 from GQDs–OH verified by STEM).
+
+**Key Observations:**
+*   The core synthesis strategy involves adsorbing the metal precursor (IrCl₃, H₂PtCl₆, Ni(NO₃)₂) onto a nitrogen-functionalized carbon support (GQDs–NH₂, GQDs–OH, GO–NH₂), followed by freeze-drying, mixing with excess urea, and high-temperature pyrolysis under inert gas (Ar).
+*   Pyrolysis temperature is critical: 500°C for Ir/Pt catalysts, 750°C for Ni catalysts.
+*   Urea serves as an additional nitrogen source during pyrolysis, promoting N-doping and potentially aiding in the formation of M-Nₓ sites.
+*   Nominal metal loading is controlled by the volume of metal stock solution added relative to a fixed mass of carbon support.
+*   The choice of support (GQDs–NH₂ vs GQDs–OH vs GO–NH₂) and its functionalization significantly impacts the catalyst properties and intended application (e.g., avoiding heavy N-doping for CO₂RR by using GQDs–OH).

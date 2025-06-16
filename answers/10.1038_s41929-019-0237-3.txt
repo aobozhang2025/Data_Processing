@@ -1,0 +1,106 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Results Synthesis of TPI@Z8(SiO 2 )-650-C. Concave-shaped Fe–N–C SACs with largely enhanced mesoporosity and external surface area (TPI@Z8(SiO 2 )-650-C) were synthesized as shown in Fig. 1a. Briefly, mesoporous SiO 2 -coated ZIF-8 (Z8) was preheated at 650 °C in an argon ambient, and then the silica layer was etched off to form a concave-shaped host possessing a negative zeta potential (ζ) and enlarged micropores. Consequently, this allowed the iron source— positively charged TPI ions ([Fe(Phen) 3 ]2+, a Fe(ii)-phenanthroline complex)—to be easily absorbed into this host through strong electrostatic absorption. Finally, the integrated precursor was pyrolysed in argon/ammonia to obtain TPI@Z8(SiO 2 )-650-C. The SiO 2 -coating and preheating treatments were crucial to achieve the concave shape and development of the Fe–N–C SAC respectively. The concave morphology was created by the anisotropic ther- mal shrinkage of ZIF-8. With an external SiO 2 coating layer, the edge frame of the dodecahedron could be maintained while the planar faces collapsed, as elucidated by the thermal stress analysis
+
+Synthesis of TPI@Z8(SiO 2 )-650-C. The obtained ZIF-8 powder (ζ = 29 ± 5 mV) was first coated with a layer of silica following a previous procedure53. Typically, 600 mg ZIF-8 was dispersed in 240 ml H 2 O, followed by the addition of 150 mg cetyltrimethylammonium bromide (CTAB) and 57.6 mg NaOH. Tetraethyl orthosilicate (1.2 ml in 6 ml methanol) was added drop-wise into the above solution, and the resulting dispersion was stirred for 0.5 h. The core-shell nanoparticles were then separated by filtration and then dried in a vacuum at 80 °C overnight (yield ≈ 0.87 g). The core-shell nanoparticles were grinded and then underwent a heat treatment at 650 °C for 1 h under argon atmosphere (yield ≈ 0.65 g) in a tube furnace. Subsequently, the silica layer was etched by NaOH solution (3 mol l−1) at 50 °C for 20 h, and then the dispersion was separated by filtration and washed thoroughly until the filtrate became neutral to obtain Z8(SiO 2 )-650 (yield ≈ 0.4 g, ζ = −50 ± 5 mV). We dispersed 200 mg of Z8(SiO 2 )-650 powder in 10 mL H 2 O and ultra-sonicated for 20 min. Then 0.4 ml TPI aqueous solution (50 mg ml−1, prepared by dissolving ferrous acetate (Fe(Ac) 2 ) and 1,10 phenanthroline (phen) with molar ratio of 1:3 in water), was added into the above dispersion and ultra-sonicated for another 20 min. When investigating TPI addition, different volumes (0.04, 0.12, 0.24, 0.32 and 0.4 ml) of TPI solution were added while the subsequent steps remained unchanged. After filtering, the resultant precipitate was rinsed with deionized water, and dried in a vacuum oven overnight at 80 °C to obtain TPI@Z8(SiO 2 )-650 (ζ = −14 ± 6 mV with the saturated TPI absorption). The precursor was grinded, and around 100 mg of the sample was pyrolysed in the tube furnace at 1,000 °C for 1 h under argon atmosphere. When the heating was completed and the temperature dropped to 800 °C, ammonia (200 ml·min−1) was introduced into the tube, and furnace was kept at this temperature for 15 min. After this process, the ammonia was switched to argon, and the furnace was naturally cooled to room temperature. The final product was TPI@Z8(SiO 2 )-650-C (yield ≈ 30 mg). The used tube furnace had a quartz tube with a diameter (D) of 10 cm and length (L) of 60 cm. The heating rate was set to be 10 °C min−1. The powders were placed in semi-cylindrical alundum boats for heat treatment (D = 3 cm, L = 5 cm for 650 °C treatment; D = 0.8 cm, L = 4 cm for 1,000 °C treatment).
+
+Methods Synthesis of ZIF-8 dodecahedron. In a typical procedure, a 100 ml methanol solution containing 2.94 g Zn(NO 3 ) 2 ·6H 2 O was quickly poured into another 100 ml methanol solution of 2-methylimidazole (3.24 g) while stirring. The mixture was stirred for 5 h. The white precipitates were centrifuged, washed with methanol three times and dried in a vacuum at 80 °C; 0.8 g ZIF-8 was obtained with a yield of 40% based on zinc.
+
+Synthesis of control samples of TPI@Z8-650-C and Z8/TPI-C. For TPI@Z8- 650-C, 600 mg of the as-obtained powder of ZIF-8 was firstly heated at 650 °C for 1 h under argon atmosphere to give Z8-650 (yield ≈ 480 mg). The following procedures were identical to the synthesis of TPI@Z8(SiO 2 )-650-C. For ZIF/ TPI-C, 200 mg ZIF-8 was directly dispersed in 10 ml H 2 O and ultra-sonicated for 20 min. Then 0.4 ml TPI aqueous solution was added into the above dispersion and ultra-sonicated for another 20 min. After filtering, the resultant precipitate was rinsed with deionized water until the filtrate became colourless and dried in a vacuum oven overnight at 80 °C to obtain Z8/TPI. The following pyrolysis step was identical to the synthesis of TPI@Z8(SiO 2 )-650-C. Around 22 mg of Z8/TPI-C was finally produced from100 mg Z8/TPI.
+
+reasoning: 
+
+Okay, the user wants me to summarize the catalyst synthesis from a detailed chemistry paragraph. Let me break this down carefully. 
+
+First, the catalyst being synthesized is TPI@Z8(SiO₂)-650-C - that's a concave-shaped Fe-N-C single-atom catalyst. The key innovation here is creating that concave morphology with enhanced mesoporosity. 
+
+Hmm, the synthesis has multiple intricate steps. Starting with ZIF-8 dodecahedron preparation: zinc nitrate and 2-methylimidazole in methanol, centrifuged and dried. Then comes the critical SiO₂ coating step - they use CTAB and NaOH to form core-shell nanoparticles with tetraethyl orthosilicate. Interesting how the silica coating enables the anisotropic thermal shrinkage later.
+
+The preheating at 650°C under argon is crucial - this creates the concave shape by differential shrinkage while silica maintains the edges. Then NaOH etching removes silica, leaving the modified host with negative zeta potential. Smart how they exploit electrostatic attraction for the Fe(II)-phenanthroline complex absorption.
+
+The pyrolysis protocol is quite specific - 1000°C in argon first, then ammonia treatment at 800°C. That ammonia step probably creates the active Fe-N sites. Noticed they provided exact furnace dimensions and boat sizes - user must need these experimental details.
+
+Wait, they also synthesized two control samples - that helps highlight why the SiO₂ coating step is essential. The yield is quite low (30mg from 100mg precursor) but typical for SACs. 
+
+User seems to be a materials chemist based on the query - probably replicating this for electrocatalysis research. They'll need all technical parameters: temperatures, times, concentrations, even the zeta potential values. Should emphasize why each step matters - like how silica coating enables concave morphology via constrained shrinkage.
+
+answer: 
+
+Based on the provided text, here is a professional chemist's summary of the synthesized catalyst and its detailed synthesis procedure:
+
+**Synthesized Catalyst:**
+*   **Name:** TPI@Z8(SiO₂)-650-C
+*   **Type:** Concave-shaped Fe–N–C Single-Atom Catalysts (SACs)
+*   **Key Features:**
+    *   Significantly enhanced mesoporosity and external surface area.
+    *   Concave morphology derived from the ZIF-8 dodecahedron precursor.
+    *   Active sites consist of Fe atoms coordinated with N atoms embedded in a carbon matrix.
+
+**Detailed Synthesis Procedure:**
+
+1.  **Synthesis of ZIF-8 Dodecahedron:**
+    *   Quickly pour 100 ml methanol solution containing 2.94 g Zn(NO₃)₂·6H₂O into 100 ml methanol solution containing 3.24 g 2-methylimidazole under stirring.
+    *   Stir the mixture for 5 hours.
+    *   Centrifuge the white precipitates.
+    *   Wash the precipitate with methanol three times.
+    *   Dry under vacuum at 80 °C.
+    *   **Yield:** ~0.8 g (40% based on zinc).
+
+2.  **Silica Coating of ZIF-8:**
+    *   Disperse 600 mg of synthesized ZIF-8 powder (ζ = +29 ± 5 mV) in 240 ml H₂O.
+    *   Add 150 mg Cetyltrimethylammonium Bromide (CTAB) and 57.6 mg NaOH.
+    *   Add 1.2 ml Tetraethyl Orthosilicate (TEOS) dissolved in 6 ml methanol drop-wise.
+    *   Stir the resulting dispersion for 0.5 hours.
+    *   Separate the core-shell nanoparticles (ZIF-8@SiO₂) by filtration.
+    *   Dry under vacuum at 80 °C overnight.
+    *   **Yield:** ~0.87 g.
+
+3.  **Preheating (Anisotropic Shrinkage & Carbonization):**
+    *   Grind the ZIF-8@SiO₂ core-shell nanoparticles.
+    *   Heat treat the powder at **650 °C for 1 hour** under **argon atmosphere** (flow rate not specified) in a tube furnace (semi-cylindrical alundum boat, D=3 cm, L=5 cm; heating rate: 10 °C min⁻¹).
+    *   **Purpose:** Induces anisotropic thermal shrinkage of ZIF-8. The SiO₂ coating constrains the edges, causing planar faces to collapse inward, creating the concave morphology while partially carbonizing the ZIF-8 core.
+    *   **Yield:** ~0.65 g.
+
+4.  **Silica Etching:**
+    *   Etch the silica layer from the preheated material using 3 mol L⁻¹ NaOH solution at **50 °C for 20 hours**.
+    *   Separate the dispersion by filtration.
+    *   Wash thoroughly with water until the filtrate is neutral.
+    *   **Product:** Z8(SiO₂)-650 (concave-shaped carbon host).
+    *   **Yield:** ~0.4 g.
+    *   **Zeta Potential (ζ):** -50 ± 5 mV (confirming successful SiO₂ removal and negative surface charge).
+
+5.  **Adsorption of Iron Precursor (TPI):**
+    *   Disperse 200 mg of Z8(SiO₂)-650 powder in 10 mL H₂O.
+    *   Ultrasonicate for 20 minutes.
+    *   Add **0.4 ml TPI aqueous solution** (50 mg ml⁻¹; prepared by dissolving Fe(Ac)₂ and 1,10-phenanthroline (phen) in a 1:3 molar ratio in water).
+    *   Ultrasonicate for another 20 minutes.
+    *   *Note:* TPI loading can be varied (0.04, 0.12, 0.24, 0.32, 0.4 ml) while keeping other steps constant.
+    *   Filter the dispersion.
+    *   Rinse the precipitate with deionized water.
+    *   Dry under vacuum at 80 °C overnight.
+    *   **Product:** TPI@Z8(SiO₂)-650 (Iron complex loaded precursor).
+    *   **Zeta Potential (ζ):** -14 ± 6 mV (after saturated TPI absorption).
+
+6.  **High-Temperature Pyrolysis & Activation:**
+    *   Grind the TPI@Z8(SiO₂)-650 precursor.
+    *   Place ~100 mg of the ground precursor in a semi-cylindrical alundum boat (D=0.8 cm, L=4 cm) within a tube furnace (quartz tube D=10 cm, L=60 cm).
+    *   Pyrolyze under **argon atmosphere** at **1000 °C for 1 hour** (heating rate: 10 °C min⁻¹).
+    *   When the temperature **drops to 800 °C** (post-pyrolysis), introduce **ammonia gas (200 ml min⁻¹)**.
+    *   Maintain at **800 °C under ammonia for 15 minutes**.
+    *   Switch the gas back to **argon**.
+    *   Allow the furnace to cool naturally to room temperature.
+    *   **Final Product:** TPI@Z8(SiO₂)-650-C (Fe-N-C SAC).
+    *   **Yield:** ~30 mg (from ~100 mg precursor).
+
+**Key Roles of Specific Steps:**
+*   **SiO₂ Coating & Preheating (650°C):** Essential for creating the **concave morphology** via constrained anisotropic thermal shrinkage of ZIF-8. The SiO₂ maintains the edge frame while allowing planar faces to collapse.
+*   **Silica Etching:** Removes the SiO₂ layer, exposes the concave carbon host, and imparts a **strong negative surface charge** (ζ = -50 mV), crucial for electrostatic absorption of the cationic TPI.
+*   **TPI Adsorption:** Utilizes electrostatic forces to load the **positively charged Fe(II)-phenanthroline complex** ([Fe(Phen)₃]²⁺) into the concave host.
+*   **High-T Pyrolysis (1000°C/Ar):** Converts the organic/inorganic precursor into the carbon-based matrix.
+*   **Ammonia Treatment (800°C):** Critical for **developing the Fe-N-C active sites** (likely by etching amorphous carbon, doping nitrogen, and forming Fe-Nₓ coordination).
+
+**Control Samples Synthesized (Briefly):**
+*   **TPI@Z8-650-C:** ZIF-8 directly preheated at 650°C (no SiO₂ coating/etching) before TPI adsorption and pyrolysis/activation. Lacks the concave morphology.
+*   **Z8/TPI-C:** ZIF-8 directly loaded with TPI (no preheating, no SiO₂ coating/etching) followed by pyrolysis/activation. Represents the standard Fe-N-C synthesis without morphological control.

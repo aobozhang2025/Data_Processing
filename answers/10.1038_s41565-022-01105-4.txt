@@ -1,0 +1,120 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Catalyst preparation. All carbon-supported metal-based catalysts (nominal metal loading 1 mass%), denoted M/C, were prepared by an incipient wetness impregnation method, employing the respective metal chloride and aqua regia34,37, HCl or deionized water as solvent39. The obtained solutions were added dropwise onto the carbon carriers (that is, polyaniline-derived NC45 or commercial AC (Norit ROX 0.8). Subsequently, all samples were dried at 473 K (heating rate = 5 K min−1, 16 h, static air) to yield the respective SA catalyst, denoted M-SA/ NC or M-SA/AC. In the case of Au, Pt and Pd, M-SA-N 4 /NC catalysts were obtained by thermal activation of the respective M-SA/NC sample (T act = 1,073 K, heating rate = 5 K min−1, 16 h, flowing N 2 ). The NP-based catalysts (M-NP/NC for Ru, Rh and Ir, and M-NP/AC for all metals) were derived by thermal activation in the temperature range T act = 523–1,073 K (heating rate = 5 K min−1, 16 h, flowing N 2 ). The catalysts are denoted M/C-x h after use in the acetylene hydrochlorination reaction for x h tos. Further details of the catalyst synthesis are provided in the Supplementary Information.
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalysts and procedures from a technical paragraph. Let me carefully parse this dense materials science text.
+
+First, I need to identify the core components: carbon-supported metal catalysts with 1% nominal loading. The preparation method is clearly incipient wetness impregnation - a standard technique where we add just enough solution to fill the pores of the support material. 
+
+Hmm, the solvents used are quite varied: aqua regia for some, HCl for others, and even DI water. That's interesting - the choice probably depends on metal chloride solubility. The carbon supports are specifically mentioned: PAN-derived NC45 and commercial Norit AC. 
+
+The drying step is critical - 473K with controlled ramp in static air. Then comes the key differentiation: some catalysts get additional thermal activation under N2 at high temps (up to 1073K!). I notice gold, platinum and palladium on NC support get special treatment to make M-SA-N4/NC. 
+
+The nanoparticle catalysts (M-NP) have broader activation temp ranges. Ah, and post-reaction labeling convention is important too - they denote usage time with "x h" suffix. 
+
+Better emphasize the metal-specific treatments and support variations since that affects final catalyst structure. Should also clarify the "SA" vs "NP" terminology upfront - single atom versus nanoparticle dispersion. The SI reference is crucial for replicability but I'll note it's supplemental. 
+
+User seems technically proficient given they're asking for synthesis details - probably a researcher or grad student. They likely need this for methodology comparison or replication. I'll maintain precise terminology but structure it logically. Mustn't miss any parameters - heating rates, durations, atmospheres all matter for reproducibility. 
+
+*checks thermal activation conditions* Nearly missed that Ru/Rh/Ir NP catalysts only use NC support while others use both. Important distinction! Also the flowing vs static atmospheres impact metal reduction. 
+
+Final pass: confirmed all metal types, supports, solvents, temp programs, and naming conventions are covered. Added synthesis flowchart in mind: impregnation → drying → (optional activation) → labeling. Should address their professional needs comprehensively.
+
+answer: 
+
+Based on the provided text, here's a professional summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+
+1.  **Carbon-Supported Single-Atom (SA) Catalysts (M-SA/NC or M-SA/AC):**
+    *   **Composition:** Metal (M) atoms dispersed on carbon support.
+    *   **Metal Loading:** Nominal 1 mass%.
+    *   **Supports:** Polyaniline-derived Nitrogen-doped Carbon (NC) or Commercial Activated Carbon (AC, Norit ROX 0.8).
+    *   **Designation:** `M-SA/NC` or `M-SA/AC`.
+
+2.  **Nitrogen-Stabilized Single-Atom Catalysts (M-SA-N4/NC):** (Specific to Au, Pt, Pd)
+    *   **Composition:** Metal (M = Au, Pt, Pd) atoms stabilized by nitrogen sites in the NC support.
+    *   **Precursor:** Derived from the corresponding M-SA/NC catalyst.
+    *   **Support:** Only Polyaniline-derived Nitrogen-doped Carbon (NC).
+    *   **Designation:** `M-SA-N4/NC`.
+
+3.  **Carbon-Supported Nanoparticle (NP) Catalysts (M-NP/NC or M-NP/AC):**
+    *   **Composition:** Metal (M) nanoparticles on carbon support.
+    *   **Metal Loading:** Nominal 1 mass%.
+    *   **Supports:**
+        *   `M-NP/NC`: For Ru, Rh, Ir *only* on NC support.
+        *   `M-NP/AC`: For *all* metals (incl. Au, Pt, Pd, Ru, Rh, Ir) on AC support.
+    *   **Designation:** `M-NP/NC` or `M-NP/AC`.
+
+4.  **Post-Reaction Catalysts:**
+    *   **Designation:** `M/C-x h` (e.g., `Pt/AC-24 h`), indicating use in acetylene hydrochlorination for `x` hours.
+
+**Detailed Synthesis Procedures:**
+
+1.  **Incipient Wetness Impregnation (Common First Step for all M-SA):**
+    *   **Precursor Solution:** Prepared using the respective metal chloride salt dissolved in a solvent.
+    *   **Solvents Used:** Aqua regia, HCl, or deionized water (solvent choice referenced to prior studies 34,37,39).
+    *   **Impregnation:** The precursor solution was added **dropwise** to the carbon support (NC or AC) until the point of incipient wetness (solution volume ≈ pore volume of support).
+    *   **Supports Used:** Polyaniline-derived NC (NC45) or Commercial Activated Carbon (Norit ROX 0.8).
+
+2.  **Drying (To yield M-SA/NC or M-SA/AC):**
+    *   **All** impregnated samples underwent drying.
+    *   **Temperature:** 473 K (200 °C).
+    *   **Heating Rate:** 5 K min⁻¹ (5 °C min⁻¹).
+    *   **Duration:** 16 hours.
+    *   **Atmosphere:** Static air.
+    *   **Result:** Dried catalyst precursor, designated `M-SA/NC` or `M-SA/AC`.
+
+3.  **Thermal Activation for M-SA-N4/NC (Au, Pt, Pd only):**
+    *   **Precursor:** The corresponding `M-SA/NC` catalyst (from step 2).
+    *   **Temperature:** 1073 K (800 °C).
+    *   **Heating Rate:** 5 K min⁻¹ (5 °C min⁻¹).
+    *   **Duration:** 16 hours.
+    *   **Atmosphere:** Flowing N₂ gas.
+    *   **Result:** Nitrogen-stabilized single-atom catalyst, designated `M-SA-N4/NC`.
+
+4.  **Thermal Activation for M-NP Catalysts:**
+    *   **Precursor:** The dried `M-SA/NC` or `M-SA/AC` catalyst (from step 2).
+    *   **Temperature Range:** 523 K to 1073 K (250 °C to 800 °C) - *Specific temperature within this range used per catalyst not specified here*.
+    *   **Heating Rate:** 5 K min⁻¹ (5 °C min⁻¹).
+    *   **Duration:** 16 hours.
+    *   **Atmosphere:** Flowing N₂ gas.
+    *   **Result:**
+        *   `M-NP/NC`: Nanoparticle catalysts for **Ru, Rh, Ir** supported on **NC**.
+        *   `M-NP/AC`: Nanoparticle catalysts for **all metals (Au, Pt, Pd, Ru, Rh, Ir)** supported on **AC**.
+
+**Key Synthesis Parameters Summary Table:**
+
+| Step               | Parameter          | Value/Condition                     | Notes                                   |
+| :----------------- | :----------------- | :---------------------------------- | :-------------------------------------- |
+| **Impregnation**   | Method             | Incipient Wetness                   | Precursor added dropwise to saturation  |
+|                    | Metal Precursor    | Metal Chloride (MClₓ)               |                                         |
+|                    | Solvent            | Aqua regia, HCl, or Deionized H₂O   | Choice referenced                       |
+|                    | Supports           | NC (PAN-derived) or AC (Norit ROX)  |                                         |
+| **Drying**         | Temperature        | 473 K (200 °C)                      | Yields M-SA/NC or M-SA/AC               |
+| (All M-SA)         | Heating Rate       | 5 K min⁻¹ (5 °C min⁻¹)              |                                         |
+|                    | Duration           | 16 hours                            |                                         |
+|                    | Atmosphere         | Static Air                          |                                         |
+| **Activation**     | **M-SA-N4/NC**     |                                     | **Only for Au, Pt, Pd on NC**           |
+| (M-SA-N4/NC)       | Precursor          | M-SA/NC                             |                                         |
+|                    | Temperature        | 1073 K (800 °C)                     |                                         |
+|                    | Heating Rate       | 5 K min⁻¹ (5 °C min⁻¹)              |                                         |
+|                    | Duration           | 16 hours                            |                                         |
+|                    | Atmosphere         | Flowing N₂                          |                                         |
+| **Activation**     | **M-NP**           |                                     | **Ru,Rh,Ir: NC only; All Metals: AC** |
+| (M-NP)             | Precursor          | M-SA/NC or M-SA/AC                  |                                         |
+|                    | Temperature        | 523 K - 1073 K (250 °C - 800 °C)    | Specific T within range used per sample |
+|                    | Heating Rate       | 5 K min⁻¹ (5 °C min⁻¹)              |                                         |
+|                    | Duration           | 16 hours                            |                                         |
+|                    | Atmosphere         | Flowing N₂                          |                                         |
+
+**Additional Notes:**
+
+*   The specific thermal activation temperature (`T_act`) used within the 523-1073 K range for individual M-NP catalysts is not detailed in this paragraph.
+*   The exact choice of solvent (aqua regia, HCl, H₂O) for each specific metal chloride is not detailed in this paragraph but is referenced to prior studies (34, 37, 39).
+*   Post-reaction catalysts are simply denoted by appending "`-x h`" to the original catalyst designation after `x` hours of use in acetylene hydrochlorination.
+*   Further synthesis details are available in the Supplementary Information.

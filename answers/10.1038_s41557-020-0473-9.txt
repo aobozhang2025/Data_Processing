@@ -1,0 +1,92 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis. Preparation of Ir 1 /CN. In a typical procedure, Zn(NO 3 ) 2 ·6H 2 O (0.594 g, 2 mmol) and Ir(acac) 3 (97.9 mg, 0.20 mmol) were simultaneously dissolved in 7.5 ml methanol to form a clear solution, which was then added into 15 ml of methanol containing 2-methyl imidazole (0.656 g, 8 mmol). After vigorously stirring for 5 min, the mixed solutions were transferred into a 50 ml Telfon-lined stainless-steel autoclave. The sealed vessel was heated at 120 °C for 4 h before it was cooled to room temperature. The Ir(acac) 3 @ZIF-8 nanocrystal was collected by centrifugation, washed four times with methanol and dried in vacuum overnight. Ir(acac) 3 @ZIF-8 can be prepared by the following procedure: Zn(NO 3 ) 2 ·6H 2 O (1.069 g, 3.6 mmol) and Ir(acac) 3 (176 mg, 0.36 mmol) were dissolved in 15 ml methanol at the same time; the resulting solution was then added into 10 ml of methanol containing 1.161 g (14.2 mmol) 2-methyl imidazole. After vigorously stirring for 5 min, the mixed solutions were kept at room temperature without stirring for 20 h. The Ir(acac) 3 @ZIF-8 nanocrystal was collected by centrifugation, washed four times with methanol and dried in vacuum overnight. The powder of Ir(acac) 3 @ ZIF-8 was then placed in a tube furnace and heated to 900 °C for 3 h at the heating rate of 5 °C min–1 under argon gas (200 ml min–1). The result powder was calcined twice again with the same condition as above. After calcination, the samples were cooled to room temperature to obtain Ir 1 /CN.
+
+Preparation of M 1 /CN (M = Pt, Pd, Ru, Mo, Ga, Cu, Ni, Mn). A solution of Zn(NO 3 ) 2 ·6H 2 O (1.069 g, 3.6 mmol) and metal acetylacetonates (M = Pt, Pd, Ru, Cu, Ni, Mn) (0.22–0.36 mmol) were dissolved in 15 ml methanol (30 ml methanol for M = Pd) at 30–55 °C; the resulting solution was subsequently added to 10 ml of methanol containing 2-methyl imidazole (1.161 g, 14.2 mmol). After vigorously stirring for 5 min, the mixed solutions were kept at room temperature without stirring for 20 h. The solid products were collected by centrifugation and washed four times with methanol and dried in vacuum overnight. In a typical procedure, a clear solution of Zn(NO 3 ) 2 ·6H 2 O (0.594 g, 2 mmol) and metal acetylacetonates (M = Ga, Mo; 0.10–0.12 mmol) were dissolved in 7.5 ml methanol at 30–55 °C. The resulting solution was subsequently added to 15 ml of methanol containing 2-methyl imidazole (0.656 g, 8 mmol). After vigorously stirring for 5 min, the mixed solutions were transferred into a 50 ml Telfon-lined stainless-steel autoclave. The sealed vessel was heated at 120 °C for 4 h before it was cooled down to room temperature. The solid products were collected by centrifugation and washed four times with methanol and dried in a vacuum overnight. The powders of the metal acetylacetonates @ZIF-8 were placed in a tube furnace and heated to 800/900 °C for 3 h at a heating rate of 5 °C min–1 under argon gas (200 ml min–1). After calcination, the samples were cooled to room temperature to obtain M 1 /CNs. Please refer to Supplementary Table 3 for the metal acetylacetonates (M = Pt, Ir, Pd, Ru, Mo, Ga, Cu, Ni, Mn) feed in synthesis.
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalyst being synthesized along with detailed procedures from the given paragraph. Let me analyze this carefully.
+
+First, I notice the main catalyst being synthesized is called "Ir₁/CN" - that's single iridium atoms on a carbon-nitrogen support. The synthesis involves two distinct pathways: one hydrothermal method and one room-temperature method, both starting with iridium acetylacetonate as the metal precursor. 
+
+Looking at the procedures, there are some nuanced differences between the two Ir synthesis methods. The hydrothermal approach uses a smaller scale (2 mmol Zn salt) with autoclave heating at 120°C, while the room-temperature method uses larger quantities (3.6 mmol Zn salt) and longer aging. Both methods create "Ir(acac)₃@ZIF-8" first - that's a metal-organic framework encapsulation step. 
+
+The critical pyrolysis step is identical for both: 900°C under argon flow with triple calcination. That high-temperature treatment must carbonize the ZIF-8 into nitrogen-doped carbon while atomizing the iridium. Interesting that they do the calcination three times - probably to ensure complete decomposition and dispersion.
+
+For other metals (Pt, Pd, etc.), the procedures adapt slightly: different solvent volumes, metal loadings, and pyrolysis temperatures (some at 800°C instead of 900°C). The Ga and Mo synthetically mirror the smaller-scale hydrothermal method. 
+
+The user seems to need precise technical details - likely for replication or documentation purposes. As a catalysis specialist, I should emphasize the ZIF-8 encapsulation strategy and the importance of controlled pyrolysis for single-atom formation. The argon atmosphere prevents oxidation while the slow heating rate ensures gradual transformation. 
+
+I should also note that the supplementary table contains crucial metal precursor quantities since the moles vary (0.22-0.36 mmol). The methanol washing and vacuum drying steps are standard but essential for removing organics before pyrolysis. 
+
+The naming convention "M₁/CN" clearly indicates this is a general method for single-atom catalysts on carbon-nitrogen supports. The fact they tested nine different metals suggests this is a platform technology. For the response, I'll structure it as: 1) Catalyst identity, 2) Core synthesis principles, 3) Detailed Ir procedures, 4) Generalization to other metals, 5) Critical pyrolysis parameters.
+
+answer: 
+
+Based on the provided text, the synthesized catalyst is **"Ir₁/CN"**, which consists of **single iridium (Ir) atoms dispersed on a nitrogen-doped carbon support (CN)**. This is part of a broader family of catalysts denoted as **"M₁/CN"**, where M can be Ir, Pt, Pd, Ru, Mo, Ga, Cu, Ni, or Mn (single atoms of these metals on N-doped carbon).
+
+The synthesis is a **two-step process**:
+1.  **Formation of a Metal-Organic Framework (MOF) Composite Precursor (Metal(acac)₃@ZIF-8)**.
+2.  **Controlled Pyrolysis (Calcination) of the precursor** under inert gas to carbonize the MOF and atomically disperse the metal.
+
+**Detailed Synthesis Procedure for Ir₁/CN:**
+
+Two specific methods are described for the Ir precursor:
+
+*   **Method 1 (Hydrothermal):**
+    1.  Dissolve Zn(NO₃)₂·6H₂O (0.594 g, 2 mmol) and Ir(acac)₃ (97.9 mg, 0.20 mmol) simultaneously in 7.5 ml methanol to form a clear solution.
+    2.  Add this solution to 15 ml methanol containing 2-methylimidazole (0.656 g, 8 mmol).
+    3.  Vigorously stir the mixture for 5 minutes.
+    4.  Transfer the mixture to a 50 ml Teflon-lined stainless-steel autoclave.
+    5.  Seal the autoclave and heat at 120 °C for 4 hours.
+    6.  Cool the autoclave to room temperature.
+    7.  Collect the resulting solid (**Ir(acac)₃@ZIF-8 nanocrystals**) by centrifugation.
+    8.  Wash the solid four times with methanol.
+    9.  Dry the washed solid under vacuum overnight.
+
+*   **Method 2 (Room Temperature Aging):**
+    1.  Dissolve Zn(NO₃)₂·6H₂O (1.069 g, 3.6 mmol) and Ir(acac)₃ (176 mg, 0.36 mmol) simultaneously in 15 ml methanol to form a clear solution.
+    2.  Add this solution to 10 ml methanol containing 2-methylimidazole (1.161 g, 14.2 mmol).
+    3.  Vigorously stir the mixture for 5 minutes.
+    4.  Allow the mixture to stand at room temperature *without stirring* for 20 hours.
+    5.  Collect the resulting solid (**Ir(acac)₃@ZIF-8 nanocrystals**) by centrifugation.
+    6.  Wash the solid four times with methanol.
+    7.  Dry the washed solid under vacuum overnight.
+
+**Pyrolysis (Calcination) to Form Ir₁/CN (Common for both precursors):**
+1.  Place the dried **Ir(acac)₃@ZIF-8** powder in a tube furnace.
+2.  Heat the furnace to **900 °C** at a heating rate of **5 °C per minute** under a flow of **argon gas (200 ml per minute)**.
+3.  Hold the temperature at 900 °C for **3 hours**.
+4.  Cool the sample down to room temperature.
+5.  **Repeat this calcination procedure two more times** (for a total of three identical calcination cycles).
+6.  The resulting black powder after the third calcination and cooling is the catalyst **Ir₁/CN**.
+
+**Generalization to M₁/CN (M = Pt, Pd, Ru, Mo, Ga, Cu, Ni, Mn):**
+The procedure is analogous to Ir₁/CN, using the respective metal acetylacetonate precursor. Key variations include:
+1.  **Precursor Synthesis:**
+    *   **For Pt, Pd, Ru, Cu, Ni, Mn:**
+        *   Dissolve Zn(NO₃)₂·6H₂O (1.069 g, 3.6 mmol) and Metal(acac)ₓ (0.22-0.36 mmol, see Supplementary Table 3) in 15 ml methanol (30 ml for Pd) at 30-55 °C.
+        *   Add this to 10 ml methanol containing 2-methylimidazole (1.161 g, 14.2 mmol).
+        *   Stir vigorously for 5 min.
+        *   Age at room temperature without stirring for 20 h.
+    *   **For Ga, Mo:**
+        *   Dissolve Zn(NO₃)₂·6H₂O (0.594 g, 2 mmol) and Metal(acac)ₓ (0.10-0.12 mmol, see Supplementary Table 3) in 7.5 ml methanol at 30-55 °C.
+        *   Add this to 15 ml methanol containing 2-methylimidazole (0.656 g, 8 mmol).
+        *   Stir vigorously for 5 min.
+        *   Transfer to autoclave, heat at 120 °C for 4 h, cool to RT.
+    *   Collect solid (**Metal(acac)ₓ@ZIF-8**) by centrifugation, wash 4x with methanol, dry under vacuum overnight.
+2.  **Pyrolysis:**
+    *   Place **Metal(acac)ₓ@ZIF-8** powder in tube furnace.
+    *   Heat to **800 °C or 900 °C** (specific temperature depends on M, text mentions both) at 5 °C/min under Ar (200 ml/min).
+    *   Hold for 3 hours.
+    *   Cool to room temperature to obtain **M₁/CN**. (Note: The text does not specify multiple calcination cycles for other metals like it did for Ir, implying a single calcination might be sufficient).
+
+**Key Synthesis Principles:**
+*   **Precursor:** ZIF-8 (formed *in-situ* from Zn²⁺ and 2-methylimidazole) acts as a host matrix, trapping the metal acetylacetonate complex.
+*   **Pyrolysis:** High-temperature treatment under inert gas (Ar) carbonizes the organic ZIF-8 framework into N-doped carbon (CN) while decomposing the metal complex. The confinement within the MOF pores promotes the formation of isolated single metal atoms (M₁) anchored to the CN support.
+*   **Multiple Calcination (Ir):** The triple calcination for Ir is likely crucial for complete removal of ligands/contaminants and achieving optimal dispersion/stability of the single Ir atoms.
+
+The catalyst is thus **atomically dispersed iridium (or other metals) on a nitrogen-doped carbon support**, synthesized via **MOF encapsulation followed by controlled pyrolysis**.

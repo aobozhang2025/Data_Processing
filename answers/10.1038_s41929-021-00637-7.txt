@@ -1,0 +1,81 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Catalyst preparation. A solution of Zn(NO 3 ) 2 ·6H 2 O (5.58 g) in 150 ml methanol was added to a solution of 2-methylimidazole (6.16 g) in 150 ml methanol. After stirring at room temperature for 24 h, the obtained ZIF-8 precipitates were collected by centrifugation and dried in vacuum at 80 °C. Subsequently, the obtained ZIF-8 (600 mg) powder was dispersed in 100 ml methanol to which was added a methanol solution of iridium(iv) chloride (1 mg ml−1, 7.08 ml). To this iridium-containing solution was added a mixture of 4,4′-sulfonyldiphenol (800 mg) and phosphonitrilic chloride trimer (375 mg) in 250 ml methanol. After vigorous stirring for 15 min, 3 ml triethylamine was added. The resulting mixture was stirred for 15 h, and the as-obtained ZIF-8/Ir@PZS precipitates were separated by centrifugation and dried in vacuum at 80 °C. The as-obtained ZIF-8/Ir@PZS was placed in a quartz boat and then maintained at 950 °C for 3 h in a tube furnace with a heating rate of 5 °C min−1 under a flowing argon atmosphere. After allowing it to cool to room temperature, the as-prepared sample of Ir-SA was collected and used without further treatment.
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalyst and its synthesis procedure from a given paragraph. Let me carefully analyze this technical text.
+
+First, I need to identify what catalyst is being synthesized. The final product is called "Ir-SA" which likely stands for Iridium Single Atoms. This is a supported catalyst with iridium atoms dispersed on a nitrogen-doped carbon support derived from a ZIF-8 framework.
+
+Now, breaking down the synthesis procedure step by step:
+The process begins with preparing ZIF-8 - that's a zeolitic imidazolate framework made from zinc nitrate and 2-methylimidazole in methanol. After 24 hours stirring, they centrifuge and dry it at 80°C under vacuum. 
+
+Then comes the modification: they disperse this ZIF-8 in methanol and add iridium(IV) chloride solution. This deposits iridium onto the framework. Next, they add two monomers - 4,4′-sulfonyldiphenol and phosphonitrilic chloride trimer - which form a poly(cyclotriphosphazene-co-4,4′-sulfonyldiphenol) (PZS) coating around the ZIF-8/Ir composite. Triethylamine is added to catalyze this polymerization. After 15 hours, they get ZIF-8/Ir@PZS which is centrifuged and dried.
+
+The crucial step is pyrolysis: they heat this material to 950°C under argon. This carbonizes the organic components while vaporizing zinc, leaving a nitrogen-doped carbon matrix with atomically dispersed iridium. The heating rate (5°C/min) and dwell time (3 hours) are critical for proper carbonization.
+
+The user seems to need this for research or educational purposes. They probably want a clear, structured summary they can use in their work. I should present this systematically, highlighting the core chemistry: ZIF-8 as sacrificial template, iridium deposition, polymer coating, and controlled pyrolysis to create single-atom sites. The vacuum drying, argon atmosphere, and specific temperatures are all essential for reproducibility.
+
+I'll organize this as a professional synthesis report with catalyst identification, step-by-step procedure, and key synthesis rationale. The user will likely appreciate noting how each step contributes to the final catalyst's structure - especially how pyrolysis generates the single-atom active sites.
+
+answer: 
+
+Based on the provided procedure, here's a professional summary of the synthesized catalyst and its detailed synthesis:
+
+**Synthesized Catalyst:** **Iridium Single Atoms on Nitrogen-Doped Carbon Support (Ir-SA)**
+*   **Active Site:** Atomically dispersed Iridium (Ir) atoms.
+*   **Support:** Nitrogen-doped porous carbon matrix.
+*   **Precursor/Morphology Origin:** Derived from pyrolysis of a core-shell composite (ZIF-8/Ir@PZS), where ZIF-8 acts as a sacrificial template and nitrogen source, and the PZS coating provides additional carbon and phosphorus/nitrogen/sulfur doping.
+
+**Detailed Synthesis Procedure:**
+
+1.  **Synthesis of ZIF-8 Core:**
+    *   Dissolve 5.58 g of Zn(NO₃)₂·6H₂O in 150 ml methanol (Solution A).
+    *   Dissolve 6.16 g of 2-methylimidazole in 150 ml methanol (Solution B).
+    *   Combine Solutions A and B.
+    *   Stir the mixture vigorously at room temperature (RT) for 24 hours. ZIF-8 precipitates form.
+    *   Collect the ZIF-8 precipitate by centrifugation.
+    *   Wash the precipitate (implied but not explicitly stated - standard practice).
+    *   Dry the washed ZIF-8 powder under vacuum at 80 °C.
+
+2.  **Iridium Deposition & PZS Coating (Forming ZIF-8/Ir@PZS Core-Shell):**
+    *   Disperse 600 mg of the dried ZIF-8 powder in 100 ml methanol.
+    *   Add 7.08 ml of a methanol solution of iridium(IV) chloride (IrCl₄) with a concentration of 1 mg/ml (delivering ~7.08 mg IrCl₄).
+    *   Separately, prepare a solution of 800 mg 4,4′-sulfonyldiphenol (BPS) and 375 mg phosphonitrilic chloride trimer (HCCP, Cl₆N₃P₃) in 250 ml methanol.
+    *   Add the BPS/HCCP methanol solution to the ZIF-8/Ir dispersion.
+    *   Vigorously stir the resulting mixture for 15 minutes.
+    *   Add 3 ml of triethylamine (TEA) to the mixture. (TEA acts as an acid scavenger/catalyst for the polymerization).
+    *   Continue stirring the mixture for 15 hours at room temperature. During this time, the poly(cyclotriphosphazene-co-4,4′-sulfonyldiphenol) (PZS) polymer forms *in situ*, coating the Ir-loaded ZIF-8 particles.
+    *   Collect the resulting ZIF-8/Ir@PZS core-shell composite precipitate by centrifugation.
+    *   Wash the precipitate (implied).
+    *   Dry the washed powder under vacuum at 80 °C.
+
+3.  **Pyrolysis (Forming Ir-SA):**
+    *   Place the dried ZIF-8/Ir@PZS powder in a quartz boat.
+    *   Load the boat into a tube furnace.
+    *   Purge the furnace with flowing argon gas.
+    *   Heat the furnace under continuous argon flow from room temperature to 950 °C at a controlled heating rate of 5 °C per minute.
+    *   Hold the temperature at 950 °C for 3 hours (dwell time).
+    *   Allow the furnace to cool naturally back to room temperature under argon flow.
+    *   Collect the resulting black powder (Ir-SA catalyst).
+    *   **Use:** The Ir-SA catalyst is used without any further treatment or purification.
+
+**Key Synthesis Rationale:**
+
+1.  **ZIF-8:** Serves as a sacrificial template providing a porous structure, zinc (which evaporates during high-T pyrolysis), carbon, and nitrogen.
+2.  **Ir Deposition:** IrCl₄ is adsorbed onto the ZIF-8 surface, providing the iridium source. The high surface area and N-sites help anchor Ir.
+3.  **PZS Coating:** The polymerization of HCCP and BPS forms a cross-linked phosphazene/sulfone polymer shell (PZS) around the ZIF-8/Ir core. This coating:
+    *   Protects the structure during pyrolysis.
+    *   Provides additional carbon, nitrogen, phosphorus, and sulfur for doping the final carbon matrix.
+    *   Helps prevent Ir aggregation during high-temperature treatment.
+4.  **High-T Pyrolysis (950°C under Ar):** This is the critical step:
+    *   Carbonizes the organic components (ZIF-8 ligand and PZS polymer).
+    *   Evaporates zinc (Zn boils at ~907°C).
+    *   Creates a highly porous, nitrogen-doped (and P/S-doped) carbon support.
+    *   Reduces Ir(IV) to metallic Ir(0).
+    *   The combination of the ZIF template, PZS confinement, and high temperature facilitates the formation of *atomically dispersed* Ir sites (Ir-SA) trapped within the N-doped carbon lattice, rather than Ir nanoparticles.
+
+This synthesis utilizes a templating (ZIF-8), metal deposition, polymer coating (PZS), and controlled pyrolysis strategy to create a single-atom iridium catalyst on a heteroatom-doped carbon support.

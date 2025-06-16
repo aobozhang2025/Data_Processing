@@ -1,0 +1,81 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis of materials. Sol–gel, modified sol–gel and impregnation methods were used in this work for powder synthesis. SDC powder was synthesized using a typical sol–gel process. Samarium nitrate hexahydrate (Sm(NO 3 ) 3 ·6H 2 O) and cerium nitrate hexahydrate (Ce(NO 3 ) 3 ·6H 2 O) in a molar ratio of 1:3 were dissolved in distilled water. Then citric acid and ethylene glycol were added to the above solution forming a sol, which acted as a precursor for the following. The molar ratio of metallic ions/citric acid/ethylene glycol was 1:2:2. The sol was heated at 90 °C under stirring to gradually remove water from the system. It was noticed that the liquid system evolved towards the formation of a gel-like diphasic system containing both a solvent phase and continuous polymer networks. The remaining solvent was removed in a drying process at 300 °C, followed by thermal treatment in air at 600 °C for 5 h forming a pure SDC phase. SDCIr_SG was prepared by following the same procedure. The only difference was that ammonium hexachloroiridate ((NH 4 ) 2 IrCl 6 ) was added to the initial solution. The spatial distribution of the Ir ions in a desired homogeneous manner was achieved in the polymer networks, resulting in homogeneous distribution in the SDC lattice after reduction. The dispersity of Ir atoms greatly depends on the concentrations of complexing agents. Therefore, the distribution of Ir atoms could be easily altered by modifying the sol–gel process. When we decreased the ratio of the concentrations of citric acid and ethylene glycol until the molar ratio of metallic ions:citric acid:ethylene glycol reached 1:0.1:0.1, a disordered solid solution, denoted as SDCIr, was obtained after the final calcination. On reduction in H 2 at 400 °C for 0.5 h, SDC fluorite structures were maintained in both SDCIr_SG and SDCIr catalysts, but Ir atoms were extracted from the host lattices, forming SDCIr–O and SDCIr–Ir respectively. An alternative method used to synthesize SDC and the Ir compound was wet impregnation. A solution containing (NH 4 ) 2 IrCl 6 was impregnated into the SDC powder to achieve the desired amount of Ir. After drying in an oven at 90 °C, the powder was calcined in air at 600 °C for 5 h. The obtained compound is denoted as impregnated SDC/Ir in this work. In all SDC and Ir compounds, the weight ratios of Ir were kept at 1%. All the labels associated with SDC/Ir catalysts are listed in Supplementary Table 9. Double perovskite PrBaMn 2 O 5+δ (PBM) as an electrode component was synthesized using the typical sol–gel process described above. Praseodymium nitrate hexahydrate (Pr(NO 3 ) 3 ·6H 2 O), barium nitrate (Ba(NO 3 ) 2 ), manganese nitrate tetrahydrate (Mn(NO 3 ) 2 ·4H 2 O), citric acid and ethylene glycol were used as raw materials. After thermal treatment in air at 950 °C for 5 h, a single perovskite Pr 0.5 Ba 0.5 MnO 3−δ formed. During reduction in H 2 at 600 °C for 5 h, the single perovskite evolved into double perovskite PBM.
+
+Synthesis and characterization of SDC/Ir catalysts. In the light of these findings, experiments were designed to introduce large cluster Ir (NP Ir) and small cluster Ir (atomic Ir, a mixture of SA Ir and NC Ir) on SDC surfaces to modulate the local configurations of Ir– Ir and Ir–O bonding characteristics, respectively, for selective CO 2 EH in PCEs. We used a facile one-pot sol–gel procedure that would enable metal precursors to be hydrolysed at a controlled rate, lead- ing to atomic homogeneity (Fig. 3a). We first dissolved the metal nitrates as well as a suitable amount of citric acid and ethylene glycol in water. These compounds were controllably hydrolysed to obtain a desired homogeneous gel. We anticipated this process could result in the spatial distribution of the Ir ions in a desired homogeneous manner. Followed by calcination in air, Ir atoms were incorporated into the SDC lattice at the atomic level, forming an ordered solid solution (SDCIr_SG). On reduction in H 2 , Ir cations were exsolved as NCs and as stabilized SAs on the SDC surface to produce the
+
+Chemicals. We purchased Ba(NO 3 ) 2 , Ce(NO 3 ) 3 ·6H 2 O, citric acid, ethylene glycol, Mn(NO 3 ) 2 ·4H 2 O, (NH 3 ) 4 Pt(NO 3 ) 2 , (NH 4 ) 2 IrCl 6 , Pr(NO 3 ) 3 ·6H 2 O and Sm(NO 3 ) 3 ·6H 2 O for the synthesis of materials. NiO, BaZr 0.1 Ce 0.7 Y 0.1 Yb 0.1 O 3–δ and BaZr 0.4 Ce 0.4 Y 0.1 Yb 0.1 O 3–δ powder were bought for electrolyser preparation. Glass sealant, silver paste, silver meshes and wires were used in electrochemical measurements. All chemicals were used directly as purchased. The detailed information for these chemicals, including the manufacturers and purities, is listed in Supplementary Table 8.
+
+reasoning: 
+
+Alright, the user wants me to summarize the catalyst synthesis procedures from a detailed chemistry paragraph. They specifically asked for a professional chemist's perspective focusing on catalysts. 
+
+Hmm, this is quite a technical text with multiple synthesis methods and materials. Let me break it down systematically. The key catalysts mentioned are SDC-based materials with Ir, and also a double perovskite electrode material. 
+
+First, I notice three main synthesis methods: sol-gel, modified sol-gel, and impregnation. The SDC powder itself is made through standard sol-gel using Sm and Ce nitrates with citric acid/ethylene glycol as chelating agents. The molar ratios are very specific - 1:3 for Sm:Ce and 1:2:2 for metals:CA:EG. The thermal treatment at 600°C is crucial for phase formation.
+
+For the Ir catalysts, there are interesting variations. SDCIr_SG uses the same process but adds (NH4)2IrCl6 to the initial solution, achieving homogeneous distribution. Then there's a modified version with reduced CA/EG ratio (1:0.1:0.1) that creates a disordered solid solution (SDCIr). The impregnation method is more straightforward - just adding Ir solution to pre-made SDC powder.
+
+Ah, and the reduction step is critical! It causes Ir to exsolve differently: forming SDCIr-O (oxide?) for SDCIr_SG versus SDCIr-Ir (metallic clusters) for SDCIr. That's an important catalytic property difference.
+
+The perovskite synthesis (PBM) follows similar sol-gel but needs higher calcination temperature (950°C) and subsequent reduction to form the double perovskite structure.
+
+I should emphasize how the chelating agent ratios control Ir dispersion - that's a key technical insight. The 1% Ir loading consistency across samples is also noteworthy. 
+
+The user seems knowledgeable about chemistry given how they framed the question. Probably wants precise technical details without oversimplification. I'll maintain all critical parameters (temperatures, durations, ratios) while organizing it clearly by catalyst type. The exsolution behavior during reduction is particularly important for catalytic function so that deserves emphasis.
+
+answer: 
+
+Based on the provided text, here is a professional summary of the catalysts synthesized and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+
+1.  **SDC (Samarium-Doped Ceria):** Ce₀.₈Sm₀.₂O₂₋δ fluorite oxide (support material).
+2.  **SDCIr_SG:** SDC with *homogeneously distributed* Ir atoms incorporated into the lattice (1 wt% Ir), forming an *ordered solid solution*. Post-reduction, Ir exsolves as small clusters (NCs) and stabilized single atoms (SAs) on the SDC surface (SDCIr-O).
+3.  **SDCIr:** SDC with *inhomogeneously distributed* Ir (1 wt% Ir), forming a *disordered solid solution*. Post-reduction, Ir forms larger clusters/particles (SDCIr-Ir).
+4.  **Impregnated SDC/Ir:** SDC support with Ir (1 wt% Ir) deposited via impregnation. Ir is present as larger nanoparticles (NP Ir) on the surface.
+5.  **PBM (PrBaMn₂O₅₊δ):** Double perovskite electrode material (synthesized but not modified with Ir in this section).
+
+**Detailed Synthesis Procedures:**
+
+1.  **SDC (Sol-Gel):**
+    *   **Precursor Solution:** Dissolve Sm(NO₃)₃·6H₂O and Ce(NO₃)₃·6H₂O in distilled water at a molar ratio of Sm:Ce = 1:3 (corresponding to Ce₀.₈Sm₀.₂O₂₋δ).
+    *   **Chelation:** Add Citric Acid (CA) and Ethylene Glycol (EG) to the solution. Molar ratio of Total Metal ions : CA : EG = 1 : 2 : 2.
+    *   **Sol Formation:** Stir the mixture to form a homogeneous sol.
+    *   **Gel Formation:** Heat the sol at 90°C under stirring to evaporate water, leading to the formation of a gel (diphasic system with solvent and polymer networks).
+    *   **Drying:** Remove residual solvent by drying at 300°C.
+    *   **Calcination:** Thermally treat the dried gel in air at 600°C for 5 hours to form the pure SDC fluorite phase.
+
+2.  **SDCIr_SG (Modified Sol-Gel for Homogeneous Distribution):**
+    *   Follow the **exact SDC procedure above**.
+    *   **Key Modification:** Add Ammonium hexachloroiridate ((NH₄)₂IrCl₆) to the initial precursor solution (alongside Sm/Ce nitrates) to achieve 1 wt% Ir in the final catalyst.
+    *   **Mechanism:** The Ir precursor is incorporated into the forming polymer network during sol-gel, ensuring a homogeneous spatial distribution. This leads to Ir atoms being incorporated into the SDC lattice upon calcination (ordered solid solution).
+    *   **Reduction:** Treat SDCIr_SG in H₂ at 400°C for 0.5 hours. Ir cations exsolve from the lattice, forming small Ir clusters (NCs) and stabilized single atoms (SAs) on the SDC surface (denoted SDCIr-O).
+
+3.  **SDCIr (Modified Sol-Gel for Inhomogeneous Distribution):**
+    *   **Precursor Solution:** Dissolve Sm(NO₃)₃·6H₂O, Ce(NO₃)₃·6H₂O, and (NH₄)₂IrCl₆ (for 1 wt% Ir) in distilled water (Sm:Ce = 1:3).
+    *   **Reduced Chelation:** Add Citric Acid (CA) and Ethylene Glycol (EG) at a significantly reduced ratio: Molar ratio of Total Metal ions : CA : EG = 1 : 0.1 : 0.1.
+    *   **Sol/Gel Formation & Drying:** Proceed as per the SDC procedure (stirring, heating to 90°C to form gel, drying at 300°C).
+    *   **Calcination:** Thermally treat in air at 600°C for 5 hours, forming a *disordered solid solution* due to insufficient complexing agents.
+    *   **Reduction:** Treat in H₂ at 400°C for 0.5 hours. Ir exsolves from the lattice, forming larger Ir clusters/particles (denoted SDCIr-Ir). The SDC fluorite structure is maintained.
+
+4.  **Impregnated SDC/Ir (Wet Impregnation):**
+    *   **Support:** Use pre-synthesized SDC powder (made via sol-gel as above).
+    *   **Impregnation:** Prepare a solution of Ammonium hexachloroiridate ((NH₄)₂IrCl₆) in water. Add this solution to the SDC powder to achieve 1 wt% Ir loading. Ensure thorough mixing/impregnation.
+    *   **Drying:** Dry the wet impregnated powder in an oven at 90°C.
+    *   **Calcination:** Thermally treat the dried powder in air at 600°C for 5 hours.
+    *   **Result:** Ir is deposited as nanoparticles (NP Ir) on the SDC surface.
+
+5.  **PBM (Sol-Gel - Electrode Material):**
+    *   **Precursor Solution:** Dissolve Pr(NO₃)₃·6H₂O, Ba(NO₃)₂, Mn(NO₃)₂·4H₂O in distilled water (stoichiometric for PrBaMn₂O₅₊δ). Add Citric Acid and Ethylene Glycol (ratios not specified, assumed similar to SDC).
+    *   **Sol/Gel Formation & Drying:** Follow the typical sol-gel process described for SDC (stirring, heating to 90°C for gelation, drying at 300°C).
+    *   **Calcination:** Thermally treat in air at **950°C for 5 hours**, forming single perovskite Pr₀.₅Ba₀.₅MnO₃₋δ.
+    *   **Reduction:** Treat the single perovskite in H₂ at **600°C for 5 hours**, transforming it into the double perovskite phase PrBaMn₂O₅₊δ (PBM).
+
+**Key Synthesis Insights:**
+
+*   **Control of Ir Distribution:** The distribution of Ir in the SDC lattice (and consequently, the size of Ir species after reduction) is critically controlled by the concentration of complexing agents (Citric Acid, Ethylene Glycol) during the sol-gel process. Higher ratios (1:2:2) promote atomic homogeneity (SDCIr_SG -> small clusters/SAs), while lower ratios (1:0.1:0.1) lead to inhomogeneity and larger clusters (SDCIr -> larger particles).
+*   **Exsolution:** Reduction (H₂, 400°C, 0.5h) is a crucial step for activating the SDC/Ir catalysts, causing Ir to exsolve from the lattice onto the surface. The *initial distribution* within the lattice dictates the *final Ir configuration* (SAs/NCs vs. particles).
+*   **Method Determines Morphology:** Sol-gel with Ir in precursors + sufficient chelators yields atomically dispersed Ir in the lattice pre-reduction. Impregnation yields Ir nanoparticles on the surface post-calcination.

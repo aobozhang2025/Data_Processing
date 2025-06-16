@@ -1,0 +1,89 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Synthesis. The monometallic catalysts were synthesized by a dissolution-and-carbonization method. A schematic illustration of the synthetic process is shown in Supplementary Fig. 1. Typically, 144 mg of glucose (C 6 H 12 O 6 ) was dissolved in 40 ml of ethanol. Meanwhile, the metal salt precursor (see details in Supplementary Table 1) and 690 mg of hydroxylamine hydrochloride ((NH 3 OH)Cl) were ultrasonically dissolved in 40 ml of deionized water. Subsequently, the ethanol and water solutions were mixed. The mixture was dried in a drying oven at 70 °C for 12 h. Afterwards, it was placed in a crucible, heated from room temperature to 600 °C with a ramp rate of 5 °C min−1 under Ar atmosphere and kept there for 4 h for carbonization. The obtained product was milled into fine powder for further characterization. Exceptionally, since AgNO 3 precursor can react with the Cl− in (NH 3 OH)Cl to form AgCl precipitation (Supplementary Fig. 2), the (NH 3 OH)Cl was replaced by tripolycyanamide with the same molarity as the (NH 3 OH)Cl for the synthesis of Ag SACs. For the synthesis of multimetallic SACs, the procedures are the same as for the monometallic catalysts except that multiple metal salt precursors instead of single ones were added, and the weight of each metal precursor was controlled according to Supplementary Table 2. Moreover, the SACs by the MOF method were synthesized with reference to the reported research25,26. Specifically, 2.4 g of 2-methylimidazole was dissolved in 40 ml of methanol by sonication for 5 min. 1.07 g of Zn(NO 3 ) 2 ·6H 2 O and the given amount of a metal precursor (see Supplementary Table 9 for details) were dissolved in 40 ml of methanol by sonication for 5 min. The two solutions were mixed by magnetic stirring for 12 h. The as-obtained precipitates were centrifuged, washed with methanol several times and dried in vacuum at 70 °C. The dried powder was placed in a tube furnace and then heated to the desired temperature (900 °C) for 3 h at the heating rate of 5 °C min−1 under flowing Ar gas. Then, it was naturally cooled to room temperature and ground into fine powder to obtain the representative samples. The as-prepared products were directly used without any post-treatment.
+
+reasoning: 
+
+Alright, the user wants me to summarize the catalyst synthesis procedures from a chemistry paper. Let me start by understanding exactly what they need. They mentioned being a professional chemist specializing in catalyst synthesis, so the summary should be detailed and technically accurate.
+
+First, I need to parse the provided paragraph. It describes two main methods: dissolution-and-carbonization for monometallic and multimetallic SACs, and an MOF-based method. There's a special case for silver catalysts due to precipitation issues. The user probably wants clarity on each method, including exceptions and specific conditions.
+
+I should identify the catalysts synthesized. The text mentions monometallic and multimetallic single-atom catalysts (SACs). The synthesis involves different precursors and steps. Key details include reagents, temperatures, times, and atmosphere. For the dissolution method, glucose, metal salts, and hydroxylamine hydrochloride are used, except for silver where tripolycyanamide substitutes to avoid chloride precipitation.
+
+The MOF method uses Zn(NO3)2 and 2-methylimidazole with additional metal precursors. The process involves mixing solutions, centrifugation, drying, and high-temperature carbonization. The user might need these procedures separated clearly for replication or reference.
+
+I should note the special handling for Ag catalysts. The replacement of hydroxylamine HCl with tripolycyanamide is crucial to prevent AgCl formation. Also, multimetallic SACs use multiple precursors with controlled weights, as per supplementary tables.
+
+For the MOF synthesis, referencing existing studies (citations 25,26) is important. Steps include dissolving in methanol, mixing, stirring, washing, and carbonization at 900°C. The user might be interested in why specific temperatures and durations are chosen, but the paragraph doesn't explain that, so I'll stick to the described steps.
+
+The user might have deeper needs: understanding scalability, reproducibility, or avoiding common pitfalls like precipitation. Highlighting the argon atmosphere and ramp rates ensures they recognize the need for controlled conditions. Mentioning that products are used without post-treatment could be significant for catalyst activity.
+
+Organizing the summary into distinct methods with bullet points helps readability. Including exceptions and references shows attention to detail. Ensuring all materials, quantities, and conditions are explicitly stated meets the user's request for "all details." They might be preparing for lab work or writing a review, so accuracy in procedural steps is essential.
+
+answer: 
+
+Based on the provided text, here is a professional chemist's summary of the catalysts synthesized and their detailed synthesis procedures:
+
+**Catalysts Synthesized:**
+1.  **Monometallic Single-Atom Catalysts (SACs):** Single metal atoms dispersed on a carbon support (e.g., Fe, Co, Ni, Cu, etc. - precursors listed in Supp. Table 1).
+2.  **Multimetallic Single-Atom Catalysts (SACs):** Multiple different metal atoms co-dispersed on a carbon support (metal combinations and loadings controlled via Supp. Table 2).
+3.  **Silver (Ag) Monometallic SACs:** A specific case of monometallic SACs requiring a modified procedure.
+4.  **SACs via MOF Method:** Representative SACs synthesized using a Zeolitic Imidazolate Framework (ZIF-8) as a precursor/template (metal loadings in Supp. Table 9).
+
+**Synthesis Procedures (Detailed):**
+
+**Method 1: Dissolution-and-Carbonization (for Monometallic & Multimetallic SACs)**
+
+1.  **Solution Preparation:**
+    *   Dissolve 144 mg of Glucose (C₆H₁₂O₆) in 40 ml Ethanol.
+    *   Separately, ultrasonically dissolve the required **metal salt precursor(s)** (quantity based on Supp. Table 1 for mono, Supp. Table 2 for multi) **and** 690 mg of Hydroxylamine Hydrochloride ((NH₃OH)Cl) in 40 ml Deionized Water.
+    *   **Exception for Ag SACs:** Replace (NH₃OH)Cl with an equimolar amount of Tripolycyanamide to prevent AgCl precipitation.
+
+2.  **Mixing & Drying:**
+    *   Combine the ethanol (glucose) solution and the water (metal salt(s) + (NH₃OH)Cl or tripolycyanamide) solution.
+    *   Dry the resulting mixture in a drying oven at **70 °C for 12 hours**.
+
+3.  **Carbonization:**
+    *   Transfer the dried material to a crucible.
+    *   Place the crucible in a furnace under flowing **Argon (Ar) atmosphere**.
+    *   Heat from room temperature to **600 °C** at a controlled **ramp rate of 5 °C min⁻¹**.
+    *   Hold (anneal) at **600 °C for 4 hours**.
+
+4.  **Post-Processing:**
+    *   Allow the furnace to cool.
+    *   Mill the obtained carbonized product into a fine powder for characterization and use.
+
+**Method 2: MOF-Based Synthesis (for Representative SACs)**
+
+1.  **Solution A:**
+    *   Dissolve 2.4 g of 2-Methylimidazole (organic linker) in 40 ml Methanol by sonication for 5 minutes.
+2.  **Solution B:**
+    *   Dissolve 1.07 g of Zinc Nitrate Hexahydrate (Zn(NO₃)₂·6H₂O) **and** the required amount of the additional **metal salt precursor** (quantity based on Supp. Table 9) in 40 ml Methanol by sonication for 5 minutes.
+3.  **MOF Formation:**
+    *   Mix Solution A and Solution B together.
+    *   Stir the mixture magnetically for **12 hours** to form the metal-organic framework (MOF) precipitate (ZIF-8 incorporating the additional metal).
+4.  **Workup:**
+    *   Centrifuge the mixture to collect the solid precipitates.
+    *   Wash the collected solids thoroughly with Methanol several times.
+    *   Dry the washed solids under **vacuum at 70 °C**.
+5.  **Carbonization:**
+    *   Transfer the dried MOF powder to a tube furnace.
+    *   Heat under flowing **Argon (Ar) atmosphere**.
+    *   Ramp from room temperature to **900 °C** at a rate of **5 °C min⁻¹**.
+    *   Hold (anneal) at **900 °C for 3 hours**.
+6.  **Post-Processing:**
+    *   Allow the furnace to cool naturally to room temperature.
+    *   Grind the carbonized product into a fine powder.
+    *   **No post-treatment** is applied; the powder is used directly.
+
+**Key Details & Notes:**
+
+*   **Atmosphere:** Both carbonization steps are performed under inert Argon gas to prevent oxidation and facilitate carbonization.
+*   **Heating Rates:** Strict control of ramp rate (5 °C min⁻¹) is used in both methods.
+*   **Ag Specificity:** The chloride in (NH₃OH)Cl causes AgCl precipitation when using AgNO₃. Tripolycyanamide is used as a chloride-free alternative reducing agent/N-source.
+*   **Multimetallic (Dissolution Method):** Follows the *exact* same procedure as monometallic dissolution, but uses **multiple metal precursors** simultaneously, with weights controlled by Supp. Table 2.
+*   **MOF Method:** Based on ZIF-8 formation (Zn²⁺ + 2-methylimidazole) with an additional metal co-incorporated. High-temperature pyrolysis (900 °C) removes Zn and generates the porous carbon-supported SAC.
+*   **Characterization:** Products are milled/ground into fine powder specifically for characterization.
+*   **Post-Treatment:** The as-synthesized catalysts are used directly without any further chemical treatment.

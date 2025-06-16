@@ -1,0 +1,83 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Preparation of Bi (1/x) @Pt We used the chemical reduction method for Bi (1/x) @Pt synthesis. First, predetermined quantities of Pt/C (20 wt%, 500 mg), deionized water (250 ml) and nitric acid (10 M, 0.15 ml) were added to 600 ml of the beaker. The mixture solution was then vigorously stirred for 12 h. After- wards, Bi 3+ (100 mg) in Bi(NO 3 ) 3 ·5H 2 O and nitric acid (5 M, 50 ml) were added and then additionally stirred for 30 min in 600 ml of beaker. Here, 100 mg, 33.3 mg and 8.33 mg of Bi 3+ were added to the mixture solution to get Bi (1/1) @Pt, Bi (1/3) @Pt and Bi (1/18) @Pt, respectively. Next, potassium hydroxide (8 M, ~30 ml) was added to neutralize the mixture solution, and NaBH 4 (0.05 M, 50 ml) was slowly added dropwise to uniformly
+
+Preparation of Bi (1/3) Pt We used the chemical reduction method for the Bi (1/x) Pt synthesis. First, predetermined quantities of carbon (Vulcan XC-72R, 400 mg), platinum 100 mg (as H 2 PtCl 6 ), deionized water (250 ml) and nitric acid (10 M, 0.15 ml) were added to 600 ml of the beaker. The mixture solution was then vigorously stirred for 12 h. Afterwards, 33.3 mg of Bi 3+ (as a Bi(NO 3 ) 3 ) was added and then additionally stirred for 30 min. Next, potassium hydroxide (8 M, ~30 ml) was added to neutralize the mixture solution, and NaBH 4 (0.05 M, 50 ml) was slowly added dropwise to uniformly reduce bismuth species on Pt/C. Finally, the product was fil- tered, washed with water several times and dried under vacuum at 25 °C.
+
+reasoning: 
+
+Okay, the user wants me to summarize the catalyst synthesis procedures from two paragraphs as a professional chemist. Let me carefully analyze these texts.
+
+First paragraph describes Bi(1/x)@Pt catalyst preparation. Key components are Pt/C support, bismuth precursor, and reduction with NaBH4. Interesting how they vary Bi³⁺ amounts (100mg, 33.3mg, 8.33mg) for different stoichiometries. The acid-base chemistry here is crucial - nitric acid for initial dispersion and KOH for neutralization before reduction. 
+
+Second paragraph seems to correct/elaborate on Bi(1/3)Pt specifically. Notable differences: they start from carbon support and H₂PtCl₆ instead of pre-made Pt/C, and specify Vulcan XC-72R carbon. The Bi³⁺ amount matches the 33.3mg from first paragraph's ratio. 
+
+Hmm... user might be comparing synthesis routes. The core reduction method is consistent but support preparation differs. Important to highlight:
+- First method uses commercial Pt/C
+- Second method synthesizes Pt/C in situ from H₂PtCl₆ and carbon
+- Both use identical Bi loading and reduction conditions
+
+Post-processing is only detailed in second paragraph: filtration, washing, vacuum drying at 25°C. Should mention this applies to both since methodology is similar. 
+
+User's phrasing suggests they need precise technical details for replication. I'll organize by:
+1. Catalyst naming convention (Bi(1/x)@Pt ratios)
+2. Distinct preparation routes
+3. Step-by-step procedures with exact quantities
+4. Critical observations (e.g., dropwise NaBH₄ addition)
+
+The nitric acid quantities seem carefully calibrated - 0.15ml of 10M for initial dispersion, then additional acid with Bi precursor. This likely controls pH for optimal metal adsorption. 
+
+Noticed second paragraph says "Bi(1/x)Pt" without "@" - probably typo since context matches. Will maintain original notation but note consistency. 
+
+Final drying at room temperature (25°C) is unusual - typically catalysts are dried higher. Might preserve bismuth distribution? Worth mentioning as deliberate choice.
+
+answer: 
+
+Based on the provided text, here is a professional summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+1.  **Bi(1/x)@Pt Core-Shell Structures:** Specifically **Bi(1/1)@Pt**, **Bi(1/3)@Pt**, and **Bi(1/18)@Pt**. These are bismuth-decorated platinum nanoparticles supported on carbon, where the (1/x) denotes the Bi:Pt atomic ratio (e.g., 1:1, 1:3, 1:18).
+2.  **Bi(1/3)Pt:** This appears to be a variation or correction specifically for the 1:3 Bi:Pt ratio catalyst, synthesized directly onto carbon support. The naming differs slightly (`Bi(1/3)Pt` vs `Bi(1/3)@Pt`).
+
+**Synthesis Procedures:**
+
+**Method 1: Preparation of Bi(1/x)@Pt (Bi(1/1)@Pt, Bi(1/3)@Pt, Bi(1/18)@Pt)**
+*   **Method:** Chemical Reduction
+*   **Support/Precursor:** Pre-formed Pt/C catalyst (20 wt% Pt, 500 mg).
+*   **Procedure:**
+    1.  **Dispersion/Acidification:** Combine Pt/C (500 mg), deionized water (250 ml), and nitric acid (10 M, 0.15 ml) in a 600 ml beaker.
+    2.  **Initial Stirring:** Vigorously stir the mixture for 12 hours.
+    3.  **Bismuth Addition:** Add Bismuth precursor solution: Bismuth(III) nitrate pentahydrate (Bi(NO₃)₃·5H₂O) containing the required mass of Bi³⁺ (100 mg for Bi(1/1)@Pt, 33.3 mg for Bi(1/3)@Pt, 8.33 mg for Bi(1/18)@Pt) dissolved in nitric acid (5 M, 50 ml).
+    4.  **Secondary Stirring:** Stir the mixture for an additional 30 minutes.
+    5.  **Neutralization:** Add potassium hydroxide solution (8 M, ~30 ml) to neutralize the acidic mixture.
+    6.  **Reduction:** Slowly add sodium borohydride solution (NaBH₄, 0.05 M, 50 ml) dropwise to uniformly reduce the adsorbed Bi³⁺ species onto the Pt/C surface. *(Text cuts off, but subsequent steps implied)*.
+    7.  **Workup (Implied):** Filter the product, wash thoroughly with deionized water several times, and dry under vacuum at 25 °C.
+
+**Method 2: Preparation of Bi(1/3)Pt**
+*   **Method:** Chemical Reduction
+*   **Support/Precursor:** Carbon support (Vulcan XC-72R, 400 mg) and Platinum precursor (Hexachloroplatinic acid, H₂PtCl₆, equivalent to 100 mg Pt).
+*   **Procedure:**
+    1.  **Dispersion/Acidification:** Combine Carbon (400 mg), H₂PtCl₆ (100 mg Pt equivalent), deionized water (250 ml), and nitric acid (10 M, 0.15 ml) in a 600 ml beaker.
+    2.  **Initial Stirring:** Vigorously stir the mixture for 12 hours. *(This step simultaneously disperses the carbon and adsorbs/prepares the Pt precursor)*.
+    3.  **Bismuth Addition:** Add Bismuth precursor: 33.3 mg of Bi³⁺ (as Bi(NO₃)₃) to the mixture.
+    4.  **Secondary Stirring:** Stir the mixture for an additional 30 minutes.
+    5.  **Neutralization:** Add potassium hydroxide solution (8 M, ~30 ml) to neutralize the acidic mixture.
+    6.  **Reduction:** Slowly add sodium borohydride solution (NaBH₄, 0.05 M, 50 ml) dropwise to uniformly reduce *both* the platinum precursor (forming Pt nanoparticles on carbon) *and* the bismuth species onto the newly formed Pt/C.
+    7.  **Workup:** Filter the product, wash thoroughly with deionized water several times, and dry under vacuum at 25 °C.
+
+**Key Details & Observations:**
+
+1.  **Core Method:** Both syntheses rely on **chemical reduction using NaBH₄**.
+2.  **Support Differences:**
+    *   `Bi(1/x)@Pt`: Uses **pre-formed commercial Pt/C** (20 wt%) as the starting support.
+    *   `Bi(1/3)Pt`: Synthesizes the **Pt/C support *in situ*** from Vulcan XC-72R carbon and H₂PtCl₆.
+3.  **Bismuth Loading:** Controlled precisely by the mass of Bi³⁺ added (100 mg, 33.3 mg, 8.33 mg) to achieve the desired Bi:Pt atomic ratios (1:1, 1:3, 1:18) on the pre-formed Pt/C. For `Bi(1/3)Pt`, 33.3 mg Bi³⁺ is used with 100 mg Pt equivalent.
+4.  **Acid Conditions:** Nitric acid is used in two stages:
+    *   Initial low amount (0.15 ml of 10M) likely for metal precursor dispersion/solubilization and carbon surface functionalization.
+    *   Higher amount (50 ml of 5M) used to dissolve the Bi(NO₃)₃ precursor before addition.
+5.  **Neutralization:** Essential step before reduction. KOH (8M, ~30ml) is added to raise the pH, likely to optimize adsorption of Bi species onto Pt/C and facilitate controlled reduction by NaBH₄.
+6.  **Reduction:** NaBH₄ (0.05M, 50ml) is added **slowly and dropwise** to ensure uniform reduction and deposition of Bi onto the Pt surfaces, minimizing bulk precipitation.
+7.  **Workup:** Standard isolation involves **filtration, thorough water washing** (to remove ions and reaction byproducts), and **low-temperature vacuum drying (25°C)** to preserve the catalyst structure and prevent sintering.
+8.  **Naming:** The text uses both `Bi(1/x)@Pt` and `Bi(1/3)Pt`. The `@` symbol in `Bi(1/x)@Pt` strongly suggests a core(Pt)-shell(Bi) or surface-decorated structure. `Bi(1/3)Pt` lacks the `@`, but the synthesis method and intent are identical to the Bi(1/3)@Pt variant.

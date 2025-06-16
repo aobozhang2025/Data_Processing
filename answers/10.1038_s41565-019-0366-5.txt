@@ -1,0 +1,93 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Preparation of catalysts. For 0.25% Pt/α-MoC, samples with 0.25 wt% Pt loading were prepared using the wetness impregnation method with passivated α-MoC as support21. The slurry was stirred for 2 h under Ar protection. The liquid was removed using a rotary evaporator under vacuum at 35 °C. Finally, the powder was put in a frozen dryer overnight to remove the residual moisture. Ru/Al 2 O 3 and 0.5% Pt/TiO 2 were prepared using a similar method. For 0.5% Pt/C (reference catalyst), the 5% Pt/C commercial catalyst (Alfa-Aesar) was diluted using Vulcan XC-72. For 0.08% Pt 1 /FeO x , an aqueous solution of chloroplatinic acid and ferric nitrate (Fe(NO 3 ) 3 ·9H 2 O, 1 mol l−1) was co-precipitated, with the pH value of the resulting solution controlled at about 8 by sodium carbonate at 50 °C. The recovered solid was dried at 60 °C overnight and calcined at 400 °C for 5 h. Before characterization and reactivity testing, the samples were reduced in 10% H 2 /He at 250 °C for 0.5 h18,27. This catalyst was provided by B. Qiao as used in a previous study18.
+
+reasoning: 
+
+Alright, let me approach this systematically. The user wants a chemist's perspective on synthesizing catalysts from this technical paragraph, so I need to extract every detail with precision. 
+
+First, I'll identify each catalyst mentioned: 0.25% Pt/α-MoC, Ru/Al₂O₃, 0.5% Pt/TiO₂, 0.5% Pt/C, and 0.08% Pt₁/FeOₓ. The synthesis methods vary, so I must separate them clearly.
+
+For the wetness impregnation group (Pt/α-MoC, Ru/Al₂O₃, Pt/TiO₂), the key steps are: using passivated support, argon-protected stirring, rotary evaporation at 35°C, and freeze-drying. The Pt/C reference is simpler - just diluting a commercial catalyst. 
+
+The Pt₁/FeOₓ is more complex: co-precipitation at pH 8 with sodium carbonate at 50°C, followed by drying and calcination. The pre-reduction step in H₂/He is critical for activation and applies to all catalysts. 
+
+I notice the user emphasizes "all details," so I'll include exact parameters like temperatures, durations, and concentrations. The mention of specific references (18,21,27) suggests academic context, so I'll preserve those citations. 
+
+The challenge is presenting this densely technical information clearly while maintaining accuracy. I'll structure it catalyst-by-catalyst with subheadings, and highlight the universal reduction step separately since it's a common final activation. 
+
+Hmm, should I explain why certain steps matter? Like freeze-drying preserves structure or calcination decomposes precursors? Probably not - the user asked strictly for synthesis procedures, not mechanisms. Stay focused on the "how."
+
+answer: 
+
+Based on the provided text, here's a precise summary of the catalysts synthesized and their detailed procedures, presented as a professional chemist specializing in catalyst synthesis:
+
+**Synthesized Catalysts & Procedures:**
+
+1.  **0.25% Pt / α-MoC:**
+    *   **Support:** Passivated α-MoC (Ref. 21).
+    *   **Method:** Wetness Impregnation.
+    *   **Precursor:** Not explicitly stated (typically H₂PtCl₆ or similar Pt salt solution).
+    *   **Procedure:**
+        *   Impregnate passivated α-MoC support with Pt precursor solution.
+        *   Stir the resulting slurry for 2 hours under Argon (Ar) atmosphere protection.
+        *   Remove the liquid solvent using a rotary evaporator under vacuum at 35 °C.
+        *   Transfer the damp powder to a freeze dryer (lyophilizer) and dry overnight to remove residual moisture.
+    *   **Pt Loading:** 0.25 wt%.
+
+2.  **Ru / Al₂O₃:**
+    *   **Support:** Al₂O₃ (type not specified).
+    *   **Method:** Wetness Impregnation (similar to Pt/α-MoC).
+    *   **Precursor:** Not stated (typically RuCl₃ or similar Ru salt).
+    *   **Procedure:** Described as "similar" to 0.25% Pt/α-MoC. Implies:
+        *   Impregnation of Al₂O₃ support with Ru precursor solution.
+        *   Stirring under Ar protection (duration likely similar, ~2h).
+        *   Solvent removal via rotary evaporation (temperature likely similar, ~35°C).
+        *   Residual moisture removal via freeze drying overnight.
+    *   **Ru Loading:** Not specified in the text.
+
+3.  **0.5% Pt / TiO₂:**
+    *   **Support:** TiO₂ (phase not specified).
+    *   **Method:** Wetness Impregnation (similar to Pt/α-MoC).
+    *   **Precursor:** Not stated (typically H₂PtCl₆ or similar Pt salt).
+    *   **Procedure:** Described as "similar" to 0.25% Pt/α-MoC. Implies:
+        *   Impregnation of TiO₂ support with Pt precursor solution.
+        *   Stirring under Ar protection (duration likely similar, ~2h).
+        *   Solvent removal via rotary evaporation (temperature likely similar, ~35°C).
+        *   Residual moisture removal via freeze drying overnight.
+    *   **Pt Loading:** 0.5 wt%.
+
+4.  **0.5% Pt / C (Reference Catalyst):**
+    *   **Support:** Vulcan XC-72 carbon black.
+    *   **Method:** Physical Dilution.
+    *   **Precursor:** Commercial 5% Pt/C catalyst (Alfa-Aesar supplier).
+    *   **Procedure:**
+        *   Mechanically dilute the commercially available 5 wt% Pt/C catalyst with Vulcan XC-72 carbon black to achieve the target 0.5 wt% Pt loading. (No chemical synthesis involved).
+    *   **Pt Loading:** 0.5 wt%.
+
+5.  **0.08% Pt₁ / FeOₓ:**
+    *   **Support:** In-situ formed Iron Oxide (FeOₓ).
+    *   **Method:** Co-precipitation.
+    *   **Precursors:**
+        *   Platinum: Chloroplatinic acid (H₂PtCl₆) aqueous solution.
+        *   Iron: Ferric Nitrate (Fe(NO₃)₃·9H₂O) aqueous solution (1 mol L⁻¹ concentration).
+    *   **Procedure:**
+        *   Mix aqueous solutions of H₂PtCl₆ and Fe(NO₃)₃·9H₂O.
+        *   Co-precipitate the metals by adding Sodium Carbonate (Na₂CO₃) solution at 50 °C.
+        *   Control the pH of the solution at approximately 8 using the Na₂CO₃ addition.
+        *   Recover the precipitated solid (likely by filtration or centrifugation).
+        *   Dry the recovered solid at 60 °C overnight.
+        *   Calcinate the dried solid at 400 °C for 5 hours (in air, implied).
+    *   **Pt Loading:** 0.08 wt% (Note: "Pt₁" notation suggests emphasis on atomically dispersed Pt).
+    *   **Note:** This catalyst was provided by B. Qiao and used in a previous study (Ref. 18).
+
+**Universal Pre-Treatment (Activation) for Characterization/Testing:**
+
+*   **Procedure:** Prior to characterization or catalytic reactivity testing, **all synthesized catalyst samples** (0.25% Pt/α-MoC, Ru/Al₂O₃, 0.5% Pt/TiO₂, 0.5% Pt/C, 0.08% Pt₁/FeOₓ) underwent a reduction step.
+*   **Reduction Conditions:**
+    *   Atmosphere: 10% H₂ / Helium (He) gas mixture.
+    *   Temperature: 250 °C.
+    *   Duration: 0.5 hours (30 minutes).
+*   **Purpose:** To reduce the metal precursors (Pt, Ru oxides, Pt on FeOₓ) to their metallic state (or active lower oxidation state) and remove surface contaminants. (Refs. 18, 27).

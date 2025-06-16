@@ -1,0 +1,110 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Preparation of Pt@BT-O, Pt@BT and Pt@TiO 2 . Pt was introduced via a wet impregnation of substrates (50 mg) with a certain concentration of H 2 PtCl 6 aqueous solution (0.1 ml), followed by the calcination at 513 K for 2 h in vacuum (< 0.1 Pa). The prepared catalyst was stored in vacuum.
+
+Catalyst preparation Preparation of BT. The BT was produced via a facile solid-state treat- ment of Degussa P25 TiO 2 with NaBH 4 (ref. 34 ). In detail, a mixture of 1.0 g of Degussa P25 TiO 2 and 2.0 g of NaBH 4 was ground thoroughly for 0.5 h. The mixture was then heated in a tube furnace at 623 K for 1 h in a vacuum (< 2.0 Pa), followed by natural cooling to room temperature. The black powders obtained after the treatment were washed 6–8 times with deionized water and then dried in a vacuum oven. The BET surface area of the as-synthesized BT was measured to be 84.4 m 2 g −1 .
+
+Preparation of Pt2+@BT-O. Pt was introduced via a conventional wet impregnation of substrates (50 mg) with a certain concentration of (Pt(NH 3 ) 4 )(NO 3 ) 2 aqueous solution (0.1 ml), followed by the calcina- tion at 513 K for 2 h in a vacuum (<0.1 Pa). The prepared catalyst was stored in vacuum.
+
+Preparation of BT-O. The as-synthesized BT (50 mg) was dispersed in the aqueous solution of hydrogen peroxide (5 M, 10 ml) and stirred for 1 h at 298 K. The suspension was filtered to obtain a precipitate, which was washed with deionized water and then dried in a vacuum oven at 353 K. The BET surface area of the as-synthesized BT-O was measured to be 98.3 m 2 g −1 .
+
+Preparation of Pt0 NPS @BT-O. The metallic Pt 0 -modified BT-O catalyst was obtained through the chemical-reducing H 2 PtCl 6 in a NaBH4 aque- ous solution. Specifically, 0.2 g of BT-O powders was added into 50 ml of aqueous solution of H 2 PtCl 6 , followed by stirring under darkness overnight. Then, 5 ml of NaBH 4 (0.2 M) and NaOH (0.05 M) solution was added dropwise with vigorous stirring at room temperature. After 1 h reduction, the material was washed with water and then dried in a vac- uum oven at 383 K for 5 h. The prepared catalyst was stored in vacuum. The synthetic conditions of all catalysts were summarized in Sup- plementary Table 8.
+
+reasoning: 
+
+Alright, the user wants me to summarize the catalysts synthesized and their detailed procedures from a chemistry paper. Let me start by breaking down each section. 
+
+First, I notice there are multiple catalysts: Pt@BT-O, Pt@BT, Pt@TiO2, BT, Pt2+@BT-O, BT-O, and Pt0 NPs@BT-O. Each has a specific prep method. The user is likely a chemist or researcher needing precise synthesis details for replication or study. 
+
+Looking at the procedures, wet impregnation is common for Pt-based catalysts, but the precursors and substrates vary. For example, Pt@BT-O and Pt@BT use H₂PtCl₆, while Pt2+@BT-O uses (Pt(NH₃)₄)(NO₃)₂. The calcination steps are similar, but substrates differ. 
+
+The BT synthesis involves solid-state reaction with NaBH₄. Important details here: grinding time, temperature, vacuum pressure, washing steps. BET surface area is provided, which might be crucial for the user's application. 
+
+BT-O preparation uses H₂O₂ oxidation of BT. The concentration, volume, and drying conditions are specific. BET increased from BT, indicating structural changes. 
+
+Pt0 NPs@BT-O uses a reduction method with NaBH₄. The darkness during stirring suggests light sensitivity. NaBH₄/NaOH solution addition is dropwise, which is critical for nanoparticle formation. Drying at 383K is higher than others. 
+
+The user might need these details for catalyst performance comparison. They might be interested in how Pt oxidation states (0 vs 2+) affect catalysis. Storage in vacuum is consistently mentioned, implying air sensitivity. 
+
+I should ensure all parameters are included: masses, volumes, concentrations, temps, times, pressures. Also, highlight differences in Pt precursors and reduction methods. Mentioning BET values could be important for surface area-dependent applications. 
+
+Need to check if all catalysts are covered. Supplementary Table 8 is referenced, but since it's not provided, focus on the text. Make sure terms like "BT" (likely black titanium oxide) are clarified. Avoid markdown but keep structure clear. 
+
+Finally, summarize concisely but thoroughly, as the user probably needs this for lab work or a report. Emphasize key variations in procedures that might influence catalyst properties.
+
+answer: 
+
+Based on the provided text, here is a professional summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+1.  **BT (Black Titanium Oxide):** The substrate material.
+2.  **BT-O (Oxidized Black Titanium Oxide):** Modified substrate material.
+3.  **Pt@BT-O:** Platinum supported on BT-O (Pt precursor: H₂PtCl₆).
+4.  **Pt@BT:** Platinum supported on BT (Pt precursor: H₂PtCl₆).
+5.  **Pt@TiO₂:** Platinum supported on Degussa P25 TiO₂ (Pt precursor: H₂PtCl₆).
+6.  **Pt2+@BT-O:** Platinum(II) supported on BT-O (Pt precursor: (Pt(NH₃)₄)(NO₃)₂).
+7.  **Pt0 NPs@BT-O:** Platinum(0) Nanoparticles supported on BT-O (Pt precursor: H₂PtCl₆, reduced *in situ*).
+
+**Detailed Synthesis Procedures:**
+
+1.  **Preparation of BT (Substrate):**
+    *   **Method:** Solid-state reduction.
+    *   **Materials:** 1.0 g Degussa P25 TiO₂, 2.0 g NaBH₄.
+    *   **Procedure:**
+        *   Thoroughly grind TiO₂ and NaBH₄ mixture for 0.5 hours.
+        *   Heat the mixture in a tube furnace at 623 K (350 °C) for 1 hour under vacuum (< 2.0 Pa).
+        *   Allow to cool naturally to room temperature.
+        *   Wash the resulting black powder 6-8 times with deionized water.
+        *   Dry in a vacuum oven.
+    *   **Characterization:** BET Surface Area = 84.4 m² g⁻¹.
+
+2.  **Preparation of BT-O (Substrate):**
+    *   **Method:** Oxidation of BT.
+    *   **Materials:** 50 mg as-synthesized BT, 10 ml 5 M H₂O₂ aqueous solution.
+    *   **Procedure:**
+        *   Disperse BT powder in H₂O₂ solution.
+        *   Stir the suspension for 1 hour at 298 K (25 °C).
+        *   Filter the suspension to collect the precipitate.
+        *   Wash the precipitate with deionized water.
+        *   Dry in a vacuum oven at 353 K (80 °C).
+    *   **Characterization:** BET Surface Area = 98.3 m² g⁻¹.
+
+3.  **Preparation of Pt@BT-O, Pt@BT, and Pt@TiO₂:**
+    *   **Method:** Wet Impregnation + Calcination.
+    *   **Materials:** 50 mg substrate (BT-O, BT, or Degussa P25 TiO₂), 0.1 ml H₂PtCl₆ aqueous solution (concentration not specified).
+    *   **Procedure:**
+        *   Impregnate the substrate with the H₂PtCl₆ solution.
+        *   Calcinate the impregnated material at 513 K (240 °C) for 2 hours under high vacuum (< 0.1 Pa).
+        *   Store the catalyst in vacuum.
+
+4.  **Preparation of Pt2+@BT-O:**
+    *   **Method:** Wet Impregnation + Calcination (Different Precursor).
+    *   **Materials:** 50 mg BT-O substrate, 0.1 ml (Pt(NH₃)₄)(NO₃)₂ aqueous solution (concentration not specified).
+    *   **Procedure:**
+        *   Impregnate the BT-O substrate with the (Pt(NH₃)₄)(NO₃)₂ solution.
+        *   Calcinate the impregnated material at 513 K (240 °C) for 2 hours under high vacuum (< 0.1 Pa).
+        *   Store the catalyst in vacuum.
+
+5.  **Preparation of Pt0 NPs@BT-O:**
+    *   **Method:** *In-situ* Chemical Reduction during Impregnation.
+    *   **Materials:** 0.2 g BT-O powder, 50 ml H₂PtCl₆ aqueous solution (concentration not specified), 5 ml solution containing 0.2 M NaBH₄ and 0.05 M NaOH.
+    *   **Procedure:**
+        *   Add BT-O powder to the H₂PtCl₆ solution.
+        *   Stir the mixture **under darkness** overnight.
+        *   Add the NaBH₄/NaOH solution **dropwise** to the mixture with vigorous stirring at room temperature.
+        *   Continue reduction for 1 hour after addition.
+        *   Wash the resulting material with water.
+        *   Dry in a vacuum oven at 383 K (110 °C) for 5 hours.
+        *   Store the catalyst in vacuum.
+
+**Key Synthesis Features:**
+*   **Pt Loading:** Primarily achieved via **wet impregnation**.
+*   **Pt Precursors:** H₂PtCl₆ (for Pt⁰/Pt⁴⁺) or (Pt(NH₃)₄)(NO₃)₂ (for Pt²⁺).
+*   **Pt State Control:** Achieved by precursor choice (Pt²⁺ vs Pt⁴⁺) and post-impregnation treatment (Calcination -> likely Pt⁰/PtOx vs *In-situ* NaBH₄ reduction -> Pt⁰ NPs).
+*   **Substrate Preparation:** BT requires solid-state reduction of TiO₂ with NaBH₄. BT-O requires oxidation of BT with H₂O₂.
+*   **Thermal Treatments:** Calcination (513 K) used after impregnation for Pt@ materials. High-temperature vacuum treatment (623 K) used for BT synthesis. Drying temperatures vary (353 K for BT-O, 383 K for Pt0 NPs@BT-O).
+*   **Atmosphere:** Critical steps performed under **vacuum** (BT synthesis, calcination steps) or **inert conditions during reduction** (stirring under darkness for Pt0 NPs@BT-O).
+*   **Washing:** Extensive washing (6-8 times) required for BT after synthesis to remove salts/byproducts.
+*   **Storage:** All final catalysts are stored **in vacuum**, indicating potential air sensitivity.

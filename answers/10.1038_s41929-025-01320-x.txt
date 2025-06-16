@@ -1,0 +1,89 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Results Synthesis and characterization The siliceous MFI zeolite modulated Co catalyst was synthesized with a hydrothermal strategy using Co salts, tetraethyl orthosilicate, tetrapropylammonium hydroxide (TPAOH), urea and water in a gel with a composition of 1.0 SiO 2 /0.97 TPAOH/30 H 2 O/0.83 urea/0.1 Co 2+ (mole ratio). After crystallization at 180 °C, calcination to remove the organic template, and washing with nitric acid at 80 °C three times (details are provided in the Methods) to remove the excess Co spe- cies, a sample (denoted CoS-1) with a Co loading of ~0.5 wt% was obtained (Supplementary Fig. 1). Usually, hydrothermal synthesis of metal-containing zeolites results in unstable metal species (for exam- ple, extra-framework Co), and washing with nitric acid is necessary for selective removal of these undesired Co species. X-ray diffraction patterns of the CoS-1 showed peaks typically assigned to the MFI zeo- lite structure with high crystallinity (Supplementary Fig. 2). Scanning transmission electron microscopy (STEM) and transmission electron microscopy (TEM) images of the CoS-1 showed zeolite crystals with an average size of ~500 nm (Supplementary Figs. 3 and 4). N 2 sorption of the CoS-1 gave type-I isotherms with a surface area of 358.4 m 2 g −1 (Supplementary Figs. 5 and 6).
+
+Synthesis of Co/Al 2 O 3 , Co/TiO 2 , Co/SiO 2 and CoNP/S-1 As a typical run for the synthesis of Co/Al 2 O 3 , 6 g of Al 2 O 3 was mixed with 6 ml of aqueous Co(NO 3 ) 2 ·6H 2 O solution (Co concentration of 0.085 mol l −1 ), followed by ultrasonic treatment for 1 h and static treat- ment overnight at room temperature. The suspensions were then stirred for 2 h in air at 120 °C until the water was completely evapo- rated. Following calcination at 650 °C for 4 h in air, Co/Al 2 O 3 was finally obtained. The Co/TiO 2 , Co/SiO 2 and CoNP/S-1 were synthesized follow- ing the same procedures, except for using TiO 2 , SiO 2 and S-1 as supports. The Co loading on Co/Al 2 O 3 , Co/SiO 2 and CoNP/S-1, obtained based on ICP analysis, was 0.47, 0.51 and 0.58 wt%, respectively.
+
+Synthesis of self-prepared PtSn/Al 2 O 3 SnCl 2 ·2H 2 O (400 mg) was dissolved in 10 ml of dilute nitric acid (1 M), then 2 ml of the SnCl 2 solution was added to 3.0 g of nanosized γ-Al 2 O 3 (20 nm), followed by ultrasonic treatment for 1 h, then static treatment overnight at room temperature. The mixture was next stirred for 2 h at 120 °C until the water was completely evaporated. After calcination at 550 °C in flowing humid air (50 ml min −1 , 20 vol% water in air), the Sn/Al 2 O 3 support was obtained. A 1.5-ml volume of H 2 PtCl 6 aque- ous solution (Pt concentration of 0.033 M) was applied to 2 g of Sn/Al 2 O 3 , followed by ultrasonic treatment for 1 h, then static treat- ment overnight at room temperature. The mixture was stirred for 2 h at 120 °C until the water was completely evaporated. After calcination at 550 °C in flowing humid air (50 ml min −1 , 20 vol% water in air), 1 g of the obtained powder was mixed with 1 ml of KNO 3 aqueous solu- tion (0.05 M) to eliminate acid sites. Following reduction at 500 °C in flowing hydrogen (50 ml min −1 , 20% H 2 in Ar), PtSn/Al 2 O 3 catalyst was obtained. Residual Cl species on the catalyst surface were excluded by XPS characterization.
+
+Synthesis of CoS-1 TPAOH solution (100 g; 40 wt% in water), 42 g of TEOS and 21 g of deionized water were stirred at room temperature for 8 h, then 6.0 g of Co(NO 3 ) 2 ·6H 2 O was pre-dissolved in 30 ml of deionized water and mixed with the above solution, followed by adding 10 g of urea. After stirring for another 2 h, the mixture was transferred into an autoclave and thermally heated at 180 °C for three days. After washing with water, drying at 100 °C and calcining in air at 650 °C for 4 h to remove the organic template, raw powder was obtained. This powder was washed with nitric acid to remove the Co oxide crystals/nanoparticles that might exist on the zeolite external surface or within the micropores. In a typical run for acid washing, 5 g of powder was stirred in 200 ml of aqueous nitric acid solution (4 M) at 80 °C for 10 h. After filtration
+
+Synthesis of S-1 TPAOH solution (100 g; 40 wt% in water), 42 g of TEOS and 21 g of deion- ized water were stirred at room temperature for 10 h, then the mixture was transferred into an autoclave and thermally heated at 180 °C for three days. After washing with water, drying at 100 °C and calcining in air at 650 °C for 4 h to remove the organic template, S-1 zeolite was obtained.
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalysts and their detailed synthesis procedures from a technical paragraph. 
+
+First, I need to identify all catalysts mentioned: CoS-1 (cobalt-modified MFI zeolite), Co/Al₂O₃, Co/TiO₂, Co/SiO₂, CoNP/S-1, PtSn/Al₂O₃, and S-1 zeolite. The descriptions contain multiple synthesis routes that I must extract precisely.
+
+For CoS-1, the key points are the hydrothermal method with specific mole ratios (SiO₂/TPAOH/H₂O/urea/Co²⁺ = 1.0/0.97/30/0.83/0.1), crystallization at 180°C, calcination, and critical acid washing with 4M HNO₃ at 80°C to remove unstable cobalt species. The acid washing step seems crucial for stabilizing the framework cobalt.
+
+The supported cobalt catalysts (Co/Al₂O₃ etc.) follow a simpler impregnation method: ultrasonic treatment, static aging, evaporation at 120°C, and calcination at 650°C. I notice the calcination temperature is high - probably to ensure strong metal-support interaction. 
+
+The PtSn/Al₂O₃ synthesis is more complex with sequential Sn deposition, Pt addition, dual calcination in humid air, potassium nitrate treatment for acidity control, and final reduction. The user emphasized excluding chloride residues, so I'll highlight the XPS verification.
+
+For S-1 zeolite (support material), it's a template-assisted hydrothermal synthesis similar to CoS-1 but without cobalt or urea. The 650°C calcination is consistent across most preparations.
+
+The user seems to need this for replicating experiments or literature review. I should emphasize material purity aspects (acid washing for CoS-1, Cl removal for PtSn) and critical parameters like temperatures, concentrations, and dwell times. The supplementary figures referenced suggest they may cross-check characterization data later.
+
+I'll structure the response by catalyst type with bullet-pointed steps for clarity, preserving all quantitative details (weights, concentrations, temperatures). The acid washing and reduction steps deserve special attention since they directly impact catalytic performance.
+
+answer: 
+
+Based on the provided text, here is a professional chemist's summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**1. CoS-1 (Cobalt-modified Siliceous MFI Zeolite Catalyst)**
+*   **Catalyst:** Cobalt atoms incorporated into the framework of a siliceous MFI zeolite (ZSM-5 type structure).
+*   **Loading:** ~0.5 wt% Co.
+*   **Synthesis Procedure (Hydrothermal + Acid Wash):**
+    1.  **Gel Preparation:** Stir TPAOH solution (100 g, 40 wt% in water), tetraethyl orthosilicate (TEOS, 42 g), and deionized water (21 g) at room temperature for 8 hours.
+    2.  **Cobalt Addition:** Pre-dissolve Co(NO₃)₂·6H₂O (6.0 g) in deionized water (30 ml) and add it to the above solution.
+    3.  **Urea Addition:** Add urea (10 g) to the mixture.
+    4.  **Stirring:** Stir the final mixture for another 2 hours.
+    5.  **Crystallization:** Transfer the mixture to an autoclave and heat hydrothermally at 180 °C for 3 days.
+    6.  **Post-Crystallization:** Wash the solid product with water.
+    7.  **Drying:** Dry the washed solid at 100 °C.
+    8.  **Calcination (Template Removal):** Calcinate the dried solid in air at 650 °C for 4 hours to remove the organic template (TPAOH). This yields the "raw powder".
+    9.  **Acid Washing (Critical Step):** Stir the raw powder (5 g) in aqueous nitric acid solution (200 ml, 4 M) at 80 °C for 10 hours. Filter and wash thoroughly. *This step selectively removes unstable extra-framework cobalt species (e.g., Co oxide nanoparticles/crystals on the external surface or within micropores).*
+    10. **Final Product:** The washed and dried solid is the CoS-1 catalyst.
+
+**2. Supported Cobalt Catalysts (Co/Al₂O₃, Co/TiO₂, Co/SiO₂, CoNP/S-1)**
+*   **Catalyst:** Cobalt oxide species supported on various metal oxides (Al₂O₃, TiO₂, SiO₂) or siliceous MFI zeolite (S-1, denoted as CoNP/S-1).
+*   **Loadings:** ~0.47 wt% Co (Al₂O₃), ~0.51 wt% Co (SiO₂), ~0.58 wt% Co (S-1).
+*   **Synthesis Procedure (Impregnation):**
+    1.  **Impregnation:** Mix the support material (e.g., 6 g Al₂O₃) with an aqueous Co(NO₃)₂·6H₂O solution (e.g., 6 ml, 0.085 mol L⁻¹ Co concentration).
+    2.  **Ultrasonic Treatment:** Subject the mixture to ultrasonic treatment for 1 hour.
+    3.  **Aging:** Allow the mixture to stand statically overnight at room temperature.
+    4.  **Drying:** Stir the mixture for 2 hours at 120 °C until all water is completely evaporated.
+    5.  **Calcination:** Calcinate the dried solid in air at 650 °C for 4 hours.
+    6.  **Final Product:** The calcined solid is the final catalyst (e.g., Co/Al₂O₃). *The same procedure is used for Co/TiO₂ (using TiO₂ support), Co/SiO₂ (using SiO₂ support), and CoNP/S-1 (using S-1 zeolite support).*
+
+**3. PtSn/Al₂O₃ (Bimetallic Platinum-Tin Catalyst)**
+*   **Catalyst:** Platinum and Tin supported on γ-Al₂O₃.
+*   **Synthesis Procedure (Sequential Impregnation):**
+    1.  **Sn Solution:** Dissolve SnCl₂·2H₂O (400 mg) in dilute nitric acid (10 ml, 1 M).
+    2.  **Sn Impregnation:** Add SnCl₂ solution (2 ml) to nanosized γ-Al₂O₃ (3.0 g, 20 nm particles).
+    3.  **Ultrasonic Treatment:** Subject the mixture to ultrasonic treatment for 1 hour.
+    4.  **Aging:** Allow the mixture to stand statically overnight at room temperature.
+    5.  **Drying:** Stir the mixture for 2 hours at 120 °C until all water is completely evaporated.
+    6.  **Calcination (Sn):** Calcinate the dried solid at 550 °C for an unspecified time in flowing humid air (50 ml min⁻¹, 20 vol% H₂O in air) to obtain Sn/Al₂O₃.
+    7.  **Pt Impregnation:** Apply H₂PtCl₆ aqueous solution (1.5 ml, 0.033 M Pt concentration) to Sn/Al₂O₃ (2 g).
+    8.  **Ultrasonic Treatment:** Subject the mixture to ultrasonic treatment for 1 hour.
+    9.  **Aging:** Allow the mixture to stand statically overnight at room temperature.
+    10. **Drying:** Stir the mixture for 2 hours at 120 °C until all water is completely evaporated.
+    11. **Calcination (Pt):** Calcinate the dried solid at 550 °C for an unspecified time in flowing humid air (50 ml min⁻¹, 20 vol% H₂O in air).
+    12. **Acidity Modification:** Mix the obtained powder (1 g) with KNO₃ aqueous solution (1 ml, 0.05 M) to eliminate acid sites.
+    13. **Reduction:** Reduce the material at 500 °C in flowing hydrogen (50 ml min⁻¹, 20% H₂ in Ar).
+    14. **Final Product:** The reduced solid is the PtSn/Al₂O₃ catalyst. *XPS confirmed the absence of residual Cl species.*
+
+**4. S-1 (Pure Siliceous MFI Zeolite Support)**
+*   **Material:** Pure silica MFI zeolite (silicalite-1), used as a support for CoNP/S-1.
+*   **Synthesis Procedure (Hydrothermal):**
+    1.  **Gel Preparation:** Stir TPAOH solution (100 g, 40 wt% in water), TEOS (42 g), and deionized water (21 g) at room temperature for 10 hours.
+    2.  **Crystallization:** Transfer the mixture to an autoclave and heat hydrothermally at 180 °C for 3 days.
+    3.  **Post-Crystallization:** Wash the solid product with water.
+    4.  **Drying:** Dry the washed solid at 100 °C.
+    5.  **Calcination (Template Removal):** Calcinate the dried solid in air at 650 °C for 4 hours to remove the organic template (TPAOH).
+    6.  **Final Product:** The calcined solid is the S-1 zeolite.

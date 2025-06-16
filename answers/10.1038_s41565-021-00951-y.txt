@@ -1,0 +1,114 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis of g-C 3 N 4 support. Urea was placed in a crucible and heated to 600 °C for 4 h in static air at a ramp rate of 5 °C min−1. The resulting yellow material was milled into fine powders in a mortar. Next, the yellow powder was placed in an open ceramic container and heated at 550 °C for another 4 h. A light-yellow powder of g-C 3 N 4 support was finally obtained.
+
+Synthesis of Cu 1 /g-C 3 N 4 catalysts. Cu ALD was carried out on a viscous-flow stainless steel tube reactor system (ACME (Beijing) Technology) at 300 °C using Cu(hfac) 2 and formaldehyde as the precursors. Ultrahigh-purity N 2 (99.999%) was used as a carrier gas at a flow rate of 60 ml min−1. The Cu(hfac) 2 precursor container was heated to 65 °C to reach a sufficient vapour pressure. The inlet manifold was held at 100 °C to avoid precursor condensation. The timing sequence was 300, 300, 40 and 180 s for Cu(hfac) 2 exposure, N 2 purge, formaldehyde exposure and N 2 purge, respectively. One, two, and ten cycles of Cu ALD were performed on g-C 3 N 4 to obtain Cu 1 (5.1%)/g-C 3 N 4 , Cu 1 (8.1%)/g-C 3 N 4 and Cu 1 (11.4%)/g-C 3 N 4 catalysts, respectively. When the Cu(hfac) 2 exposure time was reduced to 25 and 150 s for one cycle of Cu ALD on g-C 3 N 4 , Cu loadings of 0.5% and 2.7% were obtained, which were denoted as Cu 1 (0.5%)/g-C 3 N 4 and Cu 1 (2.7%)/g-C 3 N 4 , respectively.
+
+Synthesis of Ni 1 /g-C 3 N 4 and Ni 1 Cu 2 /g-C 3 N 4 catalysts. NiO x ALD was carried out on the g-C 3 N 4 support at 240 °C using NiCp 2 and ozone as the precursors. The NiCp 2 precursor container was heated to 90 °C to achieve a sufficient vapour pressure. The inlet manifold was held at 115 °C to avoid precursor condensation on the inner walls. The timing sequence was 1,260, 200, 1,260 and 200 s for NiCp 2 exposure, N 2 purge, O 3 exposure and N 2 purge, respectively. Different NiCp 2 exposure times (from 100 to 1,260 s) were used on g-C 3 N 4 to obtain a series of Ni single-atom catalysts with different Ni loadings (denoted as Ni 1 (x%)/g-C 3 N 4 , where x is the Ni loading). NiO x ALD was also carried on the Cu 1 (8.1%)/g-C 3 N 4 samples with different NiCp 2 exposure times (from 200 to 1,260 s). The resulting samples were denoted as Ni 1 (x%)Cu 1 (8.1%)/g-C 3 N 4 (the optimized sample, namely, Ni 1 (3.1%)Cu 1 (8.1%)/g-C 3 N 4 , was denoted as Ni 1 Cu 2 /g-C 3 N 4 ).
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalysts and procedures from a provided paragraph. Let me carefully analyze this technical text.
+
+First, I need to identify all catalysts mentioned. There are three main categories: g-C₃N₄ support material, copper-based catalysts (Cu₁/g-C₃N₄), and nickel-based catalysts (Ni₁/g-C₃N₄ and bimetallic Ni₁Cu₂/g-C₃N₄). The percentages in parentheses indicate metal loadings.
+
+For the g-C₃N₄ support synthesis: It's prepared by thermal decomposition of urea - heated to 600°C for 4 hours at 5°C/min ramp rate in static air, then milled and reheated at 550°C for another 4 hours. This two-step calcination is crucial for obtaining the desired graphitic carbon nitride structure.
+
+The Cu ALD process is quite detailed: They use Cu(hfac)₂ and formaldehyde precursors at 300°C in a flow reactor. Key parameters include nitrogen carrier gas flow (60 ml/min), precursor temperatures (65°C for Cu(hfac)₂, 100°C manifold), and precise timing sequences for exposure/purge cycles. By varying cycles and exposure times, they achieve different copper loadings from 0.5% to 11.4%.
+
+For nickel catalysts: They use NiCp₂ and ozone at 240°C. The precursor is heated to 90°C with manifold at 115°C. The cycle timing is much longer than copper - notably 1260s for each precursor exposure. They create both single-metal Ni catalysts and bimetallic versions by depositing nickel onto the copper-loaded samples.
+
+The bimetallic catalyst notation is interesting - Ni₁Cu₂ refers to the optimized ratio (3.1% Ni + 8.1% Cu) despite the atomic ratio being different from what the subscript suggests.
+
+I should emphasize the ALD precision - how cycle numbers and exposure times directly control metal loading. The user is clearly interested in reproducible synthesis details, so I'll highlight all critical parameters: temperatures, timings, gas flows, and precursor handling conditions. 
+
+The summary should maintain technical accuracy while being accessible, as the user might be using this for research replication or educational purposes. I'll organize it by catalyst type and present procedures stepwise with all specifications intact.
+
+answer: 
+
+Based on the provided text, here's a professional summary of the synthesized catalysts and their detailed synthesis procedures:
+
+**Synthesized Catalysts:**
+
+1.  **g-C₃N₄ Support:** The foundational material for all catalysts.
+2.  **Cu₁/g-C₃N₄ Catalysts:** Single-atom copper catalysts on g-C₃N₄ with varying Cu loadings:
+    *   Cu₁(0.5%)/g-C₃N₄
+    *   Cu₁(2.7%)/g-C₃N₄
+    *   Cu₁(5.1%)/g-C₃N₄
+    *   Cu₁(8.1%)/g-C₃N₄
+    *   Cu₁(11.4%)/g-C₃N₄
+3.  **Ni₁/g-C₃N₄ Catalysts:** Single-atom nickel catalysts on g-C₃N₄ with varying Ni loadings (denoted Ni₁(x%)/g-C₃N₄).
+4.  **Ni₁Cu₂/g-C₃N₄ Catalyst:** A bimetallic single-atom catalyst (optimized sample Ni₁(3.1%)Cu₁(8.1%)/g-C₃N₄). Other Ni₁(x%)Cu₁(8.1%)/g-C₃N₄ samples were also synthesized.
+
+**Detailed Synthesis Procedures:**
+
+1.  **Synthesis of g-C₃N₄ Support:**
+    *   **Material:** Urea.
+    *   **Apparatus:** Crucible.
+    *   **Procedure:**
+        *   Place urea in a crucible.
+        *   Heat in **static air** to **600 °C**.
+        *   **Ramp rate:** 5 °C min⁻¹.
+        *   **Hold time:** 4 hours at 600 °C.
+        *   **Result:** Yellow material.
+        *   Mill the yellow material into fine powders using a mortar.
+        *   Place the yellow powder in an **open ceramic container**.
+        *   Heat at **550 °C** for **4 hours**.
+    *   **Final Product:** Light-yellow g-C₃N₄ powder.
+
+2.  **Synthesis of Cu₁/g-C₃N₄ Catalysts (via Atomic Layer Deposition - ALD):**
+    *   **ALD System:** Viscous-flow stainless steel tube reactor (ACME (Beijing) Technology).
+    *   **Substrate Temperature:** 300 °C.
+    *   **Precursors:** Cu(hfac)₂ (Copper(II) hexafluoroacetylacetonate) and Formaldehyde (HCHO).
+    *   **Carrier Gas:** Ultrahigh-purity N₂ (99.999%).
+    *   **N₂ Flow Rate:** 60 ml min⁻¹.
+    *   **Precursor Conditions:**
+        *   Cu(hfac)₂ container temperature: **65 °C** (for sufficient vapor pressure).
+        *   Inlet manifold temperature: **100 °C** (to prevent condensation).
+    *   **Standard ALD Cycle Timing Sequence (per cycle):**
+        *   Cu(hfac)₂ exposure: **300 s**
+        *   N₂ purge: **300 s**
+        *   Formaldehyde exposure: **40 s**
+        *   N₂ purge: **180 s**
+    *   **Synthesis of Specific Catalysts:**
+        *   **Cu₁(5.1%)/g-C₃N₄:** **1 cycle** of standard timing on g-C₃N₄.
+        *   **Cu₁(8.1%)/g-C₃N₄:** **2 cycles** of standard timing on g-C₃N₄.
+        *   **Cu₁(11.4%)/g-C₃N₄:** **10 cycles** of standard timing on g-C₃N₄.
+        *   **Cu₁(0.5%)/g-C₃N₄:** **1 cycle** with modified timing: Cu(hfac)₂ exposure = **25 s** (other steps presumably standard).
+        *   **Cu₁(2.7%)/g-C₃N₄:** **1 cycle** with modified timing: Cu(hfac)₂ exposure = **150 s** (other steps presumably standard).
+
+3.  **Synthesis of Ni₁/g-C₃N₄ and Ni₁Cu₂/g-C₃N₄ Catalysts (via ALD):**
+    *   **ALD System:** Same viscous-flow reactor.
+    *   **Substrate Temperature:** 240 °C.
+    *   **Precursors:** NiCp₂ (Nickelocene) and Ozone (O₃).
+    *   **Carrier Gas:** Ultrahigh-purity N₂ (99.999%).
+    *   **Precursor Conditions:**
+        *   NiCp₂ container temperature: **90 °C** (for sufficient vapor pressure).
+        *   Inlet manifold temperature: **115 °C** (to prevent condensation).
+    *   **Standard NiOₓ ALD Cycle Timing Sequence (per cycle):**
+        *   NiCp₂ exposure: **1260 s**
+        *   N₂ purge: **200 s**
+        *   O₃ exposure: **1260 s**
+        *   N₂ purge: **200 s**
+    *   **Synthesis of Ni₁/g-C₃N₄ Catalysts:**
+        *   Perform NiOₓ ALD cycles on g-C₃N₄ support.
+        *   Vary the **NiCp₂ exposure time** within the cycle (**from 100 s to 1260 s**) while keeping other step times constant.
+        *   **Result:** Series of Ni₁(x%)/g-C₃N₄ catalysts with different Ni loadings.
+    *   **Synthesis of Ni₁Cu₂/g-C₃N₄ Catalysts:**
+        *   **Starting Substrate:** Pre-synthesized Cu₁(8.1%)/g-C₃N₄.
+        *   Perform NiOₓ ALD cycles on the Cu₁(8.1%)/g-C₃N₄ substrate.
+        *   Vary the **NiCp₂ exposure time** (**from 200 s to 1260 s**) while keeping other step times constant.
+        *   **Result:** Series of Ni₁(x%)Cu₁(8.1%)/g-C₃N₄ catalysts.
+        *   **Optimized Catalyst:** The sample with NiCp₂ exposure time yielding Ni₁(3.1%)Cu₁(8.1%)/g-C₃N₄ is denoted **Ni₁Cu₂/g-C₃N₄**.
+
+**Key Synthesis Features:**
+
+*   **g-C₃N₄ Support:** Prepared via two-stage thermal pyrolysis of urea under air.
+*   **Metal Deposition:** Achieved exclusively via **Atomic Layer Deposition (ALD)**.
+*   **Metal Control:** Precise control of metal loading (single-atom dispersion) through:
+    *   Number of ALD cycles (Cu).
+    *   Precursor exposure time within the ALD cycle (Cu & Ni).
+*   **Bimetallic Catalyst:** Synthesized by sequential ALD (Cu first, then Ni) onto the g-C₃N₄ support.
+*   **High Precision:** Critical parameters include temperatures (reactor, precursors, manifold), gas flow rates, and highly controlled timing sequences for precursor exposure and purging.

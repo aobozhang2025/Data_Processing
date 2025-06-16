@@ -1,0 +1,94 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Methods Catalyst preparation For the synthesis of y mol% MO x /Ni catalysts, a two-step co-precipitation method was employed. The synthetic methods for y mol% MO x /Ni cata- lysts (y = 50, 60, 70, 80 and 90) are the same. The synthesis of 90 mol% CeZrO x /Ni catalyst (10 mol% Ni/CeZrO x ) is taken as an example: a solu- tion of Zr(NO 3 ) 2 ·5H 2 O and Ce(NO 3 ) 3 ·6H 2 O was dispersed in 50 ml of ethanol using ultrasonic. Then, the oxalic acid ethanol solution (0.5 M) was added dropwise to the vigorously stirred mixed solution. The result- ing Zr(C 2 O 4 ) 2 and Ce 2 (C 2 O 4 ) 3 solids were separated by centrifugation and then dispersed in ethanol solution (solution I). Subsequently, Ni (NO 3 ) 2 ·6H 2 O and oxalic acid ethanol solution were simultaneous added dropwise into solution I. After 3 h of reaction, the resulting solid was separated by centrifugation and dried at 60 °C overnight. The synthetic methods for y mol% MO x /Ni catalysts (y = 3, 7, 9, 13, 20 and 40) are the same. The synthesis procedure of 13 mol% CeZrO x / Ni catalyst is taken as an example. First, Ni (NO 3 ) 2 ·6H 2 O was dissolved in 50 ml of ethanol. Then, oxalic acid ethanol solution (0.5 M) was added dropwise to the vigorously stirred mixed solution. The resulting NiC 2 O 4 solid was separated by centrifugation and dispersed in ethanol solution (solution II). Subsequently, a simultaneous dropwise addition of Zr(NO 3 ) 2 ·5H 2 O, Ce(NO 3 )3·6H 2 O and oxalic acid ethanol solution was carried out into solution II. After 3 h of reaction, the resulting solids were separated by centrifugation and dried at 60 °C for 12 h (refs. 25,28). The dried powder was calcined in a furnace at 400 °C for 3 h (ref. 27). The loadings of Ce, Zr and Ni were determined by ICP opti- cal emission spectrometry (OES).
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalyst and its synthesis procedures from a given paragraph. Let me analyze this carefully.
+
+First, the catalyst being synthesized is a mixed oxide supported nickel catalyst, specifically y mol% MOₓ/Ni where M represents CeZrOₓ (cerium-zirconium oxide). The composition varies with different nickel loadings: high Ni content (50-90 mol% MOₓ) and low Ni content (3-40 mol% MOₓ). 
+
+Looking at the synthesis methods, there are two distinct procedures based on nickel loading. For high nickel content catalysts (like 90 mol% CeZrOₓ/Ni), they use a method where they first precipitate the support oxides. They dissolve zirconium and cerium nitrates in ethanol, ultrasonicate, then add oxalic acid to form Zr(C₂O₄)₂ and Ce₂(C₂O₄)₃ precipitates. After centrifugation, they redisperse this in ethanol (Solution I), then co-precipitate nickel oxalate by adding Ni(NO₃)₂ and oxalic acid simultaneously.
+
+For low nickel content catalysts (like 13 mol% CeZrOₓ/Ni), they reverse the order: first precipitate nickel oxalate from Ni(NO₃)₂ and oxalic acid, centrifuge and redisperse in ethanol (Solution II), then add the cerium/zirconium precursors and oxalic acid simultaneously to deposit the support oxides onto the nickel compound.
+
+Both methods share common post-treatment steps: 3-hour reaction after precipitation, centrifugation, drying at 60°C (overnight or 12 hours), and finally calcination at 400°C for 3 hours. The catalysts are then characterized by ICP-OES for elemental composition.
+
+The user seems to be requesting a professional summary, so I should organize this clearly with catalyst identification, synthesis rationale (two-step co-precipitation adapted for composition), and detailed procedures separated by nickel loading. I'll include all critical parameters like concentrations (0.5M oxalic acid), temperatures, times, and characterization methods. Since they're a chemist, precise terminology and reaction details (like compound formations) are important. I should also note that the calcination step likely converts oxalates to oxides, forming the final MOₓ/Ni catalyst structure.
+
+answer: 
+
+Based on the provided text, here is a professional summary of the synthesized catalyst and its detailed synthesis procedures:
+
+**1. Catalyst Synthesized:**
+*   **Composition:** `y` mol% `MOₓ` / `Ni` catalysts, where `M` represents a mixed `CeZrOₓ` (Cerium-Zirconium Oxide) support.
+*   **Nickel Loading:** Two distinct series were synthesized:
+    *   **High Ni Content:** `y` = 50, 60, 70, 80, 90 mol% `CeZrOₓ` (meaning 50%, 40%, 30%, 20%, 10% Ni respectively). *Example:* 90 mol% `CeZrOₓ`/Ni = 10 wt% Ni/`CeZrOₓ`.
+    *   **Low Ni Content:** `y` = 3, 7, 9, 13, 20, 40 mol% `CeZrOₓ` (meaning 97%, 93%, 91%, 87%, 80%, 60% Ni respectively). *Example:* 13 mol% `CeZrOₓ`/Ni = 87 wt% Ni/`CeZrOₓ`.
+*   **Final Form:** After synthesis and calcination, the catalysts consist of Nickel Oxide (`NiO`) supported on a mixed Cerium-Zirconium Oxide (`CeZrOₓ`) framework. Reduction (not described here but implied for use) would generate metallic Ni nanoparticles on the `CeZrOₓ` support.
+
+**2. Synthesis Procedure Overview:**
+A **two-step co-precipitation method** using oxalic acid in ethanol was employed. The *order* of precipitation depends on the target nickel loading (high or low Ni). All steps use ethanol as the solvent.
+
+**3. Detailed Synthesis Procedures:**
+
+*   **Procedure for High Ni Content Catalysts (`y` = 50, 60, 70, 80, 90 mol% `CeZrOₓ` / Low `CeZrOₓ` Loading)**
+    *   **(Example: 90 mol% `CeZrOₓ`/Ni - 10 mol% Ni)**
+    1.  **Precipitation of Support Precursors (`CeZrOₓ`):**
+        *   Dissolve `Zr(NO₃)₂·5H₂O` and `Ce(NO₃)₃·6H₂O` in 50 ml ethanol.
+        *   Disperse the solution using ultrasonication.
+        *   Add a 0.5 M oxalic acid solution in ethanol **dropwise** to the vigorously stirred mixture.
+        *   **Result:** Precipitation of `Zr(C₂O₄)₂` (Zirconium Oxalate) and `Ce₂(C₂O₄)₃` (Cerium Oxalate).
+    2.  **Isolation & Dispersion of Support Precursors:**
+        *   Separate the precipitated oxalate solids by centrifugation.
+        *   Re-disperse the collected oxalate solids in fresh ethanol to form **Solution I**.
+    3.  **Co-precipitation of Ni:**
+        *   Add a solution of `Ni(NO₃)₂·6H₂O` and 0.5 M oxalic acid in ethanol **simultaneously** and **dropwise** into vigorously stirred **Solution I**.
+        *   **Result:** Precipitation of `NiC₂O₄` (Nickel Oxalate) onto the pre-formed `Ce/Zr` oxalate particles.
+    4.  **Aging & Isolation:**
+        *   Continue stirring the mixture for 3 hours.
+        *   Separate the resulting solid product by centrifugation.
+    5.  **Drying:**
+        *   Dry the solid at 60 °C overnight (~12 hours).
+
+*   **Procedure for Low Ni Content Catalysts (`y` = 3, 7, 9, 13, 20, 40 mol% `CeZrOₓ` / High `CeZrOₓ` Loading)**
+    *   **(Example: 13 mol% `CeZrOₓ`/Ni - 87 mol% Ni)**
+    1.  **Precipitation of Ni Precursor:**
+        *   Dissolve `Ni(NO₃)₂·6H₂O` in 50 ml ethanol.
+        *   Add a 0.5 M oxalic acid solution in ethanol **dropwise** to the vigorously stirred nickel solution.
+        *   **Result:** Precipitation of `NiC₂O₄` (Nickel Oxalate).
+    2.  **Isolation & Dispersion of Ni Precursor:**
+        *   Separate the precipitated `NiC₂O₄` solid by centrifugation.
+        *   Re-disperse the collected `NiC₂O₄` solid in fresh ethanol to form **Solution II**.
+    3.  **Co-precipitation of Support (`CeZrOₓ`):**
+        *   Add solutions of `Zr(NO₃)₂·5H₂O`, `Ce(NO₃)₃·6H₂O`, and 0.5 M oxalic acid in ethanol **simultaneously** and **dropwise** into vigorously stirred **Solution II**.
+        *   **Result:** Precipitation of `Zr(C₂O₄)₂` and `Ce₂(C₂O₄)₃` onto the pre-formed `NiC₂O₄` particles.
+    4.  **Aging & Isolation:**
+        *   Continue stirring the mixture for 3 hours.
+        *   Separate the resulting solid product by centrifugation.
+    5.  **Drying:**
+        *   Dry the solid at 60 °C for 12 hours.
+
+*   **Common Final Step (All Catalysts):**
+    6.  **Calcination:**
+        *   Calcine the dried oxalate precursor powder in a furnace.
+        *   **Temperature:** 400 °C
+        *   **Time:** 3 hours
+        *   **Result:** Decomposition of oxalates (`NiC₂O₄`, `Zr(C₂O₄)₂`, `Ce₂(C₂O₄)₃`) to form the final metal oxide catalyst (`NiO` supported on `CeZrOₓ`).
+
+**4. Post-Synthesis Characterization:**
+*   The actual loadings of Ce, Zr, and Ni in the final calcined catalysts were confirmed by Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES).
+
+**Key Synthesis Features:**
+*   **Method:** Two-step Co-precipitation (Order depends on Ni loading)
+*   **Solvent:** Ethanol
+*   **Precipitating Agent:** Oxalic Acid (0.5 M in Ethanol)
+*   **Precursor Compounds:** Metal Nitrates (`Zr(NO₃)₂·5H₂O`, `Ce(NO₃)₃·6H₂O`, `Ni(NO₃)₂·6H₂O`)
+*   **Intermediate Products:** Metal Oxalates (`Zr(C₂O₄)₂`, `Ce₂(C₂O₄)₃`, `NiC₂O₄`)
+*   **Drying:** 60 °C, 12 hours (Overnight)
+*   **Calcination:** 400 °C, 3 hours (Converts oxalates to oxides)
+*   **Stirring:** Vigorous throughout precipitation steps.
+*   **Mixing:** Simultaneous dropwise addition of metal salt + precipitant for the second precipitation step.
+*   **Separation:** Centrifugation.

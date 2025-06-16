@@ -96,12 +96,17 @@ class TextPDFParser:
 
     def extract_paragraphs_as_text(self) -> List[str]:
         """
-        Extract all paragraphs from the PDF as a list of strings in reading order.
+        Extract all paragraphs from the PDF as a list of strings in reading order,
+        properly handling paragraphs that span across multiple pages.
 
         Returns:
-            List[str]: Array of paragraph texts ordered by page number and vertical position
+            List[str]: Array of paragraph texts ordered by page number and vertical position,
+                      with cross-page paragraphs kept intact.
         """
         paragraphs = []
+        current_para = []
+        prev_y = None
+        prev_page_bottom = None
 
         for page_num, page in enumerate(self._pdf.pages):
             words = page.extract_words(
@@ -111,28 +116,46 @@ class TextPDFParser:
                 use_text_flow=True
             )
 
-            current_para = []
-            prev_y = None
+            # Get page dimensions to detect bottom of page
+            page_height = page.height
+            current_page_top = words[0]["top"] if words else 0
 
             for word in words:
+                # Initialize prev_y if first word of document
                 if prev_y is None:
                     prev_y = word["top"]
 
-                # New paragraph if vertical gap exceeds 1.5x font size
-                if abs(word["top"] - prev_y) > word.get("size", 10) * 1.5:
+                # Calculate vertical movement
+                vertical_gap = word["top"] - prev_y
+
+                # Check for new paragraph if:
+                # 1. Significant vertical gap (1.5x font size), AND
+                # 2. Not continuing from previous page bottom
+                if (abs(vertical_gap) > word.get("size", 10) * 1.5 and
+                        not (prev_page_bottom and abs(word["top"] - current_page_top) < word.get("size", 10) * 1.5)):
+
                     if current_para:
                         paragraphs.append(" ".join(current_para))
-                        current_para = []
+                        current_para =[]
 
                 current_para.append(word["text"])
                 prev_y = word["top"]
 
-            # Add the last paragraph of the page
+            # Check if paragraph continues to next page
             if current_para:
-                paragraphs.append(" ".join(current_para))
+                last_word = words[-1] if words else None
+                if last_word and (last_word["bottom"] > page_height - 20):  # 20 is tolerance near page bottom
+                    prev_page_bottom = last_word["bottom"]
+                else:
+                    paragraphs.append(" ".join(current_para))
+                    current_para = []
+                    prev_page_bottom = None
+
+                # Add any remaining text from the last paragraph
+        if current_para:
+            paragraphs.append(" ".join(current_para))
 
         return paragraphs
-
 
     def close(self):
         """Close the PDF file and release resources."""

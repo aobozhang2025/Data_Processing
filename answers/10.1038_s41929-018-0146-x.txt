@@ -1,0 +1,116 @@
+question: 
+
+Imagine you are a chemist that is a professional in synthesizing catalysts, please summarize what catalyst is synthesized and the synthesis procedures with all the details from the following paragraph: 
+
+Synthesis of Cu-SAs/N-C. Following a normal procedure, the copper foam and powder of ZIF-8 (100 mg) were separately placed on a porcelain boat. The porcelain boat was heated in a tube furnace to 1,173 K (at 5 K min−1) in a stream of argon (10 ml min−1) for 1 h and then NH 3 (10 ml min−1) for 1 h to yield Cu- SAs/N-C. The yield of Cu-SAs/N-C was about 26 mg. The detailed scale-up process is shown in the Supplementary Video. The copper content was measured as 0.54 wt% based on ICP-AES analysis. For comparison, the copper foam and ZIF-8 were separately placed on the porcelain boat and heated to 1,173 K (at 5 K min−1) in a stream of argon (10 ml min−1) for 2 h to yield pyrolysed ZIF-8. Syntheses of Ni-SAs/N-C and Co-SAs/N-C were the same as for Cu-SAs/N-C, but using nickel foam or cobalt foam, respectively. Cu-NPs/N-C was prepared by extending the evaporation time to 5 h.
+
+Synthesis of ZIF-8. Following a typical procedure, 0.558 g Zn(NO 3 ) 2 ·6H 2 O was dissolved in 20 ml methanol and subsequently added to 20 ml methanol containing 0.616 g 2-methylimidazole under ultrasound for 10 min at room temperature. The ZIF-8 was then grown under static at 308 K for 12 h. The precipitates were centrifuged, washed with methanol and dried in a vacuum at 338 K for overnight.
+
+Synthesis of Cu-SAs/N-G. Copper foam and fluffy graphene oxide powder (50 mg) were placed separately on a porcelain boat and heated to 1,073 K (at 5 K min−1) for 1 h in a stream of NH 3 (10 ml min−1) to yield Cu-SAs/N-G. The copper content was measured as 1.26 wt% based on ICP-AES analysis.
+
+reasoning: 
+
+Okay, the user wants me to act as a professional chemist specializing in catalyst synthesis and summarize the catalyst synthesis procedures from a detailed paragraph. Let me carefully analyze this technical text.
+
+First, I need to identify all catalysts mentioned: Cu-SAs/N-C, pyrolysed ZIF-8, Ni-SAs/N-C, Co-SAs/N-C, Cu-NPs/N-C, ZIF-8 itself, and Cu-SAs/N-G. The core procedure seems to be the single-atom catalyst synthesis using metal foams and support materials.
+
+For Cu-SAs/N-C, the key steps involve placing copper foam and ZIF-8 powder separately in a porcelain boat, then a two-stage thermal treatment: first argon atmosphere at 1173K, then switching to ammonia. The temperature ramp rate (5K/min) and gas flow rates (10ml/min) are crucial parameters. The yield and copper content (0.54 wt%) from ICP-AES provide quality metrics. 
+
+I notice the comparison sample (pyrolysed ZIF-8) helps establish the importance of ammonia in creating single-atom sites. The metal variations (Ni, Co) follow identical protocols with different foams, while Cu-NPs/N-C demonstrates how extended evaporation time forms nanoparticles instead.
+
+The ZIF-8 synthesis precursor is equally important - the methanol-based preparation with specific molar ratios, ultrasound mixing, and controlled crystallization at 308K. This zeolitic framework is clearly essential as the carbon/nitrogen source.
+
+The alternative catalyst Cu-SAs/N-G uses graphene oxide instead of ZIF-8, with a lower temperature (1073K) and direct ammonia flow. The higher copper loading (1.26 wt%) suggests different anchoring efficiency on nitrogen-doped graphene.
+
+As a synthetic chemist, I should emphasize the critical details: spatial separation of precursors, gas switching sequence, temperature profiles, and how slight parameter changes (time, support material) dramatically alter catalyst morphology (single atoms vs nanoparticles). The supplementary video mention implies scalability is validated.
+
+The user seems to need this for replication or literature comparison, so I'll structure the response by catalyst type while highlighting common procedures and critical variables. The ICP data provides essential quality control benchmarks they'd need to verify their own syntheses.
+
+answer: 
+
+Based on the provided text, here's a professional summary of the catalysts synthesized and their detailed procedures:
+
+**Synthesized Catalysts & Key Characteristics:**
+
+1.  **Cu-SAs/N-C:** Copper single atoms on Nitrogen-doped Carbon (from ZIF-8). Cu: 0.54 wt%.
+2.  **Pyrolysed ZIF-8:** Control material, N-doped carbon without intentional metal doping.
+3.  **Ni-SAs/N-C:** Nickel single atoms on Nitrogen-doped Carbon. Synthesized like Cu-SAs/N-C.
+4.  **Co-SAs/N-C:** Cobalt single atoms on Nitrogen-doped Carbon. Synthesized like Cu-SAs/N-C.
+5.  **Cu-NPs/N-C:** Copper *nanoparticles* on Nitrogen-doped Carbon. Modified Cu-SAs/N-C procedure.
+6.  **ZIF-8:** Zeolitic Imidazolate Framework-8 (Zn-based MOF), precursor for N-C supports.
+7.  **Cu-SAs/N-G:** Copper single atoms on Nitrogen-doped *Graphene*. Cu: 1.26 wt%.
+
+**Detailed Synthesis Procedures:**
+
+1.  **ZIF-8 Synthesis (Precursor for N-C):**
+    *   **Chemicals:** Zn(NO₃)₂·6H₂O (0.558 g), 2-methylimidazole (0.616 g), Methanol (40 ml total).
+    *   **Procedure:**
+        *   Dissolve Zn(NO₃)₂·6H₂O in 20 ml methanol.
+        *   Dissolve 2-methylimidazole in a separate 20 ml methanol.
+        *   Combine both solutions under ultrasound irradiation for 10 min at room temperature.
+        *   Allow the mixture to stand statically at 308 K (35°C) for 12 hours for crystallization.
+        *   Centrifuge to collect the white precipitate.
+        *   Wash the precipitate thoroughly with methanol.
+        *   Dry the washed ZIF-8 under vacuum at 338 K (65°C) overnight.
+
+2.  **Cu-SAs/N-C, Ni-SAs/N-C, Co-SAs/N-C (Single Atoms on N-C):**
+    *   **Materials:** Metal foam (Cu, Ni, or Co) and ZIF-8 powder (100 mg).
+    *   **Apparatus:** Tube furnace, porcelain boat, Argon (Ar) gas, Ammonia (NH₃) gas.
+    *   **Procedure:**
+        *   Place the metal foam and ZIF-8 powder **separately** within the same porcelain boat (no physical mixing).
+        *   Load the boat into the tube furnace.
+        *   Heat the furnace to 1173 K (900°C) at a ramp rate of 5 K min⁻¹ under a continuous Ar flow (10 ml min⁻¹).
+        *   Hold at 1173 K under Ar flow for 1 hour.
+        *   **Switch** the gas flow from Ar to NH₃ (10 ml min⁻¹).
+        *   Hold at 1173 K under NH₃ flow for 1 hour.
+        *   Cool down (ramp rate not specified, assumed natural or controlled cooling).
+        *   Collect the product (e.g., ~26 mg for Cu-SAs/N-C from 100 mg ZIF-8).
+    *   *Note for Ni/Co:* Use Nickel foam or Cobalt foam instead of Copper foam.
+
+3.  **Pyrolysed ZIF-8 (Control):**
+    *   **Materials:** Copper foam (control component), ZIF-8 powder.
+    *   **Apparatus:** Tube furnace, porcelain boat, Argon (Ar) gas.
+    *   **Procedure:**
+        *   Place copper foam and ZIF-8 powder **separately** within the same porcelain boat.
+        *   Load the boat into the tube furnace.
+        *   Heat the furnace to 1173 K (900°C) at a ramp rate of 5 K min⁻¹ under a continuous Ar flow (10 ml min⁻¹).
+        *   Hold at 1173 K under Ar flow for **2 hours**.
+        *   Cool down.
+        *   Collect the product (ZIF-8 pyrolyzed to N-C without significant Cu incorporation from the foam).
+
+4.  **Cu-NPs/N-C (Nanoparticles on N-C):**
+    *   **Materials:** Copper foam, ZIF-8 powder (100 mg).
+    *   **Apparatus:** Tube furnace, porcelain boat, Argon (Ar) gas, Ammonia (NH₃) gas.
+    *   **Procedure:**
+        *   Follow the **initial stages** of the Cu-SAs/N-C procedure exactly (separate placement, ramp to 1173 K @ 5 K min⁻¹ under Ar).
+        *   Hold at 1173 K under Ar flow for 1 hour.
+        *   Switch the gas flow from Ar to NH₃ (10 ml min⁻¹).
+        *   **Hold at 1173 K under NH₃ flow for 5 hours** (instead of 1 hour).
+        *   Cool down.
+        *   Collect the product (results in Cu nanoparticles instead of single atoms).
+
+5.  **Cu-SAs/N-G (Single Atoms on N-doped Graphene):**
+    *   **Materials:** Copper foam, Fluffy Graphene Oxide (GO) powder (50 mg).
+    *   **Apparatus:** Tube furnace, porcelain boat, Ammonia (NH₃) gas.
+    *   **Procedure:**
+        *   Place the copper foam and GO powder **separately** within the same porcelain boat.
+        *   Load the boat into the tube furnace.
+        *   Heat the furnace to **1073 K (800°C)** at a ramp rate of 5 K min⁻¹ under a continuous **NH₃** flow (10 ml min⁻¹). *(Note: No initial Ar step, direct NH₃)*
+        *   Hold at 1073 K under NH₃ flow for 1 hour.
+        *   Cool down.
+        *   Collect the product.
+
+**Critical Synthesis Details Emphasized:**
+
+*   **Precursor Separation:** Metal foam and support precursor (ZIF-8 or GO) are always placed *separately* in the boat, not mixed. This facilitates vapor-phase metal transport.
+*   **Atmosphere & Gas Switching (N-C):** Crucial 2-step atmosphere for N-C supports: Initial pyrolysis/stabilization under inert Ar (1h), followed by nitridation/metal incorporation under NH₃ (1h for SAs, 5h for NPs).
+*   **Atmosphere (N-G):** Direct nitridation/metal incorporation under NH₃ only.
+*   **Temperature:** 1173 K for N-C supports; 1073 K for N-G support.
+*   **Ramp Rate:** Consistent 5 K min⁻¹ for all thermal treatments.
+*   **Gas Flow Rate:** Consistent 10 ml min⁻¹ for all gases (Ar, NH₃).
+*   **Time:** Key variable differentiating SA formation (1h NH₃) vs NP formation (5h NH₃) on N-C.
+*   **Metal Source:** Metal foams act as the sacrificial source of metal atoms (Cu, Ni, Co).
+*   **Support Precursors:** ZIF-8 (for N-C) or Graphene Oxide (for N-G).
+*   **Characterization:** Metal loading confirmed by ICP-AES.
+
+This summary captures all catalysts, their defining synthesis parameters, and the critical procedural details provided in the text. The scale-up process mentioned for Cu-SAs/N-C is referenced to a supplementary video.

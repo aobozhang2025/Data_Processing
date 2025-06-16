@@ -70,7 +70,7 @@ class CatalystSynthesisExtractor:
         ranked = [(self.count_keywords_in_string(s), s) for s in strings]
         return sorted(ranked, key=lambda x: x[0], reverse=True)
 
-    def get_top_strings(self, strings: List[str], n: int = 5) -> List[str]:
+    def get_top_strings(self, strings: List[str], n: int = 20) -> List[str]:
         """
         Get the top n strings with the most synthesis keywords.
 
