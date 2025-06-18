@@ -3,12 +3,10 @@ import re
 from typing import List, Dict, Optional
 
 
-class DataFormater:
+class DataFormatter:
     """
-    A class to parse catalyst synthesis questions and answers from text files and save them to JSON format.
-
-    Attributes:
-        qa_pairs (List[Dict]): List of question-answer pairs in dictionary format
+    A class to parse catalyst synthesis questions and answers from text files,
+    keeping the answer content intact, and save them to JSON format.
     """
 
     def __init__(self):
@@ -17,7 +15,7 @@ class DataFormater:
 
     def extract_qa_from_file(self, file_path: str) -> Optional[Dict]:
         """
-        Extract question and answer about catalyst synthesis from a single text file.
+        Extract the complete question and answer about catalyst synthesis from a text file.
 
         Args:
             file_path: Path to the text file containing catalyst synthesis information.
@@ -29,41 +27,30 @@ class DataFormater:
             with open(file_path, 'r', encoding='utf-8') as file:
                 content = file.read()
 
-                # Find the answer section
+                # Extract the question (from the "question:" section)
+                question_match = re.search(
+                    r'question:\s*\n\n(.*?)(?=\n\nreasoning:|\n\nanswer:|\n\n\[file content end\]|\Z)',
+                    content,
+                    re.DOTALL
+                )
+
+                # Extract the complete answer (everything after "answer:")
                 answer_match = re.search(
                     r'answer:\s*\n\n(.*?)(?=\n\n\[file content end\]|\Z)',
                     content,
                     re.DOTALL
                 )
 
-                if not answer_match:
-                    print(f"No answer section found in {file_path}")
+                if not question_match or not answer_match:
+                    print(f"Could not extract complete QA pair from {file_path}")
                     return None
 
-                answer_text = answer_match.group(1).strip()
+                question = question_match.group(1).strip()
+                answer = answer_match.group(1).strip()
 
-                # Extract the synthesized catalysts section
-                synthesized_match = re.search(
-                    r'Synthesized Catalysts.*?\n(.*?)\n\n',
-                    answer_text,
-                    re.DOTALL
-                )
-
-                if not synthesized_match:
-                    # Alternative pattern if "Synthesized Catalysts" isn't found
-                    synthesized_match = re.search(
-                        r'1\..*?Catalyst Synthesized.*?\n(.*?)\n\n',
-                        answer_text,
-                        re.DOTALL
-                    )
-
-                # Create the question and clean the answer
-                question = "What catalysts are synthesized and what are their synthesis procedures?"
-                answer = self._clean_answer_text(answer_text)
-
-                if not answer:
-                    print(f"No valid answer content found in {file_path}")
-                    return None
+                # Standardize the question if it's too generic
+                if "Imagine you are a chemist" in question:
+                    question = "What catalysts are synthesized and what are their synthesis procedures?"
 
                 return {
                     "conversation": [{
@@ -75,23 +62,6 @@ class DataFormater:
         except Exception as e:
             print(f"Error processing file {file_path}: {str(e)}")
             return None
-
-    def _clean_answer_text(self, answer_text: str) -> str:
-        """
-        Clean up the answer text by removing unnecessary sections.
-
-        Args:
-            answer_text: Raw answer text from the file
-
-        Returns:
-            Cleaned answer text
-        """
-        # Remove any "Key Synthesis Features" or similar sections
-        cleaned = re.sub(r'\*\*Key.*', '', answer_text, flags=re.DOTALL)
-        cleaned = re.sub(r'\*\*Note.*', '', cleaned, flags=re.DOTALL)
-        cleaned = re.sub(r'\[.*?\]', '', cleaned)  # Remove any citation markers
-        cleaned = cleaned.strip()
-        return cleaned
 
     def process_files(self, file_paths: List[str]) -> None:
         """
@@ -131,3 +101,29 @@ class DataFormater:
             List of QA pair dictionaries
         """
         return self.qa_pairs
+
+
+# Example usage
+if __name__ == "__main__":
+    # List your text files here
+    text_files = [
+        "10.1038_nature21672.txt",
+        "10.1038_s41586-020-03130-6.txt",
+        "10.1038_s41586-022-05251-6.txt",
+        "10.1038_s41586-023-06060-1.txt",
+        "10.1038_s41586-024-08483-w.txt",
+        "10.1038_s41586-025-09068-x.txt"
+    ]
+
+    # Create parser instance
+    parser = DataFormatter()
+
+    # Process files
+    parser.process_files(text_files)
+
+    # Save to JSON
+    parser.save_to_json("catalyst_synthesis_qa_pairs.json")
+
+    # Optionally get the QA pairs for further processing
+    qa_pairs = parser.get_qa_pairs()
+    print(f"Collected {len(qa_pairs)} QA pairs about catalyst synthesis.")

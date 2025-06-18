@@ -1,6 +1,6 @@
 import os
 
-from DataHandler.DataFormater import DataFormater
+from DataHandler.DataFormatter import DataFormatter
 from Util.Util import Util
 
 if __name__ == "__main__":
@@ -11,7 +11,7 @@ if __name__ == "__main__":
     text_files = Util.get_files_in_directory(directory)
 
     # Create parser instance
-    parser = DataFormater()
+    parser = DataFormatter()
 
     # Process files
     parser.process_files(text_files)
